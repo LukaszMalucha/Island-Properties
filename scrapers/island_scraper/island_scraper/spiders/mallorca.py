@@ -35,8 +35,8 @@ options.add_argument("--no-sandbox")
 
 class MallorcaSpider(scrapy.Spider):
 	name = 'mallorca'
-	allowed_domains = ['www.idealista.com']
-	start_urls = ['http://www.idealista.com/']
+	allowed_domains = ['www.google.com']
+	start_urls = ['http://www.google.com']
 
 	def parse(self, response):
 		agent = user_agent_rotator.get_random_user_agent()
@@ -115,6 +115,7 @@ class MallorcaSpider(scrapy.Spider):
 				except:
 					pass	
 
+				l.add_value('title', title)		
 				l.add_value('island', "Mallorca")		
 				l.add_value('locality', locality)
 				l.add_value('area', area)

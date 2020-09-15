@@ -14,14 +14,6 @@ from time import sleep
 import csv
 from random import randrange
 from datetime import datetime
-from random_user_agent.user_agent import UserAgent
-from random_user_agent.params import SoftwareName, OperatingSystem
-
-software_names = [SoftwareName.CHROME.value]
-operating_systems = [OperatingSystem.WINDOWS.value, OperatingSystem.LINUX.value] 
-
-user_agent_rotator = UserAgent(software_names=software_names, operating_systems=operating_systems, limit=100)
-
 
 ## AVOID HANDSHAKE ERRORS
 options = webdriver.ChromeOptions()
@@ -35,12 +27,10 @@ options.add_argument("--no-sandbox")
 
 class TenerifeSpider(scrapy.Spider):
 	name = 'tenerife'
-	allowed_domains = ['www.idealista.com']
-	start_urls = ['http://www.idealista.com/']
+	allowed_domains = ['www.google.com']
+	start_urls = ['http://www.google.com/']
 
 	def parse(self, response):
-		agent = user_agent_rotator.get_random_user_agent()
-		options.add_argument(f"user-agent={agent}")
 		self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 		# self.driver = webdriver.Firefox(executable_path=str(Path(Path.cwd(), "geckodriver.exe")))
 		self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
@@ -65,8 +55,7 @@ class TenerifeSpider(scrapy.Spider):
 
 
 		for page in range (pages_count):
-			agent = user_agent_rotator.get_random_user_agent()
-			options.add_argument(f"user-agent={agent}")
+
 			self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 			# self.driver = webdriver.Firefox(executable_path=str(Path(Path.cwd(), "geckodriver.exe")))
 
@@ -115,6 +104,7 @@ class TenerifeSpider(scrapy.Spider):
 				except:
 					pass	
 
+				l.add_value('title', title)		
 				l.add_value('island', "Mallorca")		
 				l.add_value('locality', locality)
 				l.add_value('area', area)
