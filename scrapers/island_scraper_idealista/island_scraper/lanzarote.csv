@@ -1,0 +1,511 @@
+id,title,island,locality,area,price,beds,size,floor,date
+,"Flat / Apartment in Playa Blanca, Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,139000,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in calle Teide, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,195000,2,56,1,2020-09-15
+,"Flat / Apartment in calle Guatemala, NN, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,110000,2,64,2,2020-09-15
+,"Flat / Apartment in calle Luis Morote, Centro, Arrecife",Lanzarote,Arrecife,Centro,128000,3,70,3,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,98500,2,77,Ground floor,2020-09-15
+,"Flat / Apartment in calle León y Castillo, NN, Centro, Arrecife",Lanzarote,Arrecife,Centro,130000,2,80,3,2020-09-15
+,"Duplex in calle Colombia, 7, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,198450,3,109,Ground floor,2020-09-15
+,"Flat / Apartment in calle el Tres Papás, Arrecife, NN, Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,2,59,Ground floor,2020-09-15
+,"Flat / Apartment in Arrecife, Centro, Arrecife",Lanzarote,Arrecife,Centro,123000,2,80,3,2020-09-15
+,"Flat / Apartment in Calle Coronel Bens, Centro, Arrecife",Lanzarote,Arrecife,Centro,109500,2,81,3,2020-09-15
+,"Flat / Apartment in Calle Coronel Bens, Centro, Arrecife",Lanzarote,Arrecife,Centro,124000,3,113,3,2020-09-15
+,"Flat / Apartment in RIEGO, 11, Centro, Arrecife",Lanzarote,Arrecife,Centro,81500,3,63,2,2020-09-15
+,"Flat / Apartment in calle José Ortega y Gasset, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,108000,2,80,,2020-09-15
+,"Flat / Apartment in Perez Galdos, 31, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,135000,3,78,1,2020-09-15
+,"Flat / Apartment in calle Alemania, NN, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,120000,3,77,Ground floor,2020-09-15
+,"Flat / Apartment in calle Carnicería, Centro, Arrecife",Lanzarote,Arrecife,Centro,86000,2,55,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,135000,4,97,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Valterra-La Vega-Las Salinas,135000,4,97,1,2020-09-15
+,"Flat / Apartment in calle de Campoamor, NN, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,74000,2,65,Mezzanine,2020-09-15
+,"Flat / Apartment in Triana, 99, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,199000,3,90,2,2020-09-15
+,"Flat / Apartment in calle Alonso Quesada, NN, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,85000,3,90,2,2020-09-15
+,"Flat / Apartment in calle Almeria, NN, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,92000,2,61,Ground floor,2020-09-15
+,"Flat / Apartment in calle Benito Perez Galdos, NN, Tahiche, Teguise",Lanzarote,Teguise,Tahiche,130000,3,100,1,2020-09-15
+,"Flat / Apartment in calle de Alfonso XII, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,84000,2,70,1,2020-09-15
+,Duplex in San Bartolomé,Lanzarote,San Bartolomé,Argana-Maneje,84000,2,70,1,2020-09-15
+,"Flat / Apartment in calle Lérida, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,115000,2,64,2,2020-09-15
+,"Flat / Apartment in calle Extremadura, 18, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,140000,3,100,1,2020-09-15
+,"Flat / Apartment in Calle Cribo, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,60000,2,63,1,2020-09-15
+,"Flat / Apartment in Calle Cribo, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90500,3,105,1,2020-09-15
+,"Flat / Apartment in calle la Luchada, Tías, Tias",Lanzarote,Tias,Tías,119600,2,73,1,2020-09-15
+,"Flat / Apartment in Playa Blanca, Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,139000,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in calle Teide, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,195000,2,56,1,2020-09-15
+,"Flat / Apartment in calle Guatemala, NN, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,110000,2,64,2,2020-09-15
+,"Flat / Apartment in calle Luis Morote, Centro, Arrecife",Lanzarote,Arrecife,Centro,128000,3,70,3,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,98500,2,77,Ground floor,2020-09-15
+,"Flat / Apartment in calle León y Castillo, NN, Centro, Arrecife",Lanzarote,Arrecife,Centro,130000,2,80,3,2020-09-15
+,"Duplex in calle Colombia, 7, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,198450,3,109,Ground floor,2020-09-15
+,"Flat / Apartment in calle el Tres Papás, Arrecife, NN, Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,2,59,Ground floor,2020-09-15
+,"Flat / Apartment in Arrecife, Centro, Arrecife",Lanzarote,Arrecife,Centro,123000,2,80,3,2020-09-15
+,"Flat / Apartment in Calle Coronel Bens, Centro, Arrecife",Lanzarote,Arrecife,Centro,109500,2,81,3,2020-09-15
+,"Flat / Apartment in Calle Coronel Bens, Centro, Arrecife",Lanzarote,Arrecife,Centro,124000,3,113,3,2020-09-15
+,"Flat / Apartment in RIEGO, 11, Centro, Arrecife",Lanzarote,Arrecife,Centro,81500,3,63,2,2020-09-15
+,"Flat / Apartment in calle José Ortega y Gasset, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,108000,2,80,,2020-09-15
+,"Flat / Apartment in Perez Galdos, 31, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,135000,3,78,1,2020-09-15
+,"Flat / Apartment in calle Alemania, NN, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,120000,3,77,Ground floor,2020-09-15
+,"Flat / Apartment in calle Carnicería, Centro, Arrecife",Lanzarote,Arrecife,Centro,86000,2,55,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,135000,4,97,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Valterra-La Vega-Las Salinas,135000,4,97,1,2020-09-15
+,"Flat / Apartment in calle de Campoamor, NN, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,74000,2,65,Mezzanine,2020-09-15
+,"Flat / Apartment in Triana, 99, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,199000,3,90,2,2020-09-15
+,"Flat / Apartment in calle Alonso Quesada, NN, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,85000,3,90,2,2020-09-15
+,"Flat / Apartment in calle Almeria, NN, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,92000,2,61,Ground floor,2020-09-15
+,"Flat / Apartment in calle Benito Perez Galdos, NN, Tahiche, Teguise",Lanzarote,Teguise,Tahiche,130000,3,100,1,2020-09-15
+,"Flat / Apartment in calle de Alfonso XII, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,84000,2,70,1,2020-09-15
+,Duplex in San Bartolomé,Lanzarote,San Bartolomé,Argana-Maneje,84000,2,70,1,2020-09-15
+,"Flat / Apartment in calle Lérida, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,115000,2,64,2,2020-09-15
+,"Flat / Apartment in calle Extremadura, 18, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,140000,3,100,1,2020-09-15
+,"Flat / Apartment in Calle Cribo, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,60000,2,63,1,2020-09-15
+,"Flat / Apartment in Calle Cribo, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90500,3,105,1,2020-09-15
+,"Flat / Apartment in calle la Luchada, Tías, Tias",Lanzarote,Tias,Tías,119600,2,73,1,2020-09-15
+,"Flat / Apartment in calle Luis Morote, Centro, Arrecife",Lanzarote,Arrecife,Centro,128000,3,60,2,2020-09-15
+,"Flat / Apartment in calle Chimidas, NN, San Bartolomé",Lanzarote,San Bartolomé,NN,199000,3,78,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,NN,199000,3,78,Ground floor,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,175000,3,103,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,150000,3,90,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Centro,150000,3,90,1,2020-09-15
+,"Flat / Apartment in calle Tindaya, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,94000,2,67,Ground floor,2020-09-15
+,"Flat / Apartment in calle PUERTO RICO, 16, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,121500,2,85,1,2020-09-15
+,"Flat / Apartment in calle Guenia, Centro, Arrecife",Lanzarote,Arrecife,Centro,155000,3,110,3,2020-09-15
+,"Flat / Apartment in San Simon, 26, San Bartolomé",Lanzarote,San Bartolomé,26,135000,5,129,1,2020-09-15
+,"Flat / Apartment in Periodista Viera, Centro, Arrecife",Lanzarote,Arrecife,Centro,100000,3,85,2,2020-09-15
+,"Flat / Apartment in calle Lebrillo, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,124000,3,113,1,2020-09-15
+,"Flat / Apartment in calle Isla de Lobos, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,150000,2,60,1,2020-09-15
+,"Flat / Apartment in JUANA DE ARCOS, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,150100,3,89,1,2020-09-15
+,"Flat / Apartment in JUANA DE ARCOS, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,125110,2,75,2,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,139000,4,137,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,100419,3,78,Ground floor,2020-09-15
+,"Duplex in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,149000,2,81,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,97837,3,84,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,91774,2,78,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,159000,3,100,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,158000,3,85,1,2020-09-15
+,"Duplex in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,135000,2,85,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,110000,2,66,1,2020-09-15
+,"Flat / Apartment in calle Juana de Arco, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,103000,3,80,Ground floor,2020-09-15
+,"Flat / Apartment in avenida las Palmeras, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,175000,2,78,2,2020-09-15
+,"Flat / Apartment in calle Juana de Arco, 38, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,128000,3,90,1,2020-09-15
+,"Flat / Apartment in Av. Faro Pechiguera, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,125000,2,76,1,2020-09-15
+,"Flat / Apartment in Parranda de los buches, 1, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,167940,3,112,1,2020-09-15
+,"Flat / Apartment in calle Blasco Ibáñez, NN, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,101000,3,193,Ground floor,2020-09-15
+,"Flat / Apartment in PANAMA, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,140000,2,95,Ground floor,2020-09-15
+,"Flat / Apartment in calle Norte, Centro, Arrecife",Lanzarote,Arrecife,Centro,136000,3,98,Ground floor,2020-09-15
+,"Flat / Apartment in Nasa, San Bartolomé",Lanzarote,San Bartolomé,Nasa,192000,2,75,1,2020-09-15
+,"Flat / Apartment in calle Ingeniero Paz Peraza, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,179000,3,106,1,2020-09-15
+,"Flat / Apartment in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,148000,2,72,Ground floor,2020-09-15
+,"Flat / Apartment in calle León y Castillo, Centro, Arrecife",Lanzarote,Arrecife,Centro,185000,3,110,2,2020-09-15
+,"Duplex in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,93000,4,90,Ground floor,2020-09-15
+,"Duplex in Centro, Arrecife",Lanzarote,Arrecife,Centro,173000,2,90,Ground floor,2020-09-15
+,"Flat / Apartment in Calle Coronel Bens, Centro, Arrecife",Lanzarote,Arrecife,Centro,129000,3,113,Ground floor,2020-09-15
+,"Flat / Apartment in calle Alegranza, 12, Centro, Arrecife",Lanzarote,Arrecife,Centro,96000,2,50,,2020-09-15
+,"Flat / Apartment in avenida del mar, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,148500,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in Parroco San Martín, 6, San Bartolomé",Lanzarote,San Bartolomé,6,96500,2,57,1,2020-09-15
+,"Flat / Apartment in calle Juana de Arco, Arrecife, NN, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,106000,2,70,1,2020-09-15
+,"Flat / Apartment in calle Eugenio Dors, NN, Centro, Arrecife",Lanzarote,Arrecife,Centro,165000,3,121,3,2020-09-15
+,"Duplex in calle Guanarame, 115, San Bartolomé",Lanzarote,San Bartolomé,115,185000,3,80,Ground floor,2020-09-15
+,"Duplex in calle las Adelfas, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,169000,2,98,Mezzanine,2020-09-15
+,"Flat / Apartment in calle Janubio, 10, Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,173000,2,58,Ground floor,2020-09-15
+,"Flat / Apartment in PLAN PARCIAL MONTAÑA ROJA, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,115000,2,64,1,2020-09-15
+,"Flat / Apartment in JUANA DE ARCOS, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,112150,2,64,1,2020-09-15
+,"Flat / Apartment in calle Volcán de la Corona, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,195000,2,73,Ground floor,2020-09-15
+,"Flat / Apartment in calle Aires de Lima, NN, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,78000,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in calle Janubio ,, Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,176000,2,70,1,2020-09-15
+,"Flat / Apartment in calle los Lirios, Tías, Tias",Lanzarote,Tias,Tías,165000,4,90,1,2020-09-15
+,"Flat / Apartment in calle Vicente Guerra, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,99000,3,83,Ground floor,2020-09-15
+,"Flat / Apartment in calle botavara, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,147000,2,69,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,162750,3,90,,2020-09-15
+,"Duplex in calle la Laguna, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,195000,2,82,,2020-09-15
+,"Duplex in calle Irlanda, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,149000,2,85,1,2020-09-15
+,"Flat / Apartment in Los Lirios, 1, Tías, Tias",Lanzarote,Tias,Tías,106500,3,86,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,130000,3,93,2,2020-09-15
+,Duplex in San Bartolomé,Lanzarote,San Bartolomé,Valterra-La Vega-Las Salinas,130000,3,93,2,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,143000,2,69,,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,169000,2,65,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,153000,3,93,3,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,133000,3,110,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,2,65,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Centro,110000,2,65,1,2020-09-15
+,"Flat / Apartment in puerto rico, 23, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,120000,3,99,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,163260,3,106,2,2020-09-15
+,"Flat / Apartment in calle de Jesús Soto Morales, 40, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,89000,2,150,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,140000,4,97,1,2020-09-15
+,"Flat / Apartment in calle Guarapo, Villa de Teguise, Teguise",Lanzarote,Teguise,Villa de Teguise,180000,6,280,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Villa de Teguise,180000,6,280,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,149000,3,100,1,2020-09-15
+,"Flat / Apartment in calle ingeniero Paz Peraza, 5, Centro, Arrecife",Lanzarote,Arrecife,Centro,160000,3,100,1,2020-09-15
+,"Flat / Apartment in camino Víctor Fernández Gopar, Tías, Tias",Lanzarote,Tias,Tías,140000,2,63,,2020-09-15
+,"Flat / Apartment in calle de Jesús Soto Morales, 40, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,89000,2,150,1,2020-09-15
+,"Flat / Apartment in calle de Vicente Vilas González, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,137000,3,94,Ground floor,2020-09-15
+,"Flat / Apartment in calle el greco, Centro, Arrecife",Lanzarote,Arrecife,Centro,190000,4,95,1,2020-09-15
+,"Flat / Apartment in calle los lirios, Tías, Tias",Lanzarote,Tias,Tías,114000,3,87,Ground floor,2020-09-15
+,"Flat / Apartment in calle almud, San Bartolomé",Lanzarote,San Bartolomé,calle almud,137000,2,73,1,2020-09-15
+,"Flat / Apartment in calle de Blas Cabrera Topham, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,110000,2,58,2,2020-09-15
+,"Flat / Apartment in Costa Teguise, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,180000,2,63,Ground floor,2020-09-15
+,"Flat / Apartment in alemania, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,125180,2,91,1,2020-09-15
+,"Flat / Apartment in calle San Borondon, San Bartolomé",Lanzarote,San Bartolomé,calle San Borondon,142000,2,59,Ground floor,2020-09-15
+,"Flat / Apartment in Costa Teguise, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,179995,2,80,1,2020-09-15
+,"Flat / Apartment in calle Almirante Boado Endeiza, Centro, Arrecife",Lanzarote,Arrecife,Centro,198000,3,96,3,2020-09-15
+,"Flat / Apartment in rafael alberti, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,98000,3,80,1,2020-09-15
+,"Flat / Apartment in calle León y Castillo, Arrecife, Centro, Arrecife",Lanzarote,Arrecife,Centro,150000,2,72,1,2020-09-15
+,"Flat / Apartment in calle Juana de Arco, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,128000,3,77,2,2020-09-15
+,"Flat / Apartment in Yaiza - Uga, Yaiza",Lanzarote,Yaiza,Yaiza - Uga,100000,3,63,Ground floor,2020-09-15
+,"Flat / Apartment in Playa Blanca, Yaiza",Lanzarote,Yaiza,Playa Blanca,115000,2,70,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,120000,2,102,,2020-09-15
+,"Flat / Apartment in calle Manolo Millares, Centro, Arrecife",Lanzarote,Arrecife,Centro,147000,3,116,2,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,128000,3,66,3,2020-09-15
+,"Flat / Apartment in calle Periodista Viera, Centro, Arrecife",Lanzarote,Arrecife,Centro,162000,3,90,1,2020-09-15
+,"Flat / Apartment in calle El Indio, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,96000,2,57,2,2020-09-15
+,"Flat / Apartment in calle Peñas del Chache, Centro, Arrecife",Lanzarote,Arrecife,Centro,131700,3,115,2,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,145000,2,53,Ground floor,2020-09-15
+,Duplex in San Bartolomé,Lanzarote,San Bartolomé,Puerto del Carmen,145000,2,53,Ground floor,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,100000,3,85,2,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,199000,3,145,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,199000,3,145,Ground floor,2020-09-15
+,"Penthouse in Tías, Tias",Lanzarote,Tias,Tías,159000,3,102,2,2020-09-15
+,"Penthouse in calle Marqués de Santillana, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,95000,2,58,2,2020-09-15
+,"Flat / Apartment in calle Periodista Viera, 9, Centro, Arrecife",Lanzarote,Arrecife,Centro,162000,3,90,1,2020-09-15
+,"Flat / Apartment in Zona Industrial, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,125180,2,92,,2020-09-15
+,"Flat / Apartment in calle Janubio, 10, Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,175000,2,75,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa de Papagayo,175000,2,75,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa de Papagayo,175000,2,75,Ground floor,2020-09-15
+,"Flat / Apartment in avenida del Mar, 27, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,150000,2,67,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,150000,2,67,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Costa Teguise,150000,2,67,Ground floor,2020-09-15
+,"Flat / Apartment in calle Pleamar, San Bartolomé",Lanzarote,San Bartolomé,calle Pleamar,155000,2,60,1,2020-09-15
+,Flat / Apartment in Haria,Lanzarote,Haria,calle Pleamar,155000,2,60,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,195000,3,113,2,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,185000,2,97,Ground floor,2020-09-15
+,"Flat / Apartment in calle Tindaya, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,106000,3,86,2,2020-09-15
+,"Duplex in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,147500,2,84,Ground floor,2020-09-15
+,"Flat / Apartment in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,180000,2,75,1,2020-09-15
+,"Flat / Apartment in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,125180,2,92,1,2020-09-15
+,"Flat / Apartment in calle el Tres Papás, Arrecife, Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in calle alisios, San Bartolomé",Lanzarote,San Bartolomé,calle alisios,165000,2,57,1,2020-09-15
+,"Flat / Apartment in Tías, Tias",Lanzarote,Tias,Tías,119600,2,73,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Tías,119600,2,73,1,2020-09-15
+,"Flat / Apartment in calle Marineros Cruz del Mar, 3, Centro, Arrecife",Lanzarote,Arrecife,Centro,124000,3,113,Ground floor,2020-09-15
+,"Flat / Apartment in calle Filipinas, 7, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,130000,3,130,2,2020-09-15
+,"Flat / Apartment in calle Vicente Guerra, 19, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,129000,2,73,Ground floor,2020-09-15
+,"Flat / Apartment in avenida de la Mancomunidad, Centro, Arrecife",Lanzarote,Arrecife,Centro,153000,3,100,4,2020-09-15
+,"Flat / Apartment in plaza Pedro Alcántara, Centro, Arrecife",Lanzarote,Arrecife,Centro,109500,2,81,,2020-09-15
+,"Flat / Apartment in calle Párroco San Martín, San Bartolomé",Lanzarote,San Bartolomé,calle Párroco San Martín,96500,2,51,1,2020-09-15
+,"Flat / Apartment in calle Párroco San Martín, San Bartolomé",Lanzarote,San Bartolomé,calle Párroco San Martín,106500,2,57,1,2020-09-15
+,"Flat / Apartment in calle Párroco San Martín, San Bartolomé",Lanzarote,San Bartolomé,calle Párroco San Martín,102500,2,54,1,2020-09-15
+,"Flat / Apartment in calle Párroco San Martín, San Bartolomé",Lanzarote,San Bartolomé,calle Párroco San Martín,104000,2,54,1,2020-09-15
+,"Flat / Apartment in calle Párroco San Martín, San Bartolomé",Lanzarote,San Bartolomé,calle Párroco San Martín,101000,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in calle Párroco San Martín, San Bartolomé",Lanzarote,San Bartolomé,calle Párroco San Martín,97500,2,55,Ground floor,2020-09-15
+,"Flat / Apartment in calle Párroco San Martín, San Bartolomé",Lanzarote,San Bartolomé,calle Párroco San Martín,100000,2,54,Ground floor,2020-09-15
+,"Flat / Apartment in calle Triana, Centro, Arrecife",Lanzarote,Arrecife,Centro,165000,3,92,3,2020-09-15
+,"Flat / Apartment in calle Manolo Millares, Centro, Arrecife",Lanzarote,Arrecife,Centro,143000,3,106,1,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,179950,2,75,Ground floor,2020-09-15
+,"Duplex in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,109000,3,91,Ground floor,2020-09-15
+,"Flat / Apartment in La Inés, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,139000,3,124,3,2020-09-15
+,"Flat / Apartment in Calle Felipe II, 51, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,80000,2,65,,2020-09-15
+,"Flat / Apartment in Tías, Tias",Lanzarote,Tias,Tías,105000,3,75,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,99000,3,80,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,95000,2,80,1,2020-09-15
+,"Penthouse in Calle Francos, NN, Centro, Arrecife",Lanzarote,Arrecife,Centro,120000,2,93,,2020-09-15
+,"Flat / Apartment in Calle Francos, NN, Centro, Arrecife",Lanzarote,Arrecife,Centro,80000,2,61,,2020-09-15
+,"Penthouse in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,175000,4,94,,2020-09-15
+,"Flat / Apartment in Tanza, San Bartolomé",Lanzarote,San Bartolomé,Tanza,105000,2,53,Ground floor,2020-09-15
+,"Flat / Apartment in calle Colombia, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,145000,2,67,1,2020-09-15
+,"Duplex in calle el Timple, 34, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,198000,2,103,Mezzanine,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,96540,2,64,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,121603,2,60,3,2020-09-15
+,"Flat / Apartment in calle Cribo, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,60000,2,63,1,2020-09-15
+,"Flat / Apartment in calle Cribo, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90500,3,105,Ground floor,2020-09-15
+,"Flat / Apartment in avenida Alcalde Ginés de la Hoz, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,150000,3,80,Ground floor,2020-09-15
+,"Flat / Apartment in calle Calvo Sotelo, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,119000,4,105,2,2020-09-15
+,"Penthouse in Lugar Diseminado Costa de Papagayo, Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,159000,2,60,1,2020-09-15
+,"Flat / Apartment in fuente dulce, 5, Haria",Lanzarote,Haria,5,119500,2,65,Ground floor,2020-09-15
+,"Flat / Apartment in calle La Sepa, Haria",Lanzarote,Haria,calle La Sepa,199000,3,58,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,126500,2,62,Ground floor,2020-09-15
+,"Flat / Apartment in calle de Blas Cabrera Topham, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,110000,2,68,2,2020-09-15
+,"Duplex in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,79000,2,70,Ground floor,2020-09-15
+,"Flat / Apartment in calle Francisco Fernández Bethencourt, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,101800,2,125,Ground floor,2020-09-15
+,"Flat / Apartment in calle Agustín Espinosa, 68, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,82500,2,79,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,120000,3,99,2,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,110000,2,70,2,2020-09-15
+,"Duplex in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,118000,3,90,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,62000,2,53,Ground floor,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,139950,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in calle Timbayba, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,89000,4,88,Ground floor,2020-09-15
+,"Flat / Apartment in calle la Inés, Centro, Arrecife",Lanzarote,Arrecife,Centro,119000,3,111,3,2020-09-15
+,"Flat / Apartment in calle princesa ico, 3, San Bartolomé",Lanzarote,San Bartolomé,3,199000,3,70,Ground floor,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,120000,2,57,1,2020-09-15
+,"Flat / Apartment in calle Camilo Jose Cela, NN, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,135000,3,129,1,2020-09-15
+,"Flat / Apartment in calle corbeta, San Bartolomé",Lanzarote,San Bartolomé,calle corbeta,173500,2,64,Ground floor,2020-09-15
+,"Duplex in calle Gobernador José García Hernandez, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,199000,3,111,2,2020-09-15
+,"Flat / Apartment in calderetas, 92, San Bartolomé",Lanzarote,San Bartolomé,92,115900,2,83,1,2020-09-15
+,"Flat / Apartment in calle Peñas del Chache, Centro, Arrecife",Lanzarote,Arrecife,Centro,152250,4,89,Ground floor,2020-09-15
+,"Flat / Apartment in calle Guardilama, 3, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,198000,2,80,1,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,92000,2,63,Ground floor,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,132000,3,116,4,2020-09-15
+,"Flat / Apartment in calle Lebrillo, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,129000,3,113,,2020-09-15
+,"Flat / Apartment in Agustín Espinosa, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,82500,2,79,1,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,89000,2,69,1,2020-09-15
+,"Flat / Apartment in calle Caracas, 28, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90000,2,57,1,2020-09-15
+,"Flat / Apartment in calle Timple, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,195000,2,54,Ground floor,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,165000,4,113,Ground floor,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,200000,3,100,Ground floor,2020-09-15
+,"Flat / Apartment in calle los Lirios, Tías, Tias",Lanzarote,Tias,Tías,120750,3,87,1,2020-09-15
+,"Flat / Apartment in calle Aires de Lima, 69, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,87000,2,65,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,129000,3,80,2,2020-09-15
+,"Flat / Apartment in calle Fernando el Católico, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,69000,2,86,Semi-basement,2020-09-15
+,"Flat / Apartment in Playa Blanca, Yaiza",Lanzarote,Yaiza,Playa Blanca,130000,2,77,Semi-basement,2020-09-15
+,"Duplex in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,163500,2,106,Semi-basement,2020-09-15
+,"Flat / Apartment in calle San Simon, San Bartolomé",Lanzarote,San Bartolomé,calle San Simon,130000,5,123,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,calle San Simon,130000,5,123,1,2020-09-15
+,"Flat / Apartment in calle la Férmina, 64, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,89000,2,66,1,2020-09-15
+,"Flat / Apartment in Urbanización Los lirios, Tías, Tias",Lanzarote,Tias,Tías,114000,3,78,Ground floor,2020-09-15
+,"Flat / Apartment in calle Carlos Sáenz Infante, 14, Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,2,72,1,2020-09-15
+,"Flat / Apartment in calle Caldera de Bandama, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,168500,3,90,3,2020-09-15
+,"Flat / Apartment in calle el Indio, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,96000,2,59,Ground floor,2020-09-15
+,"Flat / Apartment in calle Villacampa, Centro, Arrecife",Lanzarote,Arrecife,Centro,145000,3,116,2,2020-09-15
+,"Flat / Apartment in avenida Las Palmeras, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,175000,2,74,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,88000,3,86,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,123000,3,99,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,160000,4,109,1,2020-09-15
+,"Flat / Apartment in calle Los Ajaches, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,190000,2,88,Ground floor,2020-09-15
+,"Flat / Apartment in avenida Alcalde Antonio Cabrera Barrera, 8, San Bartolomé",Lanzarote,San Bartolomé,8,150000,2,76,1,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,105000,2,71,Ground floor,2020-09-15
+,"Flat / Apartment in calle la Rosa, 29, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,120000,3,94,1,2020-09-15
+,"Flat / Apartment in calle Mastil, San Bartolomé",Lanzarote,San Bartolomé,calle Mastil,185000,2,66,Ground floor,2020-09-15
+,"Duplex in Yaiza - Uga, Yaiza",Lanzarote,Yaiza,Yaiza - Uga,185000,3,124,Ground floor,2020-09-15
+,"Flat / Apartment in calle Málaga, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,140000,3,118,Ground floor,2020-09-15
+,"Flat / Apartment in calle León y Castillo, 106, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,119000,2,82,2,2020-09-15
+,"Flat / Apartment in calle Góngora, 10, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,170000,5,170,1,2020-09-15
+,"Penthouse in calle norte, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,118500,2,70,2,2020-09-15
+,"Flat / Apartment in calle peru, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,160000,3,92,1,2020-09-15
+,"Flat / Apartment in calle Manolo Millares, 54, Centro, Arrecife",Lanzarote,Arrecife,Centro,90000,2,65,1,2020-09-15
+,"Flat / Apartment in calle León y Castillo, 10, Centro, Arrecife",Lanzarote,Arrecife,Centro,200000,3,110,3,2020-09-15
+,"Flat / Apartment in calle Tajaraste, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,84000,2,68,Ground floor,2020-09-15
+,"Flat / Apartment in calle José Ortega y Gasset, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,138000,3,85,,2020-09-15
+,"Flat / Apartment in calle la Niña, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,100000,3,72,,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,107000,3,84,Ground floor,2020-09-15
+,"Duplex in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,140000,2,90,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90000,2,63,1,2020-09-15
+,"Flat / Apartment in Villa de Teguise, Teguise",Lanzarote,Teguise,Villa de Teguise,142500,3,89,Ground floor,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,139000,3,62,3,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,137000,4,102,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,170000,4,133,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,88000,3,86,1,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,77000,2,56,1,2020-09-15
+,"Flat / Apartment in calle manguia, 6, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,198000,2,66,1,2020-09-15
+,"Flat / Apartment in Playa Blanca, Yaiza",Lanzarote,Yaiza,Playa Blanca,158000,2,70,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,3,70,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,89500,3,90,2,2020-09-15
+,"Flat / Apartment in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,139000,2,80,1,2020-09-15
+,"Duplex in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,189000,3,80,Ground floor,2020-09-15
+,Flat / Apartment in Haria,Lanzarote,Haria,Montaña Roja,189000,3,80,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,147000,3,282,1,2020-09-15
+,"Flat / Apartment in calle Guágaro, 6, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,123000,2,80,3,2020-09-15
+,"Duplex in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,150000,2,90,,2020-09-15
+,"Flat / Apartment in calle Nicaragua, 3, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,88000,3,86,1,2020-09-15
+,"Flat / Apartment in SALTONA, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,78000,2,78,1,2020-09-15
+,"Flat / Apartment in calle Panamá, 28, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,159000,2,80,Ground floor,2020-09-15
+,"Flat / Apartment in calle el Cid Campeador, 21, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,95000,2,72,Ground floor,2020-09-15
+,"Flat / Apartment in calle Blas Cabrera Topham, 60, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,110000,2,69,2,2020-09-15
+,"Penthouse in calle Agrupación Folklórica Arrecife, 1, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,179000,4,176,2,2020-09-15
+,"Duplex in calle José Pereyra Galviaty, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,115000,4,166,2,2020-09-15
+,"Flat / Apartment in calle Triana, 99, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,193000,3,95,3,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,107700,2,52,1,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,95000,2,75,Ground floor,2020-09-15
+,"Flat / Apartment in Las Coloradas, Yaiza",Lanzarote,Yaiza,Las Coloradas,119000,2,80,Ground floor,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Las Coloradas,119000,2,80,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,132000,3,105,1,2020-09-15
+,"Flat / Apartment in Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,180000,2,67,1,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,185000,2,65,1,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,200000,3,104,Ground floor,2020-09-15
+,"Flat / Apartment in calle padre Claret, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,110000,3,84,1,2020-09-15
+,"Flat / Apartment in avenida central, Tías, Tias",Lanzarote,Tias,Tías,135000,2,70,Ground floor,2020-09-15
+,"Flat / Apartment in calle Cribo, 33, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,85000,2,65,Ground floor,2020-09-15
+,Flat / Apartment in Haria,Lanzarote,Haria,Argana-Maneje,85000,2,65,Ground floor,2020-09-15
+,"Flat / Apartment in calle Doctor Barraquer, 3, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,149000,3,100,1,2020-09-15
+,"Flat / Apartment in calle la Niña, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,135600,2,99,,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,120000,2,65,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Valterra-La Vega-Las Salinas,120000,2,65,1,2020-09-15
+,"Flat / Apartment in calle Fuencaliente, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,83100,3,78,,2020-09-15
+,"Flat / Apartment in calle Puerto Rico, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,120000,3,99,2,2020-09-15
+,"Flat / Apartment in calle Monterrey, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,197800,4,196,,2020-09-15
+,"Flat / Apartment in calle Fernando el Católico, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,90100,2,63,,2020-09-15
+,"Flat / Apartment in Costa Teguise, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,159000,2,80,Ground floor,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,185000,2,75,Ground floor,2020-09-15
+,"Flat / Apartment in calle Princesa Ico, NN, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,177600,2,72,,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,94815,2,80,2,2020-09-15
+,"Flat / Apartment in calle Triana, 72, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,120000,3,90,2,2020-09-15
+,"Penthouse in calle Almud, San Bartolomé",Lanzarote,San Bartolomé,calle Almud,140000,2,75,2,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,149950,2,55,Ground floor,2020-09-15
+,"Flat / Apartment in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,153000,2,89,2,2020-09-15
+,"Flat / Apartment in Tías, Tias",Lanzarote,Tias,Tías,100000,3,87,1,2020-09-15
+,"Flat / Apartment in calle los Afrechos, 21, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,90000,2,90,-1,2020-09-15
+,"Flat / Apartment in avenida de la Mancomunidad, 10, Centro, Arrecife",Lanzarote,Arrecife,Centro,168000,3,100,4,2020-09-15
+,"Flat / Apartment in avenida Juan Carlos I, 10, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,180000,3,100,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,101800,2,125,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,105600,3,89,Ground floor,2020-09-15
+,"Flat / Apartment in calle Periodista Viera, 1, Centro, Arrecife",Lanzarote,Arrecife,Centro,100000,3,84,2,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,149000,3,100,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,123000,3,99,1,2020-09-15
+,"Flat / Apartment in calle Apolo, 15, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,95000,2,87,2,2020-09-15
+,"Duplex in calle Panama, 2, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,175000,2,120,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,2,65,1,2020-09-15
+,"Penthouse in avenida de las Palmeras, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,155000,2,80,2,2020-09-15
+,"Flat / Apartment in calle la Cuesta, Yaiza - Uga, Yaiza",Lanzarote,Yaiza,Yaiza - Uga,135000,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in calle la Cuesta, Yaiza - Uga, Yaiza",Lanzarote,Yaiza,Yaiza - Uga,135000,2,65,Ground floor,2020-09-15
+,"Flat / Apartment in calle de Vicente Vilas González, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,123000,2,82,2,2020-09-15
+,"Duplex in calle el Antonio, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,156000,3,102,2,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,103000,3,79,1,2020-09-15
+,"Flat / Apartment in EL ANTONIO, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,128750,2,80,1,2020-09-15
+,"Flat / Apartment in calle Los Crotos, 11, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,195000,3,98,1,2020-09-15
+,"Flat / Apartment in Vicente Guerra, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,101300,3,82,2,2020-09-15
+,"Flat / Apartment in calle el Antonio, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,115100,3,76,,2020-09-15
+,"Flat / Apartment in calle Monterrey, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,79600,2,61,,2020-09-15
+,"Flat / Apartment in Cl India, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,98390,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in calle Pamplona, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,103000,2,71,Ground floor,2020-09-15
+,"Flat / Apartment in calle Alemania, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,137090,2,97,,2020-09-15
+,"Flat / Apartment in calle Peñas del Chache, 10, Centro, Arrecife",Lanzarote,Arrecife,Centro,132700,3,102,1,2020-09-15
+,"Flat / Apartment in calle Saltona, 40, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,78000,2,62,1,2020-09-15
+,"Flat / Apartment in plaza León y Castillo, Haria",Lanzarote,Haria,plaza León y Castillo,171000,2,95,Ground floor,2020-09-15
+,"Flat / Apartment in calle Blasco Ibáñez, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,94000,3,131,,2020-09-15
+,"Flat / Apartment in calle Peñas del Chache, Centro, Arrecife",Lanzarote,Arrecife,Centro,132700,3,102,,2020-09-15
+,"Flat / Apartment in calle Puerto Rico, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,123000,3,99,1,2020-09-15
+,"Flat / Apartment in calle Fernando el Católico, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,90100,2,63,Ground floor,2020-09-15
+,"Flat / Apartment in calle Folias, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,108472,3,69,,2020-09-15
+,"Flat / Apartment in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,105800,2,72,Ground floor,2020-09-15
+,"Flat / Apartment in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,98390,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in Playa Blanca, Yaiza",Lanzarote,Yaiza,Playa Blanca,150000,2,65,1,2020-09-15
+,"Flat / Apartment in calle Tenique, 20, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,80000,2,65,Ground floor,2020-09-15
+,"Flat / Apartment in calle Crucero Baleares, 27, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,62400,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,197800,4,196,,2020-09-15
+,"Flat / Apartment in Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,159000,2,88,1,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,168000,2,55,1,2020-09-15
+,"Duplex in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,150000,2,96,1,2020-09-15
+,"Flat / Apartment in calle Nicaragua, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,88000,3,86,1,2020-09-15
+,"Flat / Apartment in calle RIO DE ORO, Centro, Arrecife",Lanzarote,Arrecife,Centro,126000,3,89,1,2020-09-15
+,"Flat / Apartment in PAZ PERAZA, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,76000,2,52,1,2020-09-15
+,"Flat / Apartment in TRIANA, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,175000,3,100,3,2020-09-15
+,"Flat / Apartment in VICENTE GUERRA, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,145000,2,85,Ground floor,2020-09-15
+,"Flat / Apartment in Huelva, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,147000,3,83,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,108500,3,80,1,2020-09-15
+,"Flat / Apartment in calle Trinidad, Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,3,96,,2020-09-15
+,"Flat / Apartment in calle Trinidad, 24, Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,3,95,1,2020-09-15
+,"Flat / Apartment in calle Tenique, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,80000,2,65,,2020-09-15
+,"Flat / Apartment in calle Tindaya, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,82000,3,91,,2020-09-15
+,"Flat / Apartment in calle Crucero Baleares, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,62400,2,58,,2020-09-15
+,"Flat / Apartment in calle Felipe II, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,80000,2,65,,2020-09-15
+,"Flat / Apartment in calle Colombia, 1, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,145000,2,70,Ground floor,2020-09-15
+,"Duplex in calle Merlín, 19, San Bartolomé",Lanzarote,San Bartolomé,19,200000,3,115,Ground floor,2020-09-15
+,"Flat / Apartment in Tías, Tias",Lanzarote,Tias,Tías,140000,2,64,1,2020-09-15
+,"Flat / Apartment in calle Carlos Sáenz Infante, Centro, Arrecife",Lanzarote,Arrecife,Centro,88000,2,72,1,2020-09-15
+,"Flat / Apartment in Playa Blanca, Yaiza",Lanzarote,Yaiza,Playa Blanca,109000,2,65,1,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,128000,2,80,,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,150000,4,104,,2020-09-15
+,"Flat / Apartment in calle Quilla, NN, Famara-La Graciosa, Teguise",Lanzarote,Teguise,Famara-La Graciosa,190000,2,80,1,2020-09-15
+,"Flat / Apartment in avenida Faro Pechiguera, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,148000,2,65,1,2020-09-15
+,"Flat / Apartment in calle Fuerteventura, 1, Centro, Arrecife",Lanzarote,Arrecife,Centro,125000,3,100,2,2020-09-15
+,"Flat / Apartment in TRINIDAD, Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,3,95,Ground floor,2020-09-15
+,"Flat / Apartment in TELESFORO BRAVO 27 ARRECIFE, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,62400,2,52,Ground floor,2020-09-15
+,"Flat / Apartment in FELIPE II, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,80000,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in calle Halcón, San Bartolomé",Lanzarote,San Bartolomé,calle Halcón,145000,2,66,2,2020-09-15
+,"Flat / Apartment in AIRES DE LIMA, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,78000,2,57,Ground floor,2020-09-15
+,"Flat / Apartment in Princesa Ico, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,177600,2,80,Ground floor,2020-09-15
+,"Flat / Apartment in calle Orquidea, 27, Tías, Tias",Lanzarote,Tias,Tías,132000,2,77,1,2020-09-15
+,"Flat / Apartment in calle Gabriel Celaya, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90000,2,72,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,199000,4,154,Ground floor,2020-09-15
+,"Flat / Apartment in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,115000,2,62,Ground floor,2020-09-15
+,"Duplex in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,149500,2,90,,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,187000,3,104,Ground floor,2020-09-15
+,"Flat / Apartment in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,150000,2,68,Ground floor,2020-09-15
+,Flat / Apartment in Tinajo,Lanzarote,Tinajo,Costa Teguise,150000,2,68,Ground floor,2020-09-15
+,"Flat / Apartment in calle México, 10, Centro, Arrecife",Lanzarote,Arrecife,Centro,82000,2,80,3,2020-09-15
+,"Flat / Apartment in calle Escardillo, 3, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,79000,2,50,Ground floor,2020-09-15
+,"Flat / Apartment in calle Valladolid, 11, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,119000,2,70,2,2020-09-15
+,"Flat / Apartment in calle Gaire, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,111700,2,82,2,2020-09-15
+,"Flat / Apartment in calle India, 144, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,115000,2,105,Ground floor,2020-09-15
+,"Flat / Apartment in calle Chalana, 21, San Bartolomé",Lanzarote,San Bartolomé,21,175000,2,102,1,2020-09-15
+,"Flat / Apartment in calle Alcorce, 14, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,189000,2,51,Mezzanine,2020-09-15
+,"Flat / Apartment in calle Santa Bárbara, Haria",Lanzarote,Haria,calle Santa Bárbara,126000,3,240,Mezzanine,2020-09-15
+,"Flat / Apartment in calle Venecia, 5, Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,185000,2,85,1,2020-09-15
+,"Flat / Apartment in Luis Morote, 19, Centro, Arrecife",Lanzarote,Arrecife,Centro,132000,3,70,3,2020-09-15
+,"Flat / Apartment in calle Juana de Arco, 44, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,95500,2,80,1,2020-09-15
+,"Flat / Apartment in calle Caracas, 36, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90000,2,55,Ground floor,2020-09-15
+,"Duplex in calle Chimidas, 16, San Bartolomé",Lanzarote,San Bartolomé,16,135000,2,75,Ground floor,2020-09-15
+,"Flat / Apartment in calle Venezuela, 2, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,150000,3,116,2,2020-09-15
+,"Flat / Apartment in calle Guenia, 9, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,140000,4,80,5,2020-09-15
+,"Flat / Apartment in calle Manolo Millares, 111, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,130000,4,150,2,2020-09-15
+,"Flat / Apartment in calle Huelva, 9, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,147000,3,83,Ground floor,2020-09-15
+,"Flat / Apartment in calle Galicia, 1, Centro, Arrecife",Lanzarote,Arrecife,Centro,145000,2,80,1,2020-09-15
+,"Flat / Apartment in calle Brujula, 9, San Bartolomé",Lanzarote,San Bartolomé,9,199999,2,140,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,106000,2,84,,2020-09-15
+,"Flat / Apartment in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,109000,2,56,,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,190000,2,95,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,115000,3,75,3,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,100000,3,85,2,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,180000,5,156,,2020-09-15
+,"Duplex in Puerto Calero, Yaiza",Lanzarote,Yaiza,Puerto Calero,180000,2,95,,2020-09-15
+,"Flat / Apartment in Costa de Papagayo, Yaiza",Lanzarote,Yaiza,Costa de Papagayo,160000,2,65,,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,145000,3,125,,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,79000,2,52,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,65000,2,66,Ground floor,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,135000,3,93,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,80000,2,61,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,120000,4,77,,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,93000,3,88,,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,Argana-Maneje,93000,3,88,,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,66000,2,70,,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,135600,3,99,1,2020-09-15
+,"Flat / Apartment in calle Tampico, 2, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,178000,3,104,2,2020-09-15
+,"Flat / Apartment in calle Guadarfía, NN, San Bartolomé",Lanzarote,San Bartolomé,NN,155000,3,92,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,NN,155000,3,92,1,2020-09-15
+,Flat / Apartment in San Bartolomé,Lanzarote,San Bartolomé,NN,155000,3,92,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,110000,2,60,1,2020-09-15
+,"Flat / Apartment in calle Coronel Ildefonso Valls de la Torre, 10, Centro, Arrecife",Lanzarote,Arrecife,Centro,82000,2,77,3,2020-09-15
+,"Flat / Apartment in calle Góngora, 41, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,105000,2,55,2,2020-09-15
+,"Flat / Apartment in calle Mosta, 20, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,119500,3,78,Ground floor,2020-09-15
+,"Flat / Apartment in calle Pérez Galdós, 31, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,133000,3,78,1,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,90100,2,63,1,2020-09-15
+,"Flat / Apartment in calle Maracaibo, 30, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,90000,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in avenida Alcalde Antonio Cabrera Barrera, 8, San Bartolomé",Lanzarote,San Bartolomé,8,155000,3,98,1,2020-09-15
+,"Flat / Apartment in calle García Márquez, 12, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,120000,3,177,2,2020-09-15
+,"Flat / Apartment in Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,137090,2,97,,2020-09-15
+,"Flat / Apartment in calle Calderón de la Barca, 61, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,95000,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in calle el correíllo, 49, Playa Blanca, Yaiza",Lanzarote,Yaiza,Playa Blanca,200000,2,90,1,2020-09-15
+,"Flat / Apartment in calle de vicente vilas gonzález, 26, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,116000,2,82,2,2020-09-15
+,"Flat / Apartment in calle Doctor Barraquer, 3, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,120000,3,100,2,2020-09-15
+,"Duplex in calle Chimidas, 1, San Bartolomé",Lanzarote,San Bartolomé,1,173000,2,78,Ground floor,2020-09-15
+,"Flat / Apartment in calle el Comedero, 28, Playa Blanca, Yaiza",Lanzarote,Yaiza,Playa Blanca,130000,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,75000,2,70,Ground floor,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,99000,2,85,1,2020-09-15
+,"Flat / Apartment in Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,106000,2,80,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,75000,2,68,Ground floor,2020-09-15
+,"Flat / Apartment in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,159000,2,80,Ground floor,2020-09-15
+,"Flat / Apartment in Puerto del Carmen, Tias",Lanzarote,Tias,Puerto del Carmen,179000,2,45,Ground floor,2020-09-15
+,"Flat / Apartment in Tías, Tias",Lanzarote,Tias,Tías,140000,2,64,1,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,134285,3,80,2,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,103000,2,71,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,90100,2,63,Ground floor,2020-09-15
+,"Flat / Apartment in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,169000,2,69,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,165500,3,87,Ground floor,2020-09-15
+,"Duplex in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,200000,3,104,2,2020-09-15
+,"Flat / Apartment in Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,145000,2,92,Ground floor,2020-09-15
+,"Flat / Apartment in Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,141600,3,97,1,2020-09-15
+,"Flat / Apartment in Centro, Arrecife",Lanzarote,Arrecife,Centro,87000,2,66,3,2020-09-15
+,"Flat / Apartment in avenida Hernández Pacheco, 23, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,122000,4,116,1,2020-09-15
+,"Flat / Apartment in calle Navarra, 16, Altavista-Titerroy-San Francisco Javier, Arrecife",Lanzarote,Arrecife,Altavista-Titerroy-San Francisco Javier,120000,4,75,1,2020-09-15
+,"Flat / Apartment in avenida de las Palmeras, 9, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,187000,2,75,Ground floor,2020-09-15
+,"Flat / Apartment in Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,63200,2,61,Ground floor,2020-09-15
+,"Duplex in calle Panama, 9, Costa Teguise, Teguise",Lanzarote,Teguise,Costa Teguise,200000,3,105,Ground floor,2020-09-15
+,"Flat / Apartment in Cl India, 1, Montaña Roja, Yaiza",Lanzarote,Yaiza,Montaña Roja,125000,2,62,2,2020-09-15
+,"Flat / Apartment in calle Isa, 46, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,86000,2,60,Ground floor,2020-09-15
+,"Flat / Apartment in calle Tisalaya, 150, San Bartolomé",Lanzarote,San Bartolomé,150,130000,2,70,1,2020-09-15
+,"Flat / Apartment in calle Guanareme, 38, Argana-Maneje, Arrecife",Lanzarote,Arrecife,Argana-Maneje,99000,2,90,Ground floor,2020-09-15
+,"Flat / Apartment in calle Pérez Galdós, 46, Valterra-La Vega-Las Salinas, Arrecife",Lanzarote,Arrecife,Valterra-La Vega-Las Salinas,135000,3,106,2,2020-09-15
+,"Flat / Apartment in calle León y Castillo, 28, Centro, Arrecife",Lanzarote,Arrecife,Centro,180000,4,103,4,2020-09-15

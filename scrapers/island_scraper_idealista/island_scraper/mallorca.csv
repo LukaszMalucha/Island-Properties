@@ -1,0 +1,721 @@
+id,title,island,locality,area,price,beds,size,floor,date
+,"Flat / Apartment in calle cardenall Rosell, Coll d'En Rabassa, Palma de Mallorca",Mallorca,Palma de Mallorca,Coll d'En Rabassa,149900,3,104,4,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,185000,3,80,2,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,191000,3,105,3,2020-09-15
+,"Penthouse in calle can ferrer, Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,199900,2,60,2,2020-09-15
+,"Flat / Apartment in manacor, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,149940,2,67,2,2020-09-15
+,"Flat / Apartment in calle JOAN MUNTANER I BUJOSA, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,117000,3,80,5,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,163000,3,80,2,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,187000,3,90,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,159900,4,93,1,2020-09-15
+,"Flat / Apartment in calle d'En Nuno Sanç, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,139000,3,109,2,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,165000,2,87,6,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,195000,3,110,1,2020-09-15
+,"Flat / Apartment in avenida Gabriel Alomar, 15, Pont d'Inca, Marratxi",Mallorca,Marratxi,Pont d'Inca,140000,2,71,2,2020-09-15
+,"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,169000,2,70,1,2020-09-15
+,"Penthouse in avenida de la Virgen, 124, Campos",Mallorca,Campos,124,177900,2,80,3,2020-09-15
+,"Flat / Apartment in calle Pintor Sorolla, 41, Centro, Inca",Mallorca,Inca,Centro,165000,3,85,1,2020-09-15
+,"Flat / Apartment in Son Dureta, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Dureta,189000,4,113,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,160000,3,73,4,2020-09-15
+,"Flat / Apartment in calle Puerto Rico, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,179000,3,100,4,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,149000,2,90,3,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,160000,3,100,2,2020-09-15
+,"Duplex in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,196000,4,125,2,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,199000,3,95,1,2020-09-15
+,"Flat / Apartment in calle Femenies, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,169900,3,106,2,2020-09-15
+,"Flat / Apartment in Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,139000,4,117,2,2020-09-15
+,"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,168000,3,70,3,2020-09-15
+,Flat / Apartment in Campos,Mallorca,Campos,,189000,2,90,1,2020-09-15
+,"Flat / Apartment in calle del Temple, Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,Sindicat,198000,3,80,1,2020-09-15
+,"Flat / Apartment in calle de son Nadal, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,185000,4,140,1,2020-09-15
+,"Flat / Apartment in calle aragon, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,183000,3,95,1,2020-09-15
+,"Flat / Apartment in calle cardenall Rosell, Coll d'En Rabassa, Palma de Mallorca",Mallorca,Palma de Mallorca,Coll d'En Rabassa,149900,3,104,4,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,185000,3,80,2,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,191000,3,105,3,2020-09-15
+,"Penthouse in calle can ferrer, Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,199900,2,60,2,2020-09-15
+,"Flat / Apartment in manacor, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,149940,2,67,2,2020-09-15
+,"Flat / Apartment in calle JOAN MUNTANER I BUJOSA, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,117000,3,80,5,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,163000,3,80,2,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,187000,3,90,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,159900,4,93,1,2020-09-15
+,"Flat / Apartment in calle d'En Nuno Sanç, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,139000,3,109,2,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,165000,2,87,6,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,195000,3,110,1,2020-09-15
+,"Flat / Apartment in avenida Gabriel Alomar, 15, Pont d'Inca, Marratxi",Mallorca,Marratxi,Pont d'Inca,140000,2,71,2,2020-09-15
+,"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,169000,2,70,1,2020-09-15
+,"Penthouse in avenida de la Virgen, 124, Campos",Mallorca,Campos,124,177900,2,80,3,2020-09-15
+,"Flat / Apartment in calle Pintor Sorolla, 41, Centro, Inca",Mallorca,Inca,Centro,165000,3,85,1,2020-09-15
+,"Flat / Apartment in Son Dureta, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Dureta,189000,4,113,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,160000,3,73,4,2020-09-15
+,"Flat / Apartment in calle Puerto Rico, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,179000,3,100,4,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,149000,2,90,3,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,160000,3,100,2,2020-09-15
+,"Duplex in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,196000,4,125,2,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,199000,3,95,1,2020-09-15
+,"Flat / Apartment in calle Femenies, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,169900,3,106,2,2020-09-15
+,"Flat / Apartment in Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,139000,4,117,2,2020-09-15
+,"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,168000,3,70,3,2020-09-15
+,Flat / Apartment in Campos,Mallorca,Campos,,189000,2,90,1,2020-09-15
+,"Flat / Apartment in calle del Temple, Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,Sindicat,198000,3,80,1,2020-09-15
+,"Flat / Apartment in calle de son Nadal, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,185000,4,140,1,2020-09-15
+,"Flat / Apartment in calle aragon, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,183000,3,95,1,2020-09-15
+,"Flat / Apartment in calle Reina Maria de Montpeller, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,195000,4,117,5,2020-09-15
+,"Penthouse in calle de Rafel Albertí, Blanquer, Inca",Mallorca,Inca,Blanquer,175000,2,129,2,2020-09-15
+,"Penthouse in calle tirant lo balnc, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,199500,3,121,2,2020-09-15
+,"Flat / Apartment in Formentor, 36, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,139000,3,109,2,2020-09-15
+,"Flat / Apartment in Antoni de Montis, 12, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,165000,2,69,3,2020-09-15
+,"Penthouse in calle d'Alòs, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,179000,2,73,5,2020-09-15
+,"Flat / Apartment in Esperanto, 43, Son Ferriol, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Ferriol,170000,3,94,3,2020-09-15
+,"Flat / Apartment in cotllure, 38, Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,Cas Capiscol,164000,2,75,4,2020-09-15
+,"Flat / Apartment in calle de Joan Crespí, 34, Sta Catalina - El Jonquet, Palma de Mallorca",Mallorca,Palma de Mallorca,Sta Catalina - El Jonquet,145000,3,70,6,2020-09-15
+,"Flat / Apartment in SON NADAL, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,188000,4,126,1,2020-09-15
+,"Flat / Apartment in Son Dameto, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Dameto,199000,2,100,4,2020-09-15
+,"Flat / Apartment in monturiol, 42, Cala Ratjada",Mallorca,Cala Ratjada,42,185000,2,92,1,2020-09-15
+,"Flat / Apartment in llevant, 13, Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,149000,3,102,1,2020-09-15
+,"Flat / Apartment in avenida des Tren, 20, Son Servera",Mallorca,Son Servera,20,155000,2,90,2,2020-09-15
+,"Flat / Apartment in calle Rodríguez de la Fuente, 21, Muro",Mallorca,Muro,21,199000,3,190,1,2020-09-15
+,"Flat / Apartment in calle de Ses Salines, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Nou - Estadi Balear - Son Malferit,198500,2,83,1,2020-09-15
+,"Duplex in Comunes de Ca n'Oliver, Muro",Mallorca,Muro,Comunes de Ca n'Oliver,186000,3,90,1,2020-09-15
+,"Penthouse in calle Llotgeta, Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,Sindicat,194900,2,90,4,2020-09-15
+,"Penthouse in avenida de les palmeres, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,179000,3,83,2,2020-09-15
+,"Flat / Apartment in calle Belgica, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,180000,2,95,2,2020-09-15
+,"Flat / Apartment in murillo, Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,180000,2,90,1,2020-09-15
+,"Flat / Apartment in calle Reis Catòlics, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,187000,3,130,1,2020-09-15
+,"Flat / Apartment in Palma, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,185000,2,74,2,2020-09-15
+,"Penthouse in avenida Son Rigo, Les Maravelles, Palma de Mallorca",Mallorca,Palma de Mallorca,Les Maravelles,199000,2,60,8,2020-09-15
+,"Flat / Apartment in isaac peral, Portocolom, Felanitx",Mallorca,Felanitx,Portocolom,175000,3,105,1,2020-09-15
+,"Flat / Apartment in calle d'Escorca, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,195000,3,90,1,2020-09-15
+,"Flat / Apartment in asuncion, 4, Portocolom, Felanitx",Mallorca,Felanitx,Portocolom,149900,2,58,1,2020-09-15
+,"Flat / Apartment in TORRENTE, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,190000,4,120,4,2020-09-15
+,"Flat / Apartment in avenida Cas Saboners, Palmanova, Calvià",Mallorca,Calvià,Palmanova,165000,2,68,3,2020-09-15
+,"Penthouse in calle Ferrer de Pallarès, 12, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,165500,3,80,6,2020-09-15
+,"Flat / Apartment in andratx, 36, Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,199000,3,134,1,2020-09-15
+,"Flat / Apartment in osca, 30, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,170000,2,71,2,2020-09-15
+,"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,176000,3,89,2,2020-09-15
+,"Flat / Apartment in Federico Garcia Lorca, Magaluf, Calvià",Mallorca,Calvià,Magaluf,199900,3,73,1,2020-09-15
+,"Flat / Apartment in Son Corb, 35, Cala Millor",Mallorca,Cala Millor,35,159000,3,88,2,2020-09-15
+,"Flat / Apartment in calle de l'Arquebisbe Aspàreg, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,179000,3,92,2,2020-09-15
+,"Flat / Apartment in calle Paraires, 2, Centro, Inca",Mallorca,Inca,Centro,180000,4,175,1,2020-09-15
+,"Penthouse in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,139000,3,95,4,2020-09-15
+,"Penthouse in calle del Llac Enol, Son Rapinya - Los Almendros, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Rapinya - Los Almendros,176000,3,77,3,2020-09-15
+,"Flat / Apartment in travesía Jesús, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,185000,4,108,3,2020-09-15
+,"Flat / Apartment in calle de Florència, Son Xigala, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Xigala,186000,3,90,1,2020-09-15
+,"Flat / Apartment in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,199999,3,100,4,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,160000,3,180,2,2020-09-15
+,"Flat / Apartment in Pere Joan Llobet, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,185000,4,126,5,2020-09-15
+,"Flat / Apartment in calle Sagasta, Pobla (Sa)",Mallorca,Pobla (Sa),calle Sagasta,149900,3,108,3,2020-09-15
+,"Flat / Apartment in de josep maria llompart, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,177000,3,110,2,2020-09-15
+,"Flat / Apartment in estacion, Porreres",Mallorca,Porreres,estacion,155000,2,101,2,2020-09-15
+,"Flat / Apartment in calle Camp redó, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,Camp Redo,185000,2,80,3,2020-09-15
+,"Flat / Apartment in calle pere seriol, Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,199900,2,101,2,2020-09-15
+,"Flat / Apartment in camino dels Reis, Genova, Palma de Mallorca",Mallorca,Palma de Mallorca,Genova,199000,2,88,3,2020-09-15
+,"Flat / Apartment in Palmanova, Calvià",Mallorca,Calvià,Palmanova,169000,2,73,1,2020-09-15
+,"Penthouse in calle Escorpora, S'Illot-Cala Morlanda, Manacor",Mallorca,Manacor,S'Illot-Cala Morlanda,139900,3,122,2,2020-09-15
+,"Flat / Apartment in calle manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,169900,3,95,6,2020-09-15
+,"Duplex in CL TRAMUNTANA, Sineu",Mallorca,Sineu,CL TRAMUNTANA,199900,3,117,1,2020-09-15
+,"Flat / Apartment in illes balears, Porreres",Mallorca,Porreres,illes balears,182000,3,123,3,2020-09-15
+,"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,96000,3,80,1,2020-09-15
+,"Penthouse in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,182000,3,105,3,2020-09-15
+,"Flat / Apartment in D´Escorça, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,172000,2,87,1,2020-09-15
+,"Flat / Apartment in reyes catolics, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,199900,3,93,2,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,170000,3,93,2,2020-09-15
+,"Flat / Apartment in calle del Bosc, Peguera, Calvià",Mallorca,Calvià,Peguera,195000,3,81,1,2020-09-15
+,"Flat / Apartment in calle Milana, Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,189000,3,95,3,2020-09-15
+,"Penthouse in RAFAEL RAMIS I TOGURES, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,199500,3,90,1,2020-09-15
+,"Penthouse in calle de Santiago Álvarez Avellan, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,162000,4,115,4,2020-09-15
+,"Flat / Apartment in calle d'Indalecio Prieto, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,138000,3,108,3,2020-09-15
+,"Flat / Apartment in calle de Joan Alcover, 22, Montuiri",Mallorca,Montuiri,22,172000,3,140,2,2020-09-15
+,"Flat / Apartment in travesía Jesús, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,184000,3,79,1,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,187000,3,95,2,2020-09-15
+,"Flat / Apartment in avenida TOMAS DE VILLANUEVA CORTES, Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,184000,3,98,3,2020-09-15
+,"Penthouse in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,139000,3,74,3,2020-09-15
+,"Flat / Apartment in calle d'Aragó, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,199500,3,105,3,2020-09-15
+,"Duplex in Centro, Inca",Mallorca,Inca,Centro,168000,3,94,1,2020-09-15
+,"Penthouse in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,138000,3,127,3,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,190000,3,90,3,2020-09-15
+,"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,169000,2,62,2,2020-09-15
+,"Flat / Apartment in San Jose de la montaña, 10, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,Camp Redo,139450,3,100,5,2020-09-15
+,Flat / Apartment in Campos,Mallorca,Campos,,150000,3,97,1,2020-09-15
+,"Penthouse in malgrana, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,128000,3,82,5,2020-09-15
+,"Flat / Apartment in calle del Geòleg Guillem Colom, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,Camp Redo,199000,4,101,2,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,199000,2,90,2,2020-09-15
+,"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,159500,3,84,3,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,169500,3,80,6,2020-09-15
+,"Flat / Apartment in alos, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,189999,2,58,5,2020-09-15
+,"Flat / Apartment in residencia, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,183000,3,71,2,2020-09-15
+,"Flat / Apartment in Orellana, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,190000,3,85,1,2020-09-15
+,"Duplex in calle Manacor, 13, Campos",Mallorca,Campos,13,184500,2,94,1,2020-09-15
+,"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,175000,2,84,1,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,178000,3,115,1,2020-09-15
+,"Penthouse in Rafel Alberti, Blanquer, Inca",Mallorca,Inca,Blanquer,175000,2,180,3,2020-09-15
+,"Flat / Apartment in calle de Berlín, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,170000,2,82,2,2020-09-15
+,"Flat / Apartment in calle de Can Rayó, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,145000,2,65,2,2020-09-15
+,"Flat / Apartment in calle de Sagasta, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,169000,3,61,3,2020-09-15
+,"Flat / Apartment in Sa Torre, NN, Sa Torre, Llucmajor",Mallorca,Llucmajor,Sa Torre,177000,2,82,1,2020-09-15
+,"Flat / Apartment in calle sol, 65, Porreres",Mallorca,Porreres,65,125000,2,75,2,2020-09-15
+,"Flat / Apartment in calle murillo, Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,170000,2,80,1,2020-09-15
+,"Flat / Apartment in Gran Via Colon, 112, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,156000,2,75,1,2020-09-15
+,"Flat / Apartment in calle maria antonia salva, 48, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,180000,3,130,3,2020-09-15
+,"Penthouse in Sineu, Maria de la Salud",Mallorca,Maria de la Salud,Sineu,189000,3,95,1,2020-09-15
+,"Flat / Apartment in Passatge Particular d'Escorca, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Nou - Estadi Balear - Son Malferit,150000,3,85,4,2020-09-15
+,"Flat / Apartment in paseo Ferrocarril, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,165000,2,80,4,2020-09-15
+,"Flat / Apartment in ronda Oest, Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,156600,2,67,2,2020-09-15
+,"Flat / Apartment in Ferrocarril, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,174070,2,73,1,2020-09-15
+,"Flat / Apartment in avenida Pere Mas i Reus, 29, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,160000,2,65,7,2020-09-15
+,"Flat / Apartment in calle de Joan Homs, 11, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,164000,3,86,1,2020-09-15
+,"Flat / Apartment in calle de Berlín, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,170000,2,77,2,2020-09-15
+,"Penthouse in trancadors, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,199500,3,140,4,2020-09-15
+,"Flat / Apartment in cannes, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,189000,2,57,1,2020-09-15
+,"Penthouse in carretera MILITAR, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,145000,2,65,4,2020-09-15
+,"Flat / Apartment in Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,198000,3,69,2,2020-09-15
+,"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,180000,3,90,1,2020-09-15
+,"Flat / Apartment in avenida de belgica, NN, Cala d'Or",Mallorca,Cala d'Or,NN,189000,2,86,2,2020-09-15
+,"Flat / Apartment in Sa Torre, Llucmajor",Mallorca,Llucmajor,Sa Torre,178500,2,88,1,2020-09-15
+,"Penthouse in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,195000,2,63,3,2020-09-15
+,"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,120000,3,98,2,2020-09-15
+,Flat / Apartment in Muro,Mallorca,Muro,,160000,3,149,1,2020-09-15
+,"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,135000,3,94,3,2020-09-15
+,"Flat / Apartment in Cala Ferrera - Cala Serena, Felanitx",Mallorca,Felanitx,Cala Ferrera - Cala Serena,140000,2,70,1,2020-09-15
+,"Penthouse in ausias march, 9, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,190000,3,115,3,2020-09-15
+,"Flat / Apartment in sant rafael, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,169000,3,90,2,2020-09-15
+,"Flat / Apartment in calle Mare de Déu de Montserrat, 17, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,190000,3,100,1,2020-09-15
+,"Flat / Apartment in calle de Pere Ripoll i Palou, 20, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,188000,3,112,1,2020-09-15
+,"Flat / Apartment in ferragut, 4, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,117260,3,83,2,2020-09-15
+,"Flat / Apartment in plaza Fèlix Rodríguez de la Fuente, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,98000,2,64,2,2020-09-15
+,"Flat / Apartment in Cap Roig, Puerto de Pollença",Mallorca,Puerto de Pollença,Cap Roig,190000,2,57,2,2020-09-15
+,"Flat / Apartment in Binicanella, Cala Millor",Mallorca,Cala Millor,Binicanella,139000,2,94,2,2020-09-15
+,"Flat / Apartment in Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,199900,4,120,3,2020-09-15
+,"Flat / Apartment in plaza de Miquel Riera i Perelló, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,170000,2,90,1,2020-09-15
+,"Penthouse in Rafael alberti, 55, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,168000,2,176,2,2020-09-15
+,"Flat / Apartment in Des forn, 13, Montuiri",Mallorca,Montuiri,13,175000,2,120,1,2020-09-15
+,"Flat / Apartment in calle de Pere Llobera, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,149000,2,84,2,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,177000,3,92,3,2020-09-15
+,"Flat / Apartment in Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Nou - Estadi Balear - Son Malferit,189000,3,85,1,2020-09-15
+,"Flat / Apartment in calle Sant Rafael, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,185000,3,92,1,2020-09-15
+,"Flat / Apartment in calle d'Aragó, Hostalets - Son Fortesa Sud, Palma de Mallorca",Mallorca,Palma de Mallorca,Hostalets - Son Fortesa Sud,189000,3,94,4,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,149800,3,104,4,2020-09-15
+,"Flat / Apartment in sant agusti, 49, Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,120000,3,94,1,2020-09-15
+,"Penthouse in salut, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,199000,2,70,1,2020-09-15
+,"Flat / Apartment in calle de Gràcia, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,198000,3,125,1,2020-09-15
+,"Penthouse in Canaleta, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,134000,4,130,5,2020-09-15
+,"Penthouse in calle bonança, Colonia de Sant Jordi",Mallorca,Colonia de Sant Jordi,calle bonança,178000,2,70,2,2020-09-15
+,"Flat / Apartment in calle de Faust Bonafè, Son Ferriol, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Ferriol,189000,2,53,2,2020-09-15
+,"Flat / Apartment in calle Terral, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,157000,3,83,3,2020-09-15
+,"Flat / Apartment in calle del Pare Ventura, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,189000,3,85,3,2020-09-15
+,"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,159000,4,135,4,2020-09-15
+,Duplex in Sineu,Mallorca,Sineu,,191000,2,80,1,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,190000,3,61,5,2020-09-15
+,"Flat / Apartment in plaza Fèlix Rodríguez de la Fuente, 1, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,98000,2,64,2,2020-09-15
+,"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,181000,2,70,1,2020-09-15
+,"Duplex in calle del Mostassaf, Sineu",Mallorca,Sineu,calle del Mostassaf,182000,3,114,1,2020-09-15
+,"Flat / Apartment in Cala Malgrana, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,128000,3,81,5,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,187000,3,95,2,2020-09-15
+,"Penthouse in Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,190000,2,70,2,2020-09-15
+,Flat / Apartment in Porreres,Mallorca,Porreres,,193000,3,120,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,198000,4,115,1,2020-09-15
+,"Flat / Apartment in El Forti, Palma de Mallorca",Mallorca,Palma de Mallorca,El Forti,180000,3,92,4,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,157500,3,82,3,2020-09-15
+,"Penthouse in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,163000,2,97,4,2020-09-15
+,"Flat / Apartment in ronda del Puerto, 4, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,168000,3,120,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,179000,2,88,1,2020-09-15
+,"Flat / Apartment in calle de Sant Joan de la Creu, 70, Son Ferriol, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Ferriol,184000,2,72,2,2020-09-15
+,"Flat / Apartment in via den jordi, Canyamel",Mallorca,Canyamel,via den jordi,198000,2,81,1,2020-09-15
+,"Flat / Apartment in calle Henri Dunant, Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,199000,2,104,1,2020-09-15
+,"Flat / Apartment in calle del Lledoner, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,195000,3,85,2,2020-09-15
+,"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,87300,3,75,5,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,130000,3,136,2,2020-09-15
+,"Flat / Apartment in calle de Cala Malgrana, 10, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,122000,3,81,5,2020-09-15
+,"Flat / Apartment in calle de Blanes Viale, 8, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,160000,3,93,3,2020-09-15
+,"Flat / Apartment in plaza des Blanquer, 56, Blanquer, Inca",Mallorca,Inca,Blanquer,184000,3,190,1,2020-09-15
+,"Flat / Apartment in calle del Lledoner, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,177000,3,90,2,2020-09-15
+,"Flat / Apartment in calle Isidoro Antillon, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,190000,3,85,2,2020-09-15
+,"Flat / Apartment in RAMON DESBRULL, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,169000,3,100,1,2020-09-15
+,"Flat / Apartment in calle Port de Palos, 3, Portocolom, Felanitx",Mallorca,Felanitx,Portocolom,175000,2,66,1,2020-09-15
+,"Penthouse in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,175000,3,108,2,2020-09-15
+,"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,177000,3,91,1,2020-09-15
+,"Flat / Apartment in Rafael Moger, 1, Coll d'En Rabassa, Palma de Mallorca",Mallorca,Palma de Mallorca,Coll d'En Rabassa,195000,3,100,2,2020-09-15
+,"Flat / Apartment in Son Curt, Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,139000,2,77,2,2020-09-15
+,"Flat / Apartment in Juan XXIII, 95, Puerto de Pollença",Mallorca,Puerto de Pollença,95,199000,3,90,1,2020-09-15
+,"Flat / Apartment in avenida Puig des Teix, Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,194000,2,79,1,2020-09-15
+,"Flat / Apartment in avenida de Bartomeu Esteva Mestre Cuiner, Andrach, Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,162500,3,95,2,2020-09-15
+,"Flat / Apartment in calle del Marisc, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,140000,2,70,2,2020-09-15
+,"Flat / Apartment in calle Juan XXIII, 43, 1, Puerto de Pollença",Mallorca,Puerto de Pollença,1,190000,3,90,1,2020-09-15
+,"Flat / Apartment in camino de Costitx, Inca, 4, Zona periurbana, Inca",Mallorca,Inca,Zona periurbana,158000,3,112,4,2020-09-15
+,"Flat / Apartment in calle DE MALLORCA, Campos",Mallorca,Campos,calle DE MALLORCA,147000,3,100,2,2020-09-15
+,"Flat / Apartment in Caballero d'Asphelt, Hostalets - Son Fortesa Sud, Palma de Mallorca",Mallorca,Palma de Mallorca,Hostalets - Son Fortesa Sud,198000,3,87,6,2020-09-15
+,"Flat / Apartment in Pere Joan Llobet, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,195000,4,125,5,2020-09-15
+,"Flat / Apartment in calle Sant Mateu, 38, Colonia de Sant Pere",Mallorca,Colonia de Sant Pere,38,196000,2,85,1,2020-09-15
+,"Flat / Apartment in Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Nou - Estadi Balear - Son Malferit,190890,2,120,1,2020-09-15
+,"Flat / Apartment in calle de Cala Mitjana, 36, Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,195000,2,100,1,2020-09-15
+,"Flat / Apartment in Gran Via Colom, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,168000,3,127,4,2020-09-15
+,"Duplex in calle Bonany, 94, Villafranca de Bonany",Mallorca,Villafranca de Bonany,94,170000,2,115,1,2020-09-15
+,"Flat / Apartment in Cala Major, Palma de Mallorca",Mallorca,Palma de Mallorca,Cala Major,147900,2,71,6,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,148000,3,94,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,163000,3,80,4,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,195000,2,77,2,2020-09-15
+,Flat / Apartment in Arta,Mallorca,Arta,,195000,2,76,2,2020-09-15
+,"Flat / Apartment in Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,188000,3,120,1,2020-09-15
+,"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,144500,2,75,3,2020-09-15
+,"Flat / Apartment in Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,Sa Cabana - Can Carbonell - Ses Cases Noves,199000,3,110,3,2020-09-15
+,Flat / Apartment in Muro,Mallorca,Muro,,136000,2,60,3,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,174000,2,90,2,2020-09-15
+,"Flat / Apartment in Xaloc, Puerto de Pollença",Mallorca,Puerto de Pollença,Xaloc,177500,3,120,1,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,190000,2,104,1,2020-09-15
+,"Duplex in calle d'En Gual, NN, Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,120000,2,128,2,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,155000,3,95,2,2020-09-15
+,"Penthouse in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,147000,3,124,3,2020-09-15
+,"Flat / Apartment in Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,175000,3,118,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,162000,3,73,4,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,183000,4,100,2,2020-09-15
+,"Flat / Apartment in avenida LAS PALMERAS, NN, Ses Palmeres, Llucmajor",Mallorca,Llucmajor,Ses Palmeres,177000,2,75,5,2020-09-15
+,"Flat / Apartment in Sa Torre, Llucmajor",Mallorca,Llucmajor,Sa Torre,185000,3,90,1,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,184000,2,72,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,199000,3,82,2,2020-09-15
+,"Penthouse in Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,144800,2,43,4,2020-09-15
+,"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,128700,3,79,2,2020-09-15
+,Penthouse in Campos,Mallorca,Campos,,166000,3,100,2,2020-09-15
+,"Penthouse in Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Ciutat d'Alcúdia,185000,3,98,2,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,185000,3,157,2,2020-09-15
+,Duplex in Villafranca de Bonany,Mallorca,Villafranca de Bonany,,152000,2,90,1,2020-09-15
+,"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,168000,2,85,1,2020-09-15
+,"Flat / Apartment in Jose de diego, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,190000,3,90,1,2020-09-15
+,Flat / Apartment in Sa Ràpita,Mallorca,Sa Ràpita,,197000,2,70,2,2020-09-15
+,"Duplex in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,136000,2,70,2,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,189000,2,83,1,2020-09-15
+,"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,184000,2,70,1,2020-09-15
+,"Flat / Apartment in eivissa, Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Ciutat d'Alcúdia,167000,2,68,1,2020-09-15
+,"Flat / Apartment in calle del Pare Andreu Fernández, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,105000,2,80,1,2020-09-15
+,"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,Blanquer,174000,2,90,2,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,159500,2,62,4,2020-09-15
+,"Flat / Apartment in via mallorca, 36, Cala Ratjada",Mallorca,Cala Ratjada,36,168000,2,85,2,2020-09-15
+,"Flat / Apartment in Jacinto guerrero, NN, Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,145000,3,82,1,2020-09-15
+,"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,189000,4,120,4,2020-09-15
+,"Penthouse in calle principe, 4, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,85000,2,86,4,2020-09-15
+,"Flat / Apartment in Torre den bibiloni, 25, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,117500,2,86,4,2020-09-15
+,"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,Blanquer,153000,3,135,2,2020-09-15
+,"Flat / Apartment in homs, 11, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,164000,3,86,1,2020-09-15
+,Penthouse in Capdepera,Mallorca,Capdepera,,189000,2,97,2,2020-09-15
+,"Penthouse in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,189000,3,92,5,2020-09-15
+,"Flat / Apartment in Isidoro Antillon, 88, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,159900,3,70,2,2020-09-15
+,"Flat / Apartment in joan pons y marques, El Forti, Palma de Mallorca",Mallorca,Palma de Mallorca,El Forti,197000,2,90,7,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,167000,3,110,2,2020-09-15
+,"Duplex in avenida Reyes Catolicos, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,154500,2,110,2,2020-09-15
+,"Flat / Apartment in carretera de Manacor, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,159000,2,86,4,2020-09-15
+,"Flat / Apartment in avenida general luque, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,174000,3,125,1,2020-09-15
+,"Flat / Apartment in guillem vives, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,184000,2,80,1,2020-09-15
+,"Flat / Apartment in calle Santa Florentina, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,127000,3,99,1,2020-09-15
+,"Flat / Apartment in calle Miquel Bisellach, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,180000,3,87,2,2020-09-15
+,"Flat / Apartment in del doctor barbieri, 23, Son Serra - La Vileta - Son Pereto, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Serra - La Vileta - Son Pereto,170000,2,65,1,2020-09-15
+,"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,162000,2,68,2,2020-09-15
+,"Duplex in Eusebio Estada, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,173000,2,75,5,2020-09-15
+,"Flat / Apartment in calle d'Albacete, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,Camp Redo,165000,3,70,6,2020-09-15
+,"Flat / Apartment in calle de Francesc Julià, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,84500,3,85,2,2020-09-15
+,"Flat / Apartment in plaza de s'estacio, Campos",Mallorca,Campos,plaza de s'estacio,146000,2,94,3,2020-09-15
+,"Flat / Apartment in plaza de Libertad, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,195000,3,110,3,2020-09-15
+,"Flat / Apartment in Berga, 8, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,200000,3,119,8,2020-09-15
+,"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,Blanquer,159000,3,90,2,2020-09-15
+,"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,180000,2,65,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,139000,4,120,4,2020-09-15
+,"Flat / Apartment in isidoro antillon, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,170000,3,75,2,2020-09-15
+,"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,175000,2,65,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,187000,4,94,2,2020-09-15
+,"Flat / Apartment in Garita, La Bonanova - Porto Pi, Palma de Mallorca",Mallorca,Palma de Mallorca,La Bonanova - Porto Pi,170000,2,70,1,2020-09-15
+,"Flat / Apartment in avenida PERE MAS I REUS, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,180000,2,79,7,2020-09-15
+,"Flat / Apartment in calle Aragón, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,199000,3,105,3,2020-09-15
+,"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,125000,3,90,2,2020-09-15
+,"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,199000,3,75,6,2020-09-15
+,"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,Blanquer,175000,3,116,3,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,175000,3,85,2,2020-09-15
+,"Flat / Apartment in Berga, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,173000,4,155,4,2020-09-15
+,"Flat / Apartment in Centro, Inca",Mallorca,Inca,Centro,190000,3,95,2,2020-09-15
+,"Flat / Apartment in calle Garrover, 1, Ses Palmeres, Llucmajor",Mallorca,Llucmajor,Ses Palmeres,160000,2,67,2,2020-09-15
+,"Flat / Apartment in calle de Sagasta, 23, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,187000,2,56,2,2020-09-15
+,"Flat / Apartment in TEODOR CANET, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,196500,3,100,2,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,159500,2,68,4,2020-09-15
+,"Flat / Apartment in calle d'Eusebi Estada, 97, Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,185000,3,83,6,2020-09-15
+,"Flat / Apartment in avenida san fernando, Son Dameto, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Dameto,191000,4,115,1,2020-09-15
+,"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,145000,2,77,2,2020-09-15
+,"Penthouse in Sant Rafael, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,157500,3,100,1,2020-09-15
+,Penthouse in Colonia de Sant Jordi,Mallorca,Colonia de Sant Jordi,,199900,2,99,2,2020-09-15
+,Penthouse in Sant Joan,Mallorca,Sant Joan,,199000,3,127,3,2020-09-15
+,"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,124000,3,102,2,2020-09-15
+,"Flat / Apartment in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,137000,3,68,1,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,190000,3,93,3,2020-09-15
+,Flat / Apartment in Cala d'Or,Mallorca,Cala d'Or,,199500,2,78,1,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,199000,3,104,4,2020-09-15
+,Flat / Apartment in Santa Margalida,Mallorca,Santa Margalida,,130000,2,85,2,2020-09-15
+,"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,Cas Capiscol,199500,3,121,3,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,179000,2,75,1,2020-09-15
+,"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,148500,3,160,1,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,154500,3,105,4,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,164000,4,137,4,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,126000,3,150,2,2020-09-15
+,"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,199000,2,80,1,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,200000,3,95,4,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,198000,3,128,1,2020-09-15
+,Duplex in Pobla (Sa),Mallorca,Pobla (Sa),,148600,2,92,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,150000,3,91,3,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,180000,3,60,1,2020-09-15
+,"Flat / Apartment in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,180000,2,79,2,2020-09-15
+,"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,192000,3,85,1,2020-09-15
+,"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,119900,4,140,8,2020-09-15
+,"Flat / Apartment in Pont d'Inca, Marratxi",Mallorca,Marratxi,Pont d'Inca,180000,2,79,2,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,129000,3,89,3,2020-09-15
+,"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,190000,2,111,1,2020-09-15
+,"Flat / Apartment in calle del Regal, Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,195000,3,100,1,2020-09-15
+,"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,140000,3,98,1,2020-09-15
+,"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,Magaluf,169900,2,63,1,2020-09-15
+,"Flat / Apartment in calle de Francesc Pi i Margall, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,172000,4,93,1,2020-09-15
+,"Flat / Apartment in Pont d'Inca, Marratxi",Mallorca,Marratxi,Pont d'Inca,123500,2,66,2,2020-09-15
+,"Flat / Apartment in Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,Sa Cabana - Can Carbonell - Ses Cases Noves,195000,2,85,1,2020-09-15
+,"Flat / Apartment in calle de Son Poca Palla, Capdepera",Mallorca,Capdepera,calle de Son Poca Palla,170000,3,95,2,2020-09-15
+,"Flat / Apartment in calle de Sa Teulera, Capdepera",Mallorca,Capdepera,calle de Sa Teulera,195000,3,118,1,2020-09-15
+,"Flat / Apartment in Can Rayo, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,135000,2,60,1,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,157000,3,76,8,2020-09-15
+,Flat / Apartment in Montuiri,Mallorca,Montuiri,,175000,2,123,3,2020-09-15
+,"Penthouse in calle campanet, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,150000,2,106,2,2020-09-15
+,Penthouse in Santa Margalida,Mallorca,Santa Margalida,,134400,3,105,2,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,139000,2,80,2,2020-09-15
+,"Flat / Apartment in avenida dels Reis Catòlics, 200, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,153000,2,71,1,2020-09-15
+,"Flat / Apartment in calle de Santa Margalida, 10, Sa Torre, Llucmajor",Mallorca,Llucmajor,Sa Torre,177000,2,75,1,2020-09-15
+,"Flat / Apartment in avenida Olivera, 9, Magaluf, Calvià",Mallorca,Calvià,Magaluf,147000,2,60,2,2020-09-15
+,"Flat / Apartment in calle Puerto Rico, 8, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,169000,3,100,3,2020-09-15
+,"Flat / Apartment in calle de ses monges, Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,162750,3,129,3,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,189500,3,90,1,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,184000,2,60,1,2020-09-15
+,"Penthouse in Sa Torre, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,139500,3,141,1,2020-09-15
+,"Flat / Apartment in Passatge de Cala Murta, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,149000,3,84,3,2020-09-15
+,"Flat / Apartment in calle dels Foners, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,167000,3,65,6,2020-09-15
+,"Flat / Apartment in Gabriel Cabronell, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,137200,3,79,2,2020-09-15
+,"Penthouse in calle Manacor, Campos",Mallorca,Campos,calle Manacor,179000,3,110,3,2020-09-15
+,"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,167000,3,114,1,2020-09-15
+,Flat / Apartment in S'Illot,Mallorca,S'Illot,,180000,2,90,1,2020-09-15
+,"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,175000,3,95,3,2020-09-15
+,Flat / Apartment in Cala Millor,Mallorca,Cala Millor,,199500,2,80,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,163000,3,73,4,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,179000,3,80,2,2020-09-15
+,"Penthouse in Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,179000,2,119,3,2020-09-15
+,"Flat / Apartment in Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,192500,2,55,3,2020-09-15
+,"Penthouse in Figera, Son Serra - La Vileta - Son Pereto, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Serra - La Vileta - Son Pereto,150000,3,77,4,2020-09-15
+,"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,Magaluf,157000,2,56,2,2020-09-15
+,"Flat / Apartment in calle Cabana, Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,Sa Cabana - Can Carbonell - Ses Cases Noves,198000,2,80,1,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,199000,3,95,3,2020-09-15
+,"Flat / Apartment in calle de la Salut, 54, El Terreno, Palma de Mallorca",Mallorca,Palma de Mallorca,El Terreno,197000,2,92,1,2020-09-15
+,"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,197000,2,54,1,2020-09-15
+,"Penthouse in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,169000,3,90,1,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,190000,3,85,3,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,189000,2,89,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,165000,3,76,4,2020-09-15
+,"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,190000,2,81,1,2020-09-15
+,"Flat / Apartment in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,143000,2,50,1,2020-09-15
+,"Flat / Apartment in calle del Bisbe Sastre, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,159000,2,62,1,2020-09-15
+,"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,176000,3,89,2,2020-09-15
+,"Penthouse in carretera de Manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,126000,2,72,3,2020-09-15
+,"Flat / Apartment in Maó, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,108000,4,100,3,2020-09-15
+,"Flat / Apartment in Penya y Segat - Villas de Regana, NN, Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,Badia Blava-Badia Gran-Tolleric,155000,2,74,1,2020-09-15
+,"Flat / Apartment in Son Ferrer, Calvià",Mallorca,Calvià,Son Ferrer,165000,2,60,1,2020-09-15
+,"Duplex in calle de Santa Bàrbara, 82, Villafranca de Bonany",Mallorca,Villafranca de Bonany,82,165000,2,99,1,2020-09-15
+,"Flat / Apartment in Sant Agustí, Palma de Mallorca",Mallorca,Palma de Mallorca,Sant Agustí,199000,2,65,1,2020-09-15
+,"Flat / Apartment in calle del Vidriell, 27, Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Ciutat d'Alcúdia,164000,2,78,2,2020-09-15
+,"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,96000,3,88,1,2020-09-15
+,"Flat / Apartment in calle Pere II, 32, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,177000,4,80,2,2020-09-15
+,"Flat / Apartment in via Cornisa, 52, Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,140000,2,52,3,2020-09-15
+,"Flat / Apartment in calle de l'Àguila, 9, Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,Badia Blava-Badia Gran-Tolleric,195000,2,118,1,2020-09-15
+,"Penthouse in ronda ponent, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,159000,3,84,4,2020-09-15
+,"Penthouse in Centro, Inca",Mallorca,Inca,Centro,145000,2,70,2,2020-09-15
+,"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,114000,3,83,3,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,175000,3,95,2,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,131500,3,85,3,2020-09-15
+,"Penthouse in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,190000,3,139,3,2020-09-15
+,Flat / Apartment in Cala d'Or,Mallorca,Cala d'Or,,189500,2,80,1,2020-09-15
+,"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,196290,3,100,2,2020-09-15
+,"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,165000,3,79,2,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,179900,3,90,1,2020-09-15
+,"Flat / Apartment in Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,Sindicat,199500,2,60,3,2020-09-15
+,"Flat / Apartment in Porto Cristo, Manacor",Mallorca,Manacor,Porto Cristo,127000,2,53,2,2020-09-15
+,"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,115000,3,74,4,2020-09-15
+,"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,199000,2,82,1,2020-09-15
+,"Flat / Apartment in calle Badia, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,168000,2,48,2,2020-09-15
+,"Penthouse in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,189000,3,85,2,2020-09-15
+,Flat / Apartment in Muro,Mallorca,Muro,,198000,3,80,8,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,173000,3,83,1,2020-09-15
+,"Flat / Apartment in calle Puig de Massanella, 58, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,168000,2,75,1,2020-09-15
+,"Flat / Apartment in calle d'Anglaterra, 4, El Terreno, Palma de Mallorca",Mallorca,Palma de Mallorca,El Terreno,195000,2,67,2,2020-09-15
+,"Penthouse in calle de Lluís Martí, 63, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,199000,2,60,6,2020-09-15
+,"Flat / Apartment in avenida des Sementer, 1, Cala d'Or",Mallorca,Cala d'Or,1,198000,2,90,2,2020-09-15
+,"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,Cas Capiscol,179000,4,85,5,2020-09-15
+,"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,150000,3,68,4,2020-09-15
+,"Flat / Apartment in calle de la Moreneta, 9, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,139500,3,68,1,2020-09-15
+,"Flat / Apartment in calle de Ca s'Hereu, 19, Cala Millor",Mallorca,Cala Millor,19,185000,3,98,1,2020-09-15
+,"Penthouse in Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,88000,2,74,1,2020-09-15
+,"Penthouse in Arxiduc, Palma de Mallorca",Mallorca,Palma de Mallorca,Arxiduc,173000,2,63,5,2020-09-15
+,"Flat / Apartment in calle de Joan Alcover, 40, Alaró",Mallorca,Alaró,40,165000,3,93,1,2020-09-15
+,"Flat / Apartment in sant miquel, 30, Centro, Inca",Mallorca,Inca,Centro,148000,2,84,2,2020-09-15
+,"Flat / Apartment in calle Cabana, 49, Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,Sa Cabana - Can Carbonell - Ses Cases Noves,190000,3,110,3,2020-09-15
+,"Flat / Apartment in calle Na Plana, 4, Maioris-Puig de Ros, Llucmajor",Mallorca,Llucmajor,Maioris-Puig de Ros,199000,2,80,3,2020-09-15
+,"Flat / Apartment in carretera de Manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,146000,3,90,4,2020-09-15
+,"Flat / Apartment in calle del Pare Joan Crespí, 14, Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,178000,3,87,1,2020-09-15
+,"Flat / Apartment in avenida dels Reis Catòlics, 215, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,153000,2,72,1,2020-09-15
+,"Penthouse in calle de l'Oli, Pobla (Sa)",Mallorca,Pobla (Sa),calle de l'Oli,120000,2,85,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,127000,3,80,5,2020-09-15
+,"Flat / Apartment in calle Comte de Sallent, 28, Bañalbufar",Mallorca,Bañalbufar,28,170000,2,60,1,2020-09-15
+,"Penthouse in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,198000,3,96,2,2020-09-15
+,"Flat / Apartment in calle 328, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,196000,2,100,1,2020-09-15
+,"Flat / Apartment in calle de l'Estany Rodó, 3, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,185000,2,90,2,2020-09-15
+,"Flat / Apartment in ronda nord, 82, Pobla (Sa)",Mallorca,Pobla (Sa),82,160000,3,100,2,2020-09-15
+,"Flat / Apartment in paseo Estacio, 7, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,170000,2,86,3,2020-09-15
+,"Penthouse in calle Pedro Más y Reus, 10, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,180000,3,150,3,2020-09-15
+,"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,180000,3,125,3,2020-09-15
+,"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,179000,2,84,1,2020-09-15
+,"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,131000,3,97,3,2020-09-15
+,"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,98000,3,117,3,2020-09-15
+,"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,195000,3,171,1,2020-09-15
+,"Penthouse in Rinco Greco, 4, Colonia de Sant Jordi",Mallorca,Colonia de Sant Jordi,4,180000,2,75,4,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,169900,3,85,2,2020-09-15
+,Flat / Apartment in Puerto de Pollença,Mallorca,Puerto de Pollença,,144000,2,65,3,2020-09-15
+,"Flat / Apartment in calle Mollet de l'Albufera, NN, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,175000,3,100,1,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,169000,3,141,3,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,200000,3,98,4,2020-09-15
+,"Flat / Apartment in virgen de lluc, El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,98000,3,80,4,2020-09-15
+,"Flat / Apartment in avenida dels Reis Catòlics, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,160000,2,75,2,2020-09-15
+,Flat / Apartment in Arta,Mallorca,Arta,,149000,2,83,1,2020-09-15
+,"Flat / Apartment in Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,96000,2,45,4,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,180000,3,95,1,2020-09-15
+,"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,190000,3,80,1,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,165000,4,182,2,2020-09-15
+,Flat / Apartment in Binissalem,Mallorca,Binissalem,,180000,3,95,2,2020-09-15
+,"Penthouse in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,Cas Capiscol,195000,2,79,7,2020-09-15
+,"Flat / Apartment in avenida Rei Jaume II, 91, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,158000,3,102,2,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,169700,4,96,4,2020-09-15
+,"Flat / Apartment in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,170000,3,89,2,2020-09-15
+,"Penthouse in calle del Pare Guillem Vives, 7, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,184000,2,75,1,2020-09-15
+,"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,169000,2,80,1,2020-09-15
+,"Flat / Apartment in Portocolom, Felanitx",Mallorca,Felanitx,Portocolom,180000,2,65,1,2020-09-15
+,"Flat / Apartment in santa ana, Muro",Mallorca,Muro,santa ana,160000,2,95,2,2020-09-15
+,"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,179000,2,90,1,2020-09-15
+,"Flat / Apartment in Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,199950,3,110,2,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,199000,3,110,2,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,150000,3,115,1,2020-09-15
+,Flat / Apartment in Son Servera,Mallorca,Son Servera,,140000,2,80,1,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,168000,4,189,1,2020-09-15
+,"Flat / Apartment in Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,195000,3,100,1,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,144900,3,90,1,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,189000,3,115,1,2020-09-15
+,"Flat / Apartment in calle Ficus, Sa Coma",Mallorca,Sa Coma,calle Ficus,199000,2,81,1,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,196000,4,115,1,2020-09-15
+,"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,179000,2,75,3,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,168000,2,67,4,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,177000,3,80,7,2020-09-15
+,"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,179000,2,71,3,2020-09-15
+,Flat / Apartment in Campos,Mallorca,Campos,,137500,3,100,1,2020-09-15
+,"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,190000,2,79,1,2020-09-15
+,Flat / Apartment in Puerto de Pollença,Mallorca,Puerto de Pollença,,195000,3,120,1,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,180000,3,95,6,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,175000,3,140,5,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,196000,3,87,1,2020-09-15
+,"Flat / Apartment in Cap de Formentor, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,117000,3,82,4,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,170000,3,130,6,2020-09-15
+,"Flat / Apartment in Palmanova, Calvià",Mallorca,Calvià,Palmanova,170000,2,65,2,2020-09-15
+,"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,169500,3,102,4,2020-09-15
+,"Flat / Apartment in calle de Manacor, 29, Campos",Mallorca,Campos,29,149000,3,89,2,2020-09-15
+,"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,159900,3,95,2,2020-09-15
+,"Flat / Apartment in calle Valparaíso, 4, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,165000,2,73,1,2020-09-15
+,Flat / Apartment in Capdepera,Mallorca,Capdepera,,175000,3,95,2,2020-09-15
+,"Flat / Apartment in calle Ficus, 3, Sa Coma",Mallorca,Sa Coma,3,180000,2,85,2,2020-09-15
+,"Flat / Apartment in calle d'henri dunant, 28, Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,185000,3,90,2,2020-09-15
+,"Flat / Apartment in sa taulera, 25, Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,200000,3,100,2,2020-09-15
+,"Flat / Apartment in calle Grup Escolar, 62, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,165000,2,80,1,2020-09-15
+,"Flat / Apartment in calle de Ramon de Montcada, 45, Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,135000,2,42,4,2020-09-15
+,"Flat / Apartment in calle de Sant Gabriel, 1, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,195000,3,150,1,2020-09-15
+,"Flat / Apartment in camino Vell de Bunyola, 69, Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,135000,3,94,2,2020-09-15
+,"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,195000,3,90,3,2020-09-15
+,"Flat / Apartment in calle de Miquel Servet, 16, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,183000,3,125,2,2020-09-15
+,"Flat / Apartment in calle Poeta Guillem Colom, 1, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,178000,3,94,4,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,187500,3,75,2,2020-09-15
+,"Penthouse in Blanquer, Inca",Mallorca,Inca,Blanquer,172000,2,86,2,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,168000,2,99,1,2020-09-15
+,Flat / Apartment in Cala Millor,Mallorca,Cala Millor,,170000,2,79,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,135000,2,70,2,2020-09-15
+,"Flat / Apartment in Centro, Inca",Mallorca,Inca,Centro,199000,3,211,1,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,190000,3,120,2,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,149000,2,77,1,2020-09-15
+,"Penthouse in calle de Guillem Terrassa, 37, Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,196000,3,110,4,2020-09-15
+,"Flat / Apartment in Son Dureta, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Dureta,188000,4,106,2,2020-09-15
+,"Flat / Apartment in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,199000,3,84,3,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,173250,3,136,2,2020-09-15
+,"Penthouse in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,138000,2,55,2,2020-09-15
+,Flat / Apartment in Campos,Mallorca,Campos,,175000,3,102,3,2020-09-15
+,"Flat / Apartment in calle Migjorn F, 7, Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,131000,3,113,3,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,162500,3,90,2,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,159000,3,80,2,2020-09-15
+,"Flat / Apartment in calle des Garbelló, 2, Cala d'Or",Mallorca,Cala d'Or,2,190000,3,80,1,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,116600,3,92,1,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,195000,3,171,6,2020-09-15
+,"Flat / Apartment in Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,133000,2,80,2,2020-09-15
+,"Penthouse in Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,Badia Blava-Badia Gran-Tolleric,149000,2,48,1,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,140000,3,101,1,2020-09-15
+,"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,189000,4,102,1,2020-09-15
+,"Flat / Apartment in Jaime II, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,173250,3,100,2,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,190000,4,130,4,2020-09-15
+,"Flat / Apartment in calle Felio Morey Amengual, 29, Capdepera",Mallorca,Capdepera,29,155000,2,75,1,2020-09-15
+,"Flat / Apartment in avenida de la Virgen, 134, Campos",Mallorca,Campos,134,180000,2,110,1,2020-09-15
+,"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,183000,2,72,2,2020-09-15
+,"Penthouse in Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,142000,2,42,4,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,150000,3,68,5,2020-09-15
+,"Flat / Apartment in carretera valldemossa, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,Camp Redo,165000,3,110,4,2020-09-15
+,"Penthouse in Manacor, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,165000,3,120,6,2020-09-15
+,"Flat / Apartment in calle des Forn, Cala Ferrera - Cala Serena, Felanitx",Mallorca,Felanitx,Cala Ferrera - Cala Serena,147000,2,70,1,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,110000,3,93,1,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,169000,3,136,2,2020-09-15
+,"Flat / Apartment in Justicia, Santa Margalida",Mallorca,Santa Margalida,Justicia,130000,2,85,2,2020-09-15
+,"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,176000,3,89,2,2020-09-15
+,Flat / Apartment in Santa Margalida,Mallorca,Santa Margalida,,132500,2,85,1,2020-09-15
+,"Flat / Apartment in La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,139500,4,98,1,2020-09-15
+,Flat / Apartment in Muro,Mallorca,Muro,,136000,2,60,3,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,187000,2,90,1,2020-09-15
+,"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,198000,3,83,2,2020-09-15
+,"Flat / Apartment in calle Mar i Estany, NN, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,193200,4,105,3,2020-09-15
+,"Flat / Apartment in Port d'Andratx, Andratx",Mallorca,Andratx,Port d'Andratx,180000,2,68,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,169000,3,86,1,2020-09-15
+,"Flat / Apartment in calle Gabriel Font i Martorell, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,175000,3,70,3,2020-09-15
+,Duplex in Campos,Mallorca,Campos,,185000,2,80,1,2020-09-15
+,"Flat / Apartment in calle Torre, Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,190000,2,79,1,2020-09-15
+,"Duplex in Arxiduc, Palma de Mallorca",Mallorca,Palma de Mallorca,Arxiduc,175000,2,63,5,2020-09-15
+,Flat / Apartment in Alaró,Mallorca,Alaró,,199000,2,96,2,2020-09-15
+,"Flat / Apartment in Plaça de Toros, Palma de Mallorca",Mallorca,Palma de Mallorca,Plaça de Toros,180000,3,106,1,2020-09-15
+,"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,173000,2,88,2,2020-09-15
+,Flat / Apartment in Cala Millor,Mallorca,Cala Millor,,138000,2,60,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,195000,4,117,5,2020-09-15
+,"Penthouse in Magaluf, Calvià",Mallorca,Calvià,Magaluf,173000,2,64,7,2020-09-15
+,"Flat / Apartment in calle flors, Portals Nous - Bendinat, Calvià",Mallorca,Calvià,Portals Nous - Bendinat,198000,2,60,1,2020-09-15
+,"Flat / Apartment in Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,199900,3,95,2,2020-09-15
+,"Penthouse in Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,185000,2,75,3,2020-09-15
+,"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,169000,3,114,1,2020-09-15
+,"Flat / Apartment in Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,Badia Blava-Badia Gran-Tolleric,155000,2,62,1,2020-09-15
+,"Flat / Apartment in calle Puig de Massanella, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,168000,2,80,1,2020-09-15
+,"Flat / Apartment in calle Major, 42, Centro, Inca",Mallorca,Inca,Centro,190000,3,130,1,2020-09-15
+,"Flat / Apartment in calle de Joan Montaner i Bordoy, 3, Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,180000,3,60,1,2020-09-15
+,"Penthouse in Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,189000,2,66,2,2020-09-15
+,"Flat / Apartment in Sa Indiotería - Son Castelló, Palma de Mallorca",Mallorca,Palma de Mallorca,Sa Indiotería - Son Castelló,129900,2,96,2,2020-09-15
+,"Flat / Apartment in Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,190000,3,120,3,2020-09-15
+,"Flat / Apartment in El Forti, Palma de Mallorca",Mallorca,Palma de Mallorca,El Forti,160000,3,110,4,2020-09-15
+,"Flat / Apartment in Rafal Vell, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Vell,175000,4,140,2,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,130000,2,70,1,2020-09-15
+,"Flat / Apartment in calle Jesus, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,190000,3,120,6,2020-09-15
+,"Flat / Apartment in fabregas, Son Armadams, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Armadams,110000,3,120,5,2020-09-15
+,"Flat / Apartment in Marques de la Fontsanta, Marqués de la Fontsanta, Palma de Mallorca",Mallorca,Palma de Mallorca,Marqués de la Fontsanta,149000,2,75,7,2020-09-15
+,"Flat / Apartment in calle de Pascual Ribot, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,160000,2,70,5,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,159000,3,85,1,2020-09-15
+,"Flat / Apartment in calle de San Roc, Cala Ratjada",Mallorca,Cala Ratjada,calle de San Roc,159000,2,60,Mezzanine,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,112000,3,100,2,2020-09-15
+,"Flat / Apartment in Valparaiso, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,160000,2,80,1,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,168900,2,85,1,2020-09-15
+,Flat / Apartment in Son Servera,Mallorca,Son Servera,,169000,2,100,2,2020-09-15
+,"Flat / Apartment in calle de Sant Lluc, 6, Sa Torre, Llucmajor",Mallorca,Llucmajor,Sa Torre,175000,2,69,1,2020-09-15
+,"Flat / Apartment in calle Salut, 1, S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,160000,2,70,1,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,185000,4,125,5,2020-09-15
+,"Flat / Apartment in calle d'Alvar Campaner, 3, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,155000,3,73,4,2020-09-15
+,"Flat / Apartment in plaza Sant Martí, 5, Muro",Mallorca,Muro,5,126000,3,95,2,2020-09-15
+,"Flat / Apartment in calle de Mallorca, 23, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,190000,3,140,3,2020-09-15
+,"Flat / Apartment in via Gran, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,181000,3,92,2,2020-09-15
+,"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,175000,2,94,1,2020-09-15
+,"Penthouse in sense nom, Cala d'Or",Mallorca,Cala d'Or,sense nom,189900,2,95,2,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,168000,3,80,1,2020-09-15
+,Penthouse in Cala d'Or,Mallorca,Cala d'Or,,199000,2,107,2,2020-09-15
+,"Flat / Apartment in Felanitx centro, Felanitx",Mallorca,Felanitx,Felanitx centro,120000,2,67,2,2020-09-15
+,"Flat / Apartment in avenida de Bartomeu Esteva Mestre Cuiner, 47, Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,160000,3,104,3,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,189000,3,131,3,2020-09-15
+,"Flat / Apartment in Son Cladera - Son Fuster, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cladera - Son Fuster,168500,4,85,5,2020-09-15
+,"Flat / Apartment in ALFONS EL MAGNANIM, L'Olivera - Amanecer, Palma de Mallorca",Mallorca,Palma de Mallorca,L'Olivera - Amanecer,179000,2,80,1,2020-09-15
+,"Flat / Apartment in Foners, Palma de Mallorca",Mallorca,Palma de Mallorca,Foners,155000,3,91,2,2020-09-15
+,"Duplex in Bonany, Sant Joan",Mallorca,Sant Joan,Bonany,165000,2,100,1,2020-09-15
+,"Flat / Apartment in carretera Militar, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,180000,4,110,2,2020-09-15
+,"Flat / Apartment in carretera Militar, Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,180000,4,110,1,2020-09-15
+,"Flat / Apartment in Magaluf, Calvià",Mallorca,Calvià,Magaluf,155000,2,56,2,2020-09-15
+,"Flat / Apartment in Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,170000,3,95,1,2020-09-15
+,"Flat / Apartment in Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,178500,3,125,1,2020-09-15
+,"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,147000,2,55,1,2020-09-15
+,"Flat / Apartment in Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,173250,3,106,2,2020-09-15
+,"Flat / Apartment in Blanquer, Inca",Mallorca,Inca,Blanquer,160000,3,95,2,2020-09-15
+,"Flat / Apartment in Son Canals - Can Capes, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Canals - Can Capes,160000,2,75,2,2020-09-15
+,"Flat / Apartment in Port d'Andratx, Andratx",Mallorca,Andratx,Port d'Andratx,185000,2,60,20,2020-09-15
+,"Flat / Apartment in calle Cunium, 1, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,165000,3,138,2,2020-09-15
+,"Flat / Apartment in calle Pere Seriol, Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,179000,2,95,1,2020-09-15
+,"Duplex in Reyes Católicos, 20, Son Amonda - Reis Catòlics, Inca",Mallorca,Inca,Son Amonda - Reis Catòlics,195000,3,140,3,2020-09-15
+,"Flat / Apartment in Cala Pi-Vallgornera, Llucmajor",Mallorca,Llucmajor,Cala Pi-Vallgornera,190000,2,78,1,2020-09-15
+,"Flat / Apartment in calle de Niceto Alcalá Zamora, 32, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,150000,2,70,3,2020-09-15
+,"Flat / Apartment in calle Gabriel Font i Martorell, 7, Son Cotoner, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Cotoner,200000,3,110,2,2020-09-15
+,"Flat / Apartment in juia, 2, Muro",Mallorca,Muro,2,135000,2,62,3,2020-09-15
+,"Flat / Apartment in calle del Capità Vila, 28, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,154000,2,75,1,2020-09-15
+,"Flat / Apartment in via Mallorca, 36, Cala Ratjada",Mallorca,Cala Ratjada,36,170000,2,88,2,2020-09-15
+,"Flat / Apartment in López de Vega, Magaluf, Calvià",Mallorca,Calvià,Magaluf,142000,2,70,1,2020-09-15
+,"Flat / Apartment in calle del Pare Francesc Molina, 25, Bons Aires, Palma de Mallorca",Mallorca,Palma de Mallorca,Bons Aires,167000,3,85,1,2020-09-15
+,"Flat / Apartment in calle de Menorca, 66, Campos",Mallorca,Campos,66,165000,3,108,3,2020-09-15
+,"Flat / Apartment in Passatge de Can Feixina, 25, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,165000,3,86,1,2020-09-15
+,"Flat / Apartment in calle Rodriguez de Arias, 22, Camp d'En Serralta , Palma de Mallorca",Mallorca,Palma de Mallorca,Camp d'En Serralta ,199000,3,82,3,2020-09-15
+,"Penthouse in calle BINIALI, Rafal Nou - Estadi Balear - Son Malferit, Palma de Mallorca",Mallorca,Palma de Mallorca,Rafal Nou - Estadi Balear - Son Malferit,188000,3,106,4,2020-09-15
+,"Penthouse in pasaje Particula Levante, 24, Badia Blava-Badia Gran-Tolleric, Llucmajor",Mallorca,Llucmajor,Badia Blava-Badia Gran-Tolleric,155000,2,80,1,2020-09-15
+,"Duplex in calle de Manacor, 24, Campos",Mallorca,Campos,24,185000,2,94,1,2020-09-15
+,"Duplex in Son Gotleu, NN, Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,130000,2,50,2,2020-09-15
+,"Flat / Apartment in calle de l'Assumpció, 4, Portocolom, Felanitx",Mallorca,Felanitx,Portocolom,149900,2,65,1,2020-09-15
+,"Flat / Apartment in carretera de Manacor, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,148000,3,95,4,2020-09-15
+,"Penthouse in calle puerto rico, 10, Nou Llevant, Palma de Mallorca",Mallorca,Palma de Mallorca,Nou Llevant,199000,3,100,7,2020-09-15
+,"Flat / Apartment in calle d'Holanda, 7, Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,168000,2,88,2,2020-09-15
+,"Flat / Apartment in calle de Sant Damas, 38, La Soledat, Palma de Mallorca",Mallorca,Palma de Mallorca,La Soledat,195500,3,125,4,2020-09-15
+,"Flat / Apartment in avenida de les Germanies, 57, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,167000,3,115,2,2020-09-15
+,"Flat / Apartment in calle de Ramon de Montcada, 41, Santa Ponça, Calvià",Mallorca,Calvià,Santa Ponça,175000,2,67,3,2020-09-15
+,"Flat / Apartment in avenida del General Luque, 10, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,177000,3,110,2,2020-09-15
+,"Flat / Apartment in calle Pere II, 32, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,170000,3,105,3,2020-09-15
+,"Flat / Apartment in carretera de Llubí, 27, Pobla (Sa)",Mallorca,Pobla (Sa),27,168000,3,132,1,2020-09-15
+,"Flat / Apartment in calle de Francesc Pi i Margall, 21, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,172000,4,93,1,2020-09-15
+,"Flat / Apartment in calle Mossèn Antoni M. Alcover, 17, Campos",Mallorca,Campos,17,160000,3,98,1,2020-09-15
+,"Penthouse in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,122000,2,50,1,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,179000,2,75,1,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,143000,3,127,3,2020-09-15
+,"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,Cas Capiscol,199500,4,110,4,2020-09-15
+,"Flat / Apartment in Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,159000,3,90,2,2020-09-15
+,"Flat / Apartment in Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,Sa Cabana - Can Carbonell - Ses Cases Noves,200000,2,85,1,2020-09-15
+,Flat / Apartment in Montuiri,Mallorca,Montuiri,,191000,3,98,1,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,185000,3,72,2,2020-09-15
+,"Flat / Apartment in Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,200000,3,85,1,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,165000,3,73,3,2020-09-15
+,"Flat / Apartment in Portocolom, Felanitx",Mallorca,Felanitx,Portocolom,178500,3,70,1,2020-09-15
+,Flat / Apartment in Campos,Mallorca,Campos,,137500,2,80,2,2020-09-15
+,"Flat / Apartment in Son Gotleu, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Gotleu,138000,3,85,1,2020-09-15
+,"Flat / Apartment in Sa Cabana - Can Carbonell - Ses Cases Noves, Marratxi",Mallorca,Marratxi,Sa Cabana - Can Carbonell - Ses Cases Noves,199500,3,110,3,2020-09-15
+,"Flat / Apartment in Centro, Inca",Mallorca,Inca,Centro,130000,2,92,1,2020-09-15
+,"Flat / Apartment in Llucmajor Interior, Llucmajor",Mallorca,Llucmajor,Llucmajor Interior,198000,3,120,1,2020-09-15
+,"Flat / Apartment in calle del Pintor Joan Gris, 17, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,110000,3,98,2,2020-09-15
+,"Flat / Apartment in C/Sureda, 62, Campos",Mallorca,Campos,62,185000,3,100,2,2020-09-15
+,"Flat / Apartment in Cas Capiscol, Palma de Mallorca",Mallorca,Palma de Mallorca,Cas Capiscol,149000,3,70,1,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,145000,2,81,2,2020-09-15
+,Flat / Apartment in Pobla (Sa),Mallorca,Pobla (Sa),,176000,3,107,1,2020-09-15
+,"Flat / Apartment in calle de Crist Rei, 140, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,189000,2,70,1,2020-09-15
+,"Flat / Apartment in calle de la Llotgeta, 1, Sindicat, Palma de Mallorca",Mallorca,Palma de Mallorca,Sindicat,199500,2,50,3,2020-09-15
+,"Flat / Apartment in calle de Blanquerna, 8, Gran Via de Colom, Inca",Mallorca,Inca,Gran Via de Colom,122000,3,95,2,2020-09-15
+,"Flat / Apartment in camino dels Reis, 25, Genova, Palma de Mallorca",Mallorca,Palma de Mallorca,Genova,159990,2,77,4,2020-09-15
+,"Flat / Apartment in Centro, Inca",Mallorca,Inca,Centro,175000,3,110,3,2020-09-15
+,"Flat / Apartment in calle Joan Síndic, 15, Pobla (Sa)",Mallorca,Pobla (Sa),15,120000,2,85,1,2020-09-15
+,"Flat / Apartment in calle Torcuato Luca Tena, 33, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,185000,2,60,4,2020-09-15
+,"Flat / Apartment in carretera de Manacor, 5, Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,196000,3,95,3,2020-09-15
+,"Flat / Apartment in calle del General Weyler, 148, Cristo Rey - Parque Europa, Inca",Mallorca,Inca,Cristo Rey - Parque Europa,180000,3,135,1,2020-09-15
+,"Flat / Apartment in calle d'Es Rebumbori, 2, Manacor Centro, Manacor",Mallorca,Manacor,Manacor Centro,166000,2,100,2,2020-09-15
+,"Flat / Apartment in calle del Sol, 2, Ciutat d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Ciutat d'Alcúdia,165000,3,97,3,2020-09-15
+,"Flat / Apartment in calle Gran, 135, Pobla (Sa)",Mallorca,Pobla (Sa),135,175000,4,93,2,2020-09-15
+,"Penthouse in calle Gran, 157, Pobla (Sa)",Mallorca,Pobla (Sa),157,112000,3,141,3,2020-09-15
+,"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,179000,2,110,1,2020-09-15
+,Flat / Apartment in Puerto de Pollença,Mallorca,Puerto de Pollença,,199900,2,80,2,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,200000,3,90,8,2020-09-15
+,"Flat / Apartment in Pere Garau, Palma de Mallorca",Mallorca,Palma de Mallorca,Pere Garau,169000,3,90,1,2020-09-15
+,Flat / Apartment in Muro,Mallorca,Muro,,137000,2,60,3,2020-09-15
+,"Flat / Apartment in Port d'Alcúdia - Platja d'Alcúdia, Alcúdia",Mallorca,Alcúdia,Port d'Alcúdia - Platja d'Alcúdia,180000,3,100,1,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,190000,3,125,4,2020-09-15
+,"Flat / Apartment in Andratx Pueblo, Andratx",Mallorca,Andratx,Andratx Pueblo,139900,2,85,2,2020-09-15
+,"Flat / Apartment in Sta Catalina - El Jonquet, Palma de Mallorca",Mallorca,Palma de Mallorca,Sta Catalina - El Jonquet,200000,2,82,2,2020-09-15
+,"Flat / Apartment in calle del General Riera, 90, Camp Redo, Palma de Mallorca",Mallorca,Palma de Mallorca,Camp Redo,185000,4,110,1,2020-09-15
+,"Flat / Apartment in avenida romero, 26, Can Picafort, Santa Margalida",Mallorca,Santa Margalida,Can Picafort,195000,3,120,2,2020-09-15
+,"Flat / Apartment in El Vivero, Palma de Mallorca",Mallorca,Palma de Mallorca,El Vivero,151000,3,72,3,2020-09-15
+,"Flat / Apartment in Ses Cadenes-Arenal, Palma de Mallorca",Mallorca,Palma de Mallorca,Ses Cadenes-Arenal,188000,2,77,2,2020-09-15
+,"Flat / Apartment in calle del Cap Blanc, 9, Son Roca - Son Ximelis - Son Anglada, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Roca - Son Ximelis - Son Anglada,137000,2,77,3,2020-09-15
+,"Flat / Apartment in S'Arenal, Llucmajor",Mallorca,Llucmajor,S'Arenal,188000,3,115,1,2020-09-15
+,"Flat / Apartment in Son Oliva, Palma de Mallorca",Mallorca,Palma de Mallorca,Son Oliva,147000,2,70,2,2020-09-15

@@ -9,6 +9,7 @@ import scrapy
 
 
 class IslandScraperItem(scrapy.Item):
+	title = scrapy.Field()
 	island = scrapy.Field()
 	locality = scrapy.Field()
 	area = scrapy.Field()
