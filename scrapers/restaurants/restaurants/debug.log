@@ -1,2 +1,15 @@
 [0919/213902.236:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
 [0919/213902.238:ERROR:exception_snapshot_win.cc(99)] thread ID 21256 not found in process
+[0921/210544.314:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0921/210544.316:ERROR:exception_snapshot_win.cc(99)] thread ID 2584 not found in process
+[0921/210544.318:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0921/210544.318:ERROR:exception_snapshot_win.cc(99)] thread ID 18312 not found in process
+[0921/210544.334:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0921/210544.334:ERROR:exception_snapshot_win.cc(99)] thread ID 18516 not found in process
+[0921/210544.341:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0921/210544.341:ERROR:exception_snapshot_win.cc(99)] thread ID 1140 not found in process
+[0921/210544.341:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0921/210544.341:ERROR:exception_snapshot_win.cc(99)] thread ID 14816 not found in process
+[0921/212436.546:ERROR:file_io_win.cc(162)] CreateFile C:\Users\LUKASZ~1\AppData\Local\Temp\scoped_dir6872_867665696\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0921/212436.547:ERROR:file_io_win.cc(171)] CreateFile C:\Users\LUKASZ~1\AppData\Local\Temp\scoped_dir6872_867665696\Crashpad\reports\7f71c0f5-1544-4188-bdac-9ccf919c9720.dmp: The system cannot find the path specified. (0x3)
+[0921/212436.547:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
