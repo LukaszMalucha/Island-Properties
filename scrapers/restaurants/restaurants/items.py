@@ -12,7 +12,8 @@ class RestaurantsItem(scrapy.Item):
 	title = scrapy.Field()
 	rating = scrapy.Field()
 	cuisine = scrapy.Field()
-	location = scrapy.Field()
+	locality = scrapy.Field()
+	address=scrapy.Field()
 	link = scrapy.Field()
 	
 
