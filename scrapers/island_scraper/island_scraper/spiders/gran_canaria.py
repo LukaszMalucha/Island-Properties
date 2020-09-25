@@ -57,6 +57,7 @@ class GranCanariaSpider(scrapy.Spider):
 
 		pages = sel.xpath('.//span[@class="search-results__count"]/text()').extract()[0]
 		pages = pages.split(" ")[0]
+		pages = pages.replace(",", "")
 		pages = int(pages) / 20 
 		pages_count = int(pages) + 1
 		sleep(1)
@@ -111,6 +112,7 @@ class GranCanariaSpider(scrapy.Spider):
 				l.add_value('size', size)
 				l.add_value('link', link)	
 				l.add_value('date', date)
+				l.add_value('ad_type', "sale")
 				yield l.load_item()		
 
 			sleep(5)	
