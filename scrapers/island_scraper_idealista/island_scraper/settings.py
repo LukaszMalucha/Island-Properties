@@ -2,8 +2,8 @@
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
 
-software_names = [SoftwareName.CHROME.value]
-operating_systems = [OperatingSystem.WINDOWS.value, OperatingSystem.LINUX.value] 
+software_names = [SoftwareName.FIREFOX.value]
+operating_systems = [OperatingSystem.WINDOWS.value] 
 
 user_agent_rotator = UserAgent(software_names=software_names, operating_systems=operating_systems, limit=100)
 
@@ -14,8 +14,8 @@ NEWSPIDER_MODULE = 'island_scraper.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0'
-# USER_AGENT = user_agent_rotator.get_random_user_agent()
+# USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0'
+USER_AGENT = user_agent_rotator.get_random_user_agent()
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -24,4 +24,4 @@ ROBOTSTXT_OBEY = False
 # HTTPCACHE_EXPIRATION_SECS = 60 * 60 * 24
 
 
-FEED_EXPORT_FIELDS = ['id','title','island','locality', 'area','price','beds','size', 'floor', 'date']
+FEED_EXPORT_FIELDS = ['title','island','locality','price','beds','size', 'link', 'date', 'ad_type']

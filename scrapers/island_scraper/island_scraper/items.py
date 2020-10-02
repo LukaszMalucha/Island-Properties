@@ -17,3 +17,4 @@ class IslandScraperItem(scrapy.Item):
 	size = scrapy.Field()
 	link = scrapy.Field()
 	date = scrapy.Field()
+	ad_type = scrapy.Field()

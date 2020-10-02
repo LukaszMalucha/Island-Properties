@@ -19,4 +19,4 @@ USER_AGENT = user_agent_rotator.get_random_user_agent()
 
 ROBOTSTXT_OBEY = False
 
-FEED_EXPORT_FIELDS = ['title','island','locality','price','beds','size', 'link', 'date']
+FEED_EXPORT_FIELDS = ['title','island','locality','price','beds','size', 'link', 'date', 'ad_type']

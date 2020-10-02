@@ -17,12 +17,6 @@ from datetime import datetime
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
 
-software_names = [SoftwareName.CHROME.value]
-operating_systems = [OperatingSystem.WINDOWS.value, OperatingSystem.LINUX.value] 
-
-user_agent_rotator = UserAgent(software_names=software_names, operating_systems=operating_systems, limit=100)
-
-
 ## AVOID HANDSHAKE ERRORS
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
@@ -30,6 +24,13 @@ options.add_argument('--ignore-ssl-errors')
 options.add_argument("--incognito")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
+
+software_names = [SoftwareName.FIREFOX.value]
+operating_systems = [OperatingSystem.WINDOWS.value,] 
+user_agent_rotator = UserAgent(software_names=software_names, operating_systems=operating_systems, limit=100)
+
+
+
 
 
 
@@ -42,10 +43,9 @@ class MallorcaSpider(scrapy.Spider):
 		agent = user_agent_rotator.get_random_user_agent()
 		options.add_argument(f"user-agent={agent}")
 		self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
-		# self.driver = webdriver.Firefox(executable_path=str(Path(Path.cwd(), "geckodriver.exe")))
 		self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
 		self.driver.get("https://www.idealista.com/en/venta-viviendas/balears-illes/mallorca/con-precio-hasta_200000,metros-cuadrados-mas-de_40,pisos,de-dos-dormitorios,de-tres-dormitorios,de-cuatro-cinco-habitaciones-o-mas,aireacondicionado,ultimas-plantas,plantas-intermedias,obra-nueva,buen-estado/")
-		sleep(1)
+		sleep(2)
 		body = self.driver.find_element_by_css_selector('body')
 		body.send_keys(Keys.PAGE_DOWN)
 		sleep(1)
@@ -69,7 +69,6 @@ class MallorcaSpider(scrapy.Spider):
 			options.add_argument(f"user-agent={agent}")
 			self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 			# self.driver = webdriver.Firefox(executable_path=str(Path(Path.cwd(), "geckodriver.exe")))
-
 			self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
 			self.driver.get(f"https://www.idealista.com/en/venta-viviendas/balears-illes/mallorca/con-precio-hasta_200000,metros-cuadrados-mas-de_40,pisos,de-dos-dormitorios,de-tres-dormitorios,de-cuatro-cinco-habitaciones-o-mas,aireacondicionado,ultimas-plantas,plantas-intermedias,obra-nueva,buen-estado/pagina-{page}.htm")
 			sleep(1)
@@ -93,6 +92,8 @@ class MallorcaSpider(scrapy.Spider):
 				try:
 					l = ItemLoader(item=IslandScraperItem(), selector=advert)
 					title = advert.xpath('.//a[contains(@class, "item-link")]/@title').extract_first()
+					link_string = advert.xpath('.//a[contains(@class, "item-link")]/@href').extract_first()
+					link = "https://www.idealista.com" + link_string
 					address = title.split(" in ")[1]
 					address_list = address.split(", ")
 					locality = address_list[-1]	
@@ -109,7 +110,7 @@ class MallorcaSpider(scrapy.Spider):
 						floor_string = advert.xpath('.//span[contains(@class, "item-detail")]/text()')[2].extract()
 						floor = floor_string.replace("Floor", "").strip()
 					except:
-						floor		
+						floor = "1"		
 					date = datetime.today().strftime('%Y-%m-%d')
 
 				except:
@@ -118,12 +119,12 @@ class MallorcaSpider(scrapy.Spider):
 				l.add_value('title', title)		
 				l.add_value('island', "Mallorca")		
 				l.add_value('locality', locality)
-				l.add_value('area', area)
 				l.add_value('price', price)
 				l.add_value('beds', beds)
 				l.add_value('size', size)
-				l.add_value('floor', floor)
+				l.add_value('link', link)	
 				l.add_value('date', date)
+				l.add_value('ad_type', "sale")
 				yield l.load_item()	
 
 			sleep(1)		
