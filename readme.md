@@ -6,4 +6,5 @@
 
 https://public.tableau.com/profile/lukaszmaluchadataviz#!/vizhome/IslandProperties/IslandsDashboard
 
-3) Tenerife Restaurant scraper
+3) Tenerife Adeje Restaurant scraper
+
