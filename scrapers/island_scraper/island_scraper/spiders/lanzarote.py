@@ -1,22 +1,18 @@
 # -*- coding: utf-8 -*-
-import scrapy
-from pathlib import Path
-from selenium import webdriver
-from scrapy.selector import Selector
-from scrapy.loader import ItemLoader
-from island_scraper.items import IslandScraperItem
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
-from time import sleep
-import csv
-from random import randrange
 from datetime import datetime
-from random_user_agent.user_agent import UserAgent
-from random_user_agent.params import SoftwareName, OperatingSystem
+from pathlib import Path
+from random import randrange
+from time import sleep
 
+import scrapy
+from island_scraper.items import IslandScraperItem
+from random_user_agent.params import SoftwareName, OperatingSystem
+from random_user_agent.user_agent import UserAgent
+from scrapy.loader import ItemLoader
+from scrapy.selector import Selector
+from selenium import webdriver
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
 
 ## AVOID HANDSHAKE ERRORS
 options = webdriver.ChromeOptions()
