@@ -1,18 +1,21 @@
 # -*- coding: utf-8 -*-
-from datetime import datetime
-from pathlib import Path
-from random import randrange
-from time import sleep
-
 import scrapy
-from island_scraper.items import IslandScraperItem
-from random_user_agent.params import SoftwareName, OperatingSystem
-from random_user_agent.user_agent import UserAgent
-from scrapy.loader import ItemLoader
-from scrapy.selector import Selector
+from pathlib import Path
 from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
+from scrapy.selector import Selector
+from scrapy.loader import ItemLoader
+from island_scraper.items import IslandScraperItem
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
+from time import sleep
+import csv
+from random import randrange
+from datetime import datetime
+from random_user_agent.user_agent import UserAgent
+from random_user_agent.params import SoftwareName, OperatingSystem
 
 # from pathlib import Path
 # from selenium import webdriver
@@ -37,8 +40,8 @@ operating_systems = [OperatingSystem.WINDOWS.value,]
 user_agent_rotator = UserAgent(software_names=software_names, operating_systems=operating_systems, limit=100)
 
 
-class GranCanariaRentSpider(scrapy.Spider):
-	name = 'gran_canaria_rent'
+class TenerifeRentSpider(scrapy.Spider):
+	name = 'tenerife_rent'
 	allowed_domains = ['www.kyero.com']
 	start_urls = ['http://www.kyero.com/']
 
@@ -48,7 +51,7 @@ class GranCanariaRentSpider(scrapy.Spider):
 		self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 		# self.driver = webdriver.Firefox(executable_path=str(Path(Path.cwd(), "geckodriver.exe")))
 		self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
-		self.driver.get("https://www.kyero.com/en/gran-canaria-apartments-long-let-1l55567g1?sort=popularity_desc/")
+		self.driver.get("https://www.kyero.com/en/tenerife-apartments-long-let-1l55570g1?sort=popularity_desc/")
 		sleep(2)
 		body = self.driver.find_element_by_css_selector('body')
 		body.send_keys(Keys.PAGE_DOWN)
@@ -73,7 +76,7 @@ class GranCanariaRentSpider(scrapy.Spider):
 			options.add_argument(f"user-agent={agent}")
 			self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 			self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
-			self.driver.get(f"https://www.kyero.com/en/gran-canaria-apartments-long-let-1l55567g1?page={page}&sort=popularity_desc")
+			self.driver.get(f"https://www.kyero.com/en/tenerife-apartments-long-let-1l55570g1?page={page}&sort=popularity_desc")
 			sleep(1)
 			body = self.driver.find_element_by_css_selector('body')
 			sleep(1)
@@ -115,7 +118,7 @@ class GranCanariaRentSpider(scrapy.Spider):
 					pass	
 
 				l.add_value('title', title)						
-				l.add_value('island', "Gran Canaria")		
+				l.add_value('island', "Tenerife")		
 				l.add_value('locality', locality)
 				l.add_value('price', price)
 				l.add_value('beds', beds)

@@ -31,8 +31,8 @@ user_agent_rotator = UserAgent(software_names=software_names, operating_systems=
 
 
 
-class GranCanariaSpider(scrapy.Spider):
-	name = 'gran_canaria'
+class LanzaroteSpider(scrapy.Spider):
+	name = 'lanzarote_rent'
 	allowed_domains = ['www.google.com']
 	start_urls = ['http://www.google.com/']
 
@@ -41,10 +41,9 @@ class GranCanariaSpider(scrapy.Spider):
 		options.add_argument(f"user-agent={agent}")
 		self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 		self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
-		self.driver.get("https://www.idealista.com/en/venta-viviendas/las-palmas/gran-canaria/con-precio-hasta_200000,metros-cuadrados-mas-de_40,pisos,de-dos-dormitorios,de-tres-dormitorios,de-cuatro-cinco-habitaciones-o-mas,aireacondicionado,ultimas-plantas,plantas-intermedias,obra-nueva,buen-estado/")
+		self.driver.get("https://www.idealista.com/en/alquiler-viviendas/las-palmas/lanzarote/con-metros-cuadrados-mas-de_40,metros-cuadrados-menos-de_100,pisos,de-dos-dormitorios,de-tres-dormitorios,de-cuatro-cinco-habitaciones-o-mas,ultimas-plantas,plantas-intermedias/")
 		sleep(2)
 		body = self.driver.find_element_by_css_selector('body')
-		sleep(1)
 		body.send_keys(Keys.PAGE_DOWN)
 		sleep(1)
 		body.send_keys(Keys.PAGE_UP)
@@ -66,7 +65,7 @@ class GranCanariaSpider(scrapy.Spider):
 			self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 			# self.driver = webdriver.Firefox(executable_path=str(Path(Path.cwd(), "geckodriver.exe")))
 			self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
-			self.driver.get(f"https://www.idealista.com/en/venta-viviendas/las-palmas/gran-canaria/con-precio-hasta_200000,metros-cuadrados-mas-de_40,pisos,de-dos-dormitorios,de-tres-dormitorios,de-cuatro-cinco-habitaciones-o-mas,aireacondicionado,ultimas-plantas,plantas-intermedias,obra-nueva,buen-estado/pagina-{page}.htm")
+			self.driver.get(f"https://www.idealista.com/en/alquiler-viviendas/las-palmas/lanzarote/con-metros-cuadrados-mas-de_40,metros-cuadrados-menos-de_100,pisos,de-dos-dormitorios,de-tres-dormitorios,de-cuatro-cinco-habitaciones-o-mas,ultimas-plantas,plantas-intermedias/pagina-{page}.htm")
 			sleep(1)
 			body = self.driver.find_element_by_css_selector('body')
 			sleep(1)
@@ -113,14 +112,14 @@ class GranCanariaSpider(scrapy.Spider):
 					pass	
 
 				l.add_value('title', title)		
-				l.add_value('island', "Gran Canaria")		
+				l.add_value('island', "Lanzarote")		
 				l.add_value('locality', locality)
 				l.add_value('price', price)
 				l.add_value('beds', beds)
 				l.add_value('size', size)
 				l.add_value('link', link)	
 				l.add_value('date', date)
-				l.add_value('ad_type', "sale")
+				l.add_value('ad_type', "rent")
 				yield l.load_item()	
 
 			sleep(1)		

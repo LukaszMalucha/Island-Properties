@@ -1,26 +1,21 @@
 # -*- coding: utf-8 -*-
-from datetime import datetime
-from pathlib import Path
-from random import randrange
-from time import sleep
-
 import scrapy
-from island_scraper.items import IslandScraperItem
-from random_user_agent.params import SoftwareName, OperatingSystem
-from random_user_agent.user_agent import UserAgent
-from scrapy.loader import ItemLoader
-from scrapy.selector import Selector
+from pathlib import Path
 from selenium import webdriver
-from selenium.webdriver.common.action_chains import ActionChains
+from scrapy.selector import Selector
+from scrapy.loader import ItemLoader
+from island_scraper.items import IslandScraperItem
 from selenium.webdriver.common.keys import Keys
-
-# from pathlib import Path
-# from selenium import webdriver
-# from scrapy.selector import Selector
-
-# driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")))
-# driver.get("https://www.kyero.com/en/tenerife-apartments-for-sale-0l55570g1?max_price=120000&min_beds=2&min_property_size=40&page=5&sort=popularity_desc")
-# sel = Selector(text=driver.page_source)
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
+from time import sleep
+import csv
+from random import randrange
+from datetime import datetime
+from random_user_agent.user_agent import UserAgent
+from random_user_agent.params import SoftwareName, OperatingSystem
 
 
 ## AVOID HANDSHAKE ERRORS
@@ -37,8 +32,8 @@ operating_systems = [OperatingSystem.WINDOWS.value,]
 user_agent_rotator = UserAgent(software_names=software_names, operating_systems=operating_systems, limit=100)
 
 
-class MallorcaRentSpider(scrapy.Spider):
-	name = 'mallorca_rent'
+class LanzaroteSpider(scrapy.Spider):
+	name = 'lanzarote'
 	allowed_domains = ['www.kyero.com']
 	start_urls = ['http://www.kyero.com/']
 
@@ -48,7 +43,7 @@ class MallorcaRentSpider(scrapy.Spider):
 		self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 		# self.driver = webdriver.Firefox(executable_path=str(Path(Path.cwd(), "geckodriver.exe")))
 		self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
-		self.driver.get("https://www.kyero.com/en/majorca-apartments-long-let-1l55563g1?sort=popularity_desc/")
+		self.driver.get("https://www.kyero.com/en/lanzarote-apartments-for-sale-0l55569g1?max_price=150000&min_beds=2&min_property_size=40&sort=popularity_desc/")
 		sleep(2)
 		body = self.driver.find_element_by_css_selector('body')
 		body.send_keys(Keys.PAGE_DOWN)
@@ -68,12 +63,12 @@ class MallorcaRentSpider(scrapy.Spider):
 		sleep(1)
 		self.driver.quit()
 
-		for page in range(pages_count):
+		for page in range (pages_count):
 			agent = user_agent_rotator.get_random_user_agent()
 			options.add_argument(f"user-agent={agent}")
 			self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
 			self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
-			self.driver.get(f"https://www.kyero.com/en/majorca-apartments-long-let-1l55563g1?page={page}&sort=popularity_desc")
+			self.driver.get(f"https://www.kyero.com/en/lanzarote-apartments-for-sale-0l55569g1?max_price=150000&min_beds=2&min_property_size=40&page={page}&sort=popularity_desc")
 			sleep(1)
 			body = self.driver.find_element_by_css_selector('body')
 			sleep(1)
@@ -100,13 +95,8 @@ class MallorcaRentSpider(scrapy.Spider):
 					locality = title.split(" in ")[1]	
 					details = advert.xpath('.//ul[contains(@class, "flex")]/li/span/text()')
 					price_string = advert.xpath('.//span[contains(@class, "p-5")]/text()').extract_first()[1:]
-					if price_string:
-						price = price_string.split(" ")[1]
-						price = price[1:]
-						price = price.replace(",", "")		
+					price = price_string.replace(",", "")			
 					beds = advert.xpath('.//ul[contains(@class, "flex")]/li/span/text()').extract_first()
-					if "m" in beds:
-						beds = "0"
 					size_string = advert.xpath('.//ul[@class="flex"]/li/span/text()')[-1].extract()
 					size = size_string.split(" ")[0]
 					date = datetime.today().strftime('%Y-%m-%d')
@@ -115,17 +105,17 @@ class MallorcaRentSpider(scrapy.Spider):
 					pass	
 
 				l.add_value('title', title)						
-				l.add_value('island', "Mallorca")		
+				l.add_value('island', "Lanzarote")		
 				l.add_value('locality', locality)
 				l.add_value('price', price)
 				l.add_value('beds', beds)
 				l.add_value('size', size)
 				l.add_value('link', link)	
 				l.add_value('date', date)
-				l.add_value('ad_type', "rent")		
+				l.add_value('ad_type', "sale")
 				yield l.load_item()		
 
 			sleep(5)	
 			self.driver.quit()		
 
-		
+		self.driver.quit()	
