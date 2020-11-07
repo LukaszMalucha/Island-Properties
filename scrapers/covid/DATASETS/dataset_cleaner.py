@@ -5,7 +5,7 @@ Created on Sat Oct 10 19:57:34 2020
 @author: LukaszMalucha
 """
 
-#import pandas as pd
+
 #
 #dataset = pd.read_csv("country_medical.csv", encoding="utf-8")
 #
@@ -19,43 +19,44 @@ Created on Sat Oct 10 19:57:34 2020
 #
 #dataset.to_csv("country_medical.csv", index = False)
 #
-######################################
+###################################### https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+import pandas as pd
+
+
+dataset_daily = pd.read_csv("covid_daily_org.csv", encoding="utf-8")
+
+col = list(dataset_daily.columns)
+
+dataset_daily = dataset_daily[["dateRep", "cases", "deaths", "countriesAndTerritories"]]
+
+dataset_daily = dataset_daily.rename(columns= {"countriesAndTerritories": "country"})
+
+
+dataset_daily["country"] = dataset_daily["country"].str.replace("_", " ")
+
+dataset_daily.to_csv("covid_daily.csv", index = False)
+
 #
 #
-#
-#
-#dataset = pd.read_csv("covid_daily.csv", encoding="utf-8")
-#
-#col = list(dataset.columns)
-#
-#dataset = dataset[["dateRep", "cases", "deaths", "countriesAndTerritories"]]
-#
-#dataset = dataset.rename(columns= {"countriesAndTerritories": "country"})
-#
-#
-#dataset["country"] = dataset["country"].str.replace("_", " ")
-#
-#dataset.to_csv("covid_daily.csv", index = False)
-#
-#
-#
-######################################
-#
-#
-#
-#
-#dataset = pd.read_csv("covid_testing.csv", encoding="utf-8")
-#
-#col = list(dataset.columns)
-#
-#
-#dataset["d"] = dataset["country"].duplicated(keep="last")
-#dataset_weeks = dataset[dataset["d"] == False]
-#
-#dataset_weeks = dataset_weeks[["country", "testing_rate", "positivity_rate" ]]
-#
-#dataset_weeks.to_csv("covid_testing.csv", index = False)
-#
+###################################### https://www.ecdc.europa.eu/en/publications-data/covid-19-testing
+
+
+
+dataset_testing = pd.read_csv("covid_testing_org.csv", encoding="utf-8")
+
+col = list(dataset_testing.columns)
+
+
+dataset_testing["d"] = dataset_testing["country"].duplicated(keep="last")
+dataset_testing_weeks = dataset_testing[dataset_testing["d"] == False]
+
+dataset_testing_weeks = dataset_testing_weeks[["country", "testing_rate", "positivity_rate" ]]
+
+dataset_testing_weeks.to_csv("covid_testing.csv", index = False)
+
+
+
 ####################################
 
 import pandas as pd
@@ -114,13 +115,6 @@ lst = list(dataset_final.columns)
 scaler = MinMaxScaler()
 
 dataset_final[["cases_per_capita", 'median_age', 'gdp_per_capita', 'diabetes_prevalence', 'curative_beds_per_hundred_thousand', 'life_expectancy', 'testing_rate', 'positivity_rate', ]] = scaler.fit_transform(dataset_final[["cases_per_capita", 'median_age', 'gdp_per_capita', 'diabetes_prevalence', 'curative_beds_per_hundred_thousand', 'life_expectancy', 'testing_rate', 'positivity_rate']].values)
-
-
-
-
-
-
-
 
 
 dataset_final.to_csv("dataset_covid.csv", index=False)
