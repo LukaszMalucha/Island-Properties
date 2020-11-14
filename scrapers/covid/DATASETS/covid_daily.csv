@@ -1,4 +1,11 @@
 dateRep,cases,deaths,country
+13/11/2020,360,14,Afghanistan
+12/11/2020,146,4,Afghanistan
+11/11/2020,0,0,Afghanistan
+10/11/2020,224,12,Afghanistan
+09/11/2020,80,3,Afghanistan
+08/11/2020,126,6,Afghanistan
+07/11/2020,58,2,Afghanistan
 06/11/2020,40,0,Afghanistan
 05/11/2020,121,6,Afghanistan
 04/11/2020,86,4,Afghanistan
@@ -301,6 +308,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Afghanistan
 01/01/2020,0,0,Afghanistan
 31/12/2019,0,0,Afghanistan
+13/11/2020,410,8,Albania
+12/11/2020,507,11,Albania
+11/11/2020,563,8,Albania
+10/11/2020,525,12,Albania
+09/11/2020,501,2,Albania
+08/11/2020,495,8,Albania
+07/11/2020,489,6,Albania
 06/11/2020,421,7,Albania
 05/11/2020,396,4,Albania
 04/11/2020,381,5,Albania
@@ -544,7 +558,14 @@ dateRep,cases,deaths,country
 11/03/2020,4,0,Albania
 10/03/2020,4,0,Albania
 09/03/2020,2,0,Albania
-06/11/2020,0,0,Algeria
+13/11/2020,851,18,Algeria
+12/11/2020,811,16,Algeria
+11/11/2020,753,15,Algeria
+10/11/2020,642,14,Algeria
+09/11/2020,670,12,Algeria
+08/11/2020,581,12,Algeria
+07/11/2020,631,13,Algeria
+06/11/2020,642,12,Algeria
 05/11/2020,548,10,Algeria
 04/11/2020,405,9,Algeria
 03/11/2020,302,7,Algeria
@@ -851,6 +872,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Algeria
 01/01/2020,0,0,Algeria
 31/12/2019,0,0,Algeria
+13/11/2020,49,0,Andorra
+12/11/2020,90,0,Andorra
+11/11/2020,40,0,Andorra
+10/11/2020,54,0,Andorra
+09/11/2020,64,0,Andorra
+08/11/2020,184,0,Andorra
+07/11/2020,0,0,Andorra
 06/11/2020,90,0,Andorra
 05/11/2020,135,0,Andorra
 04/11/2020,22,0,Andorra
@@ -1089,6 +1117,13 @@ dateRep,cases,deaths,country
 16/03/2020,3,0,Andorra
 14/03/2020,1,0,Andorra
 03/03/2020,1,0,Andorra
+13/11/2020,137,4,Angola
+12/11/2020,136,0,Angola
+11/11/2020,247,1,Angola
+10/11/2020,98,4,Angola
+09/11/2020,112,3,Angola
+08/11/2020,121,1,Angola
+07/11/2020,289,3,Angola
 06/11/2020,236,5,Angola
 05/11/2020,349,2,Angola
 04/11/2020,193,3,Angola
@@ -1319,6 +1354,13 @@ dateRep,cases,deaths,country
 24/03/2020,0,0,Angola
 23/03/2020,0,0,Angola
 22/03/2020,2,0,Angola
+13/11/2020,0,0,Anguilla
+12/11/2020,0,0,Anguilla
+11/11/2020,0,0,Anguilla
+10/11/2020,0,0,Anguilla
+09/11/2020,0,0,Anguilla
+08/11/2020,0,0,Anguilla
+07/11/2020,0,0,Anguilla
 06/11/2020,0,0,Anguilla
 05/11/2020,0,0,Anguilla
 04/11/2020,0,0,Anguilla
@@ -1544,6 +1586,13 @@ dateRep,cases,deaths,country
 29/03/2020,0,0,Anguilla
 28/03/2020,0,0,Anguilla
 27/03/2020,2,0,Anguilla
+13/11/2020,0,0,Antigua and Barbuda
+12/11/2020,0,0,Antigua and Barbuda
+11/11/2020,0,0,Antigua and Barbuda
+10/11/2020,0,0,Antigua and Barbuda
+09/11/2020,0,0,Antigua and Barbuda
+08/11/2020,1,0,Antigua and Barbuda
+07/11/2020,0,0,Antigua and Barbuda
 06/11/2020,0,0,Antigua and Barbuda
 05/11/2020,0,0,Antigua and Barbuda
 04/11/2020,2,0,Antigua and Barbuda
@@ -1776,6 +1825,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Antigua and Barbuda
 21/03/2020,0,0,Antigua and Barbuda
 15/03/2020,1,0,Antigua and Barbuda
+13/11/2020,11162,251,Argentina
+12/11/2020,10880,348,Argentina
+11/11/2020,11976,276,Argentina
+10/11/2020,8317,347,Argentina
+09/11/2020,5331,212,Argentina
+08/11/2020,8037,212,Argentina
+07/11/2020,11786,370,Argentina
 06/11/2020,11100,246,Argentina
 05/11/2020,10652,468,Argentina
 04/11/2020,12145,429,Argentina
@@ -2021,6 +2077,13 @@ dateRep,cases,deaths,country
 07/03/2020,6,0,Argentina
 06/03/2020,1,0,Argentina
 04/03/2020,1,0,Argentina
+13/11/2020,1703,29,Armenia
+12/11/2020,1993,32,Armenia
+11/11/2020,2000,27,Armenia
+10/11/2020,1221,29,Armenia
+09/11/2020,1042,21,Armenia
+08/11/2020,2175,26,Armenia
+07/11/2020,2476,27,Armenia
 06/11/2020,2210,30,Armenia
 05/11/2020,2413,28,Armenia
 04/11/2020,2374,35,Armenia
@@ -2324,6 +2387,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Armenia
 01/01/2020,0,0,Armenia
 31/12/2019,0,0,Armenia
+13/11/2020,8,0,Aruba
+12/11/2020,9,1,Aruba
+11/11/2020,16,1,Aruba
+10/11/2020,6,1,Aruba
+09/11/2020,11,0,Aruba
+08/11/2020,11,1,Aruba
+07/11/2020,14,0,Aruba
 06/11/2020,11,0,Aruba
 05/11/2020,15,1,Aruba
 04/11/2020,14,0,Aruba
@@ -2553,6 +2623,13 @@ dateRep,cases,deaths,country
 24/03/2020,8,0,Aruba
 20/03/2020,2,0,Aruba
 13/03/2020,2,0,Aruba
+13/11/2020,12,0,Australia
+12/11/2020,8,0,Australia
+11/11/2020,10,0,Australia
+10/11/2020,10,0,Australia
+09/11/2020,6,0,Australia
+08/11/2020,7,0,Australia
+07/11/2020,12,0,Australia
 06/11/2020,11,0,Australia
 05/11/2020,12,0,Australia
 04/11/2020,8,0,Australia
@@ -2865,6 +2942,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Australia
 01/01/2020,0,0,Australia
 31/12/2019,0,0,Australia
+13/11/2020,10368,37,Austria
+12/11/2020,9643,55,Austria
+11/11/2020,3839,35,Austria
+10/11/2020,5704,48,Austria
+09/11/2020,6006,17,Austria
+08/11/2020,7898,23,Austria
+07/11/2020,6324,44,Austria
 06/11/2020,7051,47,Austria
 05/11/2020,6514,35,Austria
 04/11/2020,4445,34,Austria
@@ -3177,6 +3261,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Austria
 01/01/2020,0,0,Austria
 31/12/2019,0,0,Austria
+13/11/2020,1622,20,Azerbaijan
+12/11/2020,1202,18,Azerbaijan
+11/11/2020,1346,15,Azerbaijan
+10/11/2020,635,12,Azerbaijan
+09/11/2020,1663,16,Azerbaijan
+08/11/2020,2875,30,Azerbaijan
+07/11/2020,0,0,Azerbaijan
 06/11/2020,1364,14,Azerbaijan
 05/11/2020,1227,12,Azerbaijan
 04/11/2020,1242,15,Azerbaijan
@@ -3482,6 +3573,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Azerbaijan
 01/01/2020,0,0,Azerbaijan
 31/12/2019,0,0,Azerbaijan
+13/11/2020,64,1,Bahamas
+12/11/2020,76,0,Bahamas
+11/11/2020,0,0,Bahamas
+10/11/2020,37,2,Bahamas
+09/11/2020,0,0,Bahamas
+08/11/2020,65,2,Bahamas
+07/11/2020,0,0,Bahamas
 06/11/2020,39,0,Bahamas
 05/11/2020,53,1,Bahamas
 04/11/2020,55,3,Bahamas
@@ -3716,6 +3814,13 @@ dateRep,cases,deaths,country
 20/03/2020,2,0,Bahamas
 17/03/2020,0,0,Bahamas
 16/03/2020,1,0,Bahamas
+13/11/2020,150,0,Bahrain
+12/11/2020,231,0,Bahrain
+11/11/2020,179,2,Bahrain
+10/11/2020,176,1,Bahrain
+09/11/2020,192,0,Bahrain
+08/11/2020,241,1,Bahrain
+07/11/2020,237,0,Bahrain
 06/11/2020,162,0,Bahrain
 05/11/2020,261,4,Bahrain
 04/11/2020,230,1,Bahrain
@@ -4027,6 +4132,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Bahrain
 01/01/2020,0,0,Bahrain
 31/12/2019,0,0,Bahrain
+13/11/2020,1845,13,Bangladesh
+12/11/2020,1733,19,Bangladesh
+11/11/2020,1699,16,Bangladesh
+10/11/2020,1683,25,Bangladesh
+09/11/2020,1474,18,Bangladesh
+08/11/2020,1289,13,Bangladesh
+07/11/2020,1469,15,Bangladesh
 06/11/2020,1842,17,Bangladesh
 05/11/2020,1517,21,Bangladesh
 04/11/2020,1659,17,Bangladesh
@@ -4264,6 +4376,13 @@ dateRep,cases,deaths,country
 17/03/2020,2,0,Bangladesh
 15/03/2020,0,0,Bangladesh
 09/03/2020,3,0,Bangladesh
+13/11/2020,0,0,Barbados
+12/11/2020,6,0,Barbados
+11/11/2020,0,0,Barbados
+10/11/2020,1,0,Barbados
+09/11/2020,0,0,Barbados
+08/11/2020,0,0,Barbados
+07/11/2020,3,0,Barbados
 06/11/2020,0,0,Barbados
 05/11/2020,1,0,Barbados
 04/11/2020,0,0,Barbados
@@ -4498,6 +4617,13 @@ dateRep,cases,deaths,country
 20/03/2020,1,0,Barbados
 19/03/2020,0,0,Barbados
 18/03/2020,1,0,Barbados
+13/11/2020,1098,5,Belarus
+12/11/2020,1057,6,Belarus
+11/11/2020,1038,5,Belarus
+10/11/2020,983,4,Belarus
+09/11/2020,996,3,Belarus
+08/11/2020,997,3,Belarus
+07/11/2020,991,3,Belarus
 06/11/2020,982,3,Belarus
 05/11/2020,984,3,Belarus
 04/11/2020,929,3,Belarus
@@ -4802,59 +4928,66 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Belarus
 01/01/2020,0,0,Belarus
 31/12/2019,0,0,Belarus
-06/11/2020,5,22,Belgium
-05/11/2020,4019,154,Belgium
-04/11/2020,11167,162,Belgium
-03/11/2020,13345,196,Belgium
-02/11/2020,2660,154,Belgium
-01/11/2020,6243,172,Belgium
-31/10/2020,15185,186,Belgium
-30/10/2020,14940,137,Belgium
-29/10/2020,17950,139,Belgium
-28/10/2020,22171,132,Belgium
-27/10/2020,19834,120,Belgium
+13/11/2020,8,19,Belgium
+12/11/2020,809,121,Belgium
+11/11/2020,6247,163,Belgium
+10/11/2020,8252,185,Belgium
+09/11/2020,1444,204,Belgium
+08/11/2020,3025,207,Belgium
+07/11/2020,6597,214,Belgium
+06/11/2020,7628,202,Belgium
+05/11/2020,9157,192,Belgium
+04/11/2020,12036,168,Belgium
+03/11/2020,13845,205,Belgium
+02/11/2020,2665,160,Belgium
+01/11/2020,6307,175,Belgium
+31/10/2020,15390,187,Belgium
+30/10/2020,15079,139,Belgium
+29/10/2020,17986,140,Belgium
+28/10/2020,22184,132,Belgium
+27/10/2020,19858,121,Belgium
 26/10/2020,4893,94,Belgium
-25/10/2020,11553,92,Belgium
-24/10/2020,18871,94,Belgium
-23/10/2020,17679,54,Belgium
-22/10/2020,17472,59,Belgium
-21/10/2020,19254,51,Belgium
-20/10/2020,15558,52,Belgium
+25/10/2020,11554,93,Belgium
+24/10/2020,18875,94,Belgium
+23/10/2020,17685,55,Belgium
+22/10/2020,17481,60,Belgium
+21/10/2020,19260,51,Belgium
+20/10/2020,15559,52,Belgium
 19/10/2020,4289,31,Belgium
 18/10/2020,7993,23,Belgium
-17/10/2020,13472,35,Belgium
-16/10/2020,11810,35,Belgium
-15/10/2020,12284,41,Belgium
-14/10/2020,12573,34,Belgium
-13/10/2020,9732,36,Belgium
+17/10/2020,13475,35,Belgium
+16/10/2020,11813,35,Belgium
+15/10/2020,12290,41,Belgium
+14/10/2020,12575,34,Belgium
+13/10/2020,9733,36,Belgium
 12/10/2020,2403,25,Belgium
 11/10/2020,4309,22,Belgium
-10/10/2020,7785,19,Belgium
-09/10/2020,6586,20,Belgium
+10/10/2020,7786,19,Belgium
+09/10/2020,6587,20,Belgium
 08/10/2020,6803,20,Belgium
 07/10/2020,5687,18,Belgium
 06/10/2020,5248,14,Belgium
 05/10/2020,1035,14,Belgium
 04/10/2020,1709,15,Belgium
 03/10/2020,3720,11,Belgium
-02/10/2020,3409,15,Belgium
-01/10/2020,3242,6,Belgium
+02/10/2020,3410,15,Belgium
+01/10/2020,3243,6,Belgium
 30/09/2020,2984,10,Belgium
 29/09/2020,2782,13,Belgium
 28/09/2020,540,12,Belgium
 27/09/2020,944,6,Belgium
 26/09/2020,1622,5,Belgium
-25/09/2020,1795,4,Belgium
+25/09/2020,1796,4,Belgium
 24/09/2020,2096,8,Belgium
 23/09/2020,2074,1,Belgium
 22/09/2020,2202,3,Belgium
 21/09/2020,461,3,Belgium
 20/09/2020,894,8,Belgium
 19/09/2020,1709,6,Belgium
-18/09/2020,1750,1,Belgium
+18/09/2020,1751,1,Belgium
 17/09/2020,1942,2,Belgium
 16/09/2020,1628,3,Belgium
-15/09/2020,1724,4,Belgium
+15/09/2020,1726,4,Belgium
 14/09/2020,301,1,Belgium
 13/09/2020,617,1,Belgium
 12/09/2020,1284,5,Belgium
@@ -4864,7 +4997,7 @@ dateRep,cases,deaths,country
 08/09/2020,918,4,Belgium
 07/09/2020,155,2,Belgium
 06/09/2020,322,1,Belgium
-05/09/2020,728,2,Belgium
+05/09/2020,728,3,Belgium
 04/09/2020,677,4,Belgium
 03/09/2020,574,2,Belgium
 02/09/2020,565,3,Belgium
@@ -4891,11 +5024,11 @@ dateRep,cases,deaths,country
 12/08/2020,718,13,Belgium
 11/08/2020,873,11,Belgium
 10/08/2020,122,5,Belgium
-09/08/2020,304,2,Belgium
+09/08/2020,304,3,Belgium
 08/08/2020,771,6,Belgium
 07/08/2020,769,4,Belgium
-06/08/2020,767,5,Belgium
-05/08/2020,814,5,Belgium
+06/08/2020,769,5,Belgium
+05/08/2020,814,6,Belgium
 04/08/2020,794,3,Belgium
 03/08/2020,148,5,Belgium
 02/08/2020,309,2,Belgium
@@ -5005,7 +5138,7 @@ dateRep,cases,deaths,country
 20/04/2020,443,190,Belgium
 19/04/2020,722,208,Belgium
 18/04/2020,1394,205,Belgium
-17/04/2020,1674,246,Belgium
+17/04/2020,1675,246,Belgium
 16/04/2020,1633,280,Belgium
 15/04/2020,1560,261,Belgium
 14/04/2020,537,277,Belgium
@@ -5016,11 +5149,11 @@ dateRep,cases,deaths,country
 09/04/2020,1598,321,Belgium
 08/04/2020,1515,277,Belgium
 07/04/2020,1934,257,Belgium
-06/04/2020,665,246,Belgium
-05/04/2020,922,270,Belgium
+06/04/2020,665,247,Belgium
+05/04/2020,922,271,Belgium
 04/04/2020,1694,236,Belgium
 03/04/2020,1478,219,Belgium
-02/04/2020,1516,232,Belgium
+02/04/2020,1516,233,Belgium
 01/04/2020,1681,208,Belgium
 31/03/2020,1738,170,Belgium
 30/03/2020,683,149,Belgium
@@ -5028,7 +5161,7 @@ dateRep,cases,deaths,country
 28/03/2020,1518,128,Belgium
 27/03/2020,1363,102,Belgium
 26/03/2020,1199,107,Belgium
-25/03/2020,1195,76,Belgium
+25/03/2020,1195,77,Belgium
 24/03/2020,1328,78,Belgium
 23/03/2020,486,47,Belgium
 22/03/2020,469,40,Belgium
@@ -5036,7 +5169,7 @@ dateRep,cases,deaths,country
 20/03/2020,713,33,Belgium
 19/03/2020,534,22,Belgium
 18/03/2020,422,10,Belgium
-17/03/2020,387,11,Belgium
+17/03/2020,387,12,Belgium
 16/03/2020,214,6,Belgium
 15/03/2020,179,5,Belgium
 14/03/2020,338,3,Belgium
@@ -5114,6 +5247,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Belgium
 01/01/2020,0,0,Belgium
 31/12/2019,0,0,Belgium
+13/11/2020,76,0,Belize
+12/11/2020,106,2,Belize
+11/11/2020,184,2,Belize
+10/11/2020,54,1,Belize
+09/11/2020,100,2,Belize
+08/11/2020,60,1,Belize
+07/11/2020,39,1,Belize
 06/11/2020,72,2,Belize
 05/11/2020,115,3,Belize
 04/11/2020,166,2,Belize
@@ -5342,6 +5482,13 @@ dateRep,cases,deaths,country
 26/03/2020,1,0,Belize
 25/03/2020,0,0,Belize
 24/03/2020,1,0,Belize
+13/11/2020,0,0,Benin
+12/11/2020,63,0,Benin
+11/11/2020,36,0,Benin
+10/11/2020,0,0,Benin
+09/11/2020,0,0,Benin
+08/11/2020,0,0,Benin
+07/11/2020,0,0,Benin
 06/11/2020,0,0,Benin
 05/11/2020,62,2,Benin
 04/11/2020,0,0,Benin
@@ -5577,6 +5724,13 @@ dateRep,cases,deaths,country
 19/03/2020,0,0,Benin
 18/03/2020,0,0,Benin
 17/03/2020,1,0,Benin
+13/11/2020,5,0,Bermuda
+12/11/2020,1,0,Bermuda
+11/11/2020,0,0,Bermuda
+10/11/2020,5,0,Bermuda
+09/11/2020,0,0,Bermuda
+08/11/2020,0,0,Bermuda
+07/11/2020,2,0,Bermuda
 06/11/2020,1,0,Bermuda
 05/11/2020,0,0,Bermuda
 04/11/2020,0,0,Bermuda
@@ -5809,6 +5963,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Bermuda
 21/03/2020,0,0,Bermuda
 20/03/2020,2,0,Bermuda
+13/11/2020,5,0,Bhutan
+12/11/2020,0,0,Bhutan
+11/11/2020,0,0,Bhutan
+10/11/2020,5,0,Bhutan
+09/11/2020,0,0,Bhutan
+08/11/2020,1,0,Bhutan
+07/11/2020,0,0,Bhutan
 06/11/2020,0,0,Bhutan
 05/11/2020,0,0,Bhutan
 04/11/2020,2,0,Bhutan
@@ -6047,6 +6208,13 @@ dateRep,cases,deaths,country
 15/03/2020,0,0,Bhutan
 13/03/2020,0,0,Bhutan
 06/03/2020,1,0,Bhutan
+13/11/2020,113,7,Bolivia
+12/11/2020,112,10,Bolivia
+11/11/2020,103,6,Bolivia
+10/11/2020,86,7,Bolivia
+09/11/2020,48,5,Bolivia
+08/11/2020,84,9,Bolivia
+07/11/2020,142,13,Bolivia
 06/11/2020,139,10,Bolivia
 05/11/2020,126,7,Bolivia
 04/11/2020,69,10,Bolivia
@@ -6286,6 +6454,13 @@ dateRep,cases,deaths,country
 14/03/2020,7,0,Bolivia
 13/03/2020,1,0,Bolivia
 12/03/2020,2,0,Bolivia
+13/11/2020,1,0,"Bonaire, Saint Eustatius and Saba"
+12/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
+11/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
+10/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
+09/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
+08/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
+07/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
 06/11/2020,1,0,"Bonaire, Saint Eustatius and Saba"
 05/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
 04/11/2020,0,0,"Bonaire, Saint Eustatius and Saba"
@@ -6505,6 +6680,13 @@ dateRep,cases,deaths,country
 04/04/2020,0,0,"Bonaire, Saint Eustatius and Saba"
 03/04/2020,0,0,"Bonaire, Saint Eustatius and Saba"
 02/04/2020,2,0,"Bonaire, Saint Eustatius and Saba"
+13/11/2020,1728,49,Bosnia and Herzegovina
+12/11/2020,1541,72,Bosnia and Herzegovina
+11/11/2020,1605,46,Bosnia and Herzegovina
+10/11/2020,996,73,Bosnia and Herzegovina
+09/11/2020,1211,20,Bosnia and Herzegovina
+08/11/2020,1785,33,Bosnia and Herzegovina
+07/11/2020,1921,55,Bosnia and Herzegovina
 06/11/2020,1908,44,Bosnia and Herzegovina
 05/11/2020,1776,41,Bosnia and Herzegovina
 04/11/2020,1553,37,Bosnia and Herzegovina
@@ -6744,6 +6926,13 @@ dateRep,cases,deaths,country
 13/03/2020,0,0,Bosnia and Herzegovina
 12/03/2020,1,0,Bosnia and Herzegovina
 06/03/2020,2,0,Bosnia and Herzegovina
+13/11/2020,390,0,Botswana
+12/11/2020,0,0,Botswana
+11/11/2020,0,0,Botswana
+10/11/2020,0,0,Botswana
+09/11/2020,0,0,Botswana
+08/11/2020,0,0,Botswana
+07/11/2020,0,0,Botswana
 06/11/2020,1193,3,Botswana
 05/11/2020,0,0,Botswana
 04/11/2020,0,0,Botswana
@@ -6964,6 +7153,13 @@ dateRep,cases,deaths,country
 03/04/2020,0,0,Botswana
 02/04/2020,1,1,Botswana
 01/04/2020,3,0,Botswana
+13/11/2020,25012,201,Brazil
+12/11/2020,10917,231,Brazil
+11/11/2020,10554,128,Brazil
+10/11/2020,63536,1163,Brazil
+09/11/2020,0,0,Brazil
+08/11/2020,0,0,Brazil
+07/11/2020,0,0,Brazil
 06/11/2020,0,0,Brazil
 05/11/2020,23976,610,Brazil
 04/11/2020,11843,243,Brazil
@@ -7276,6 +7472,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Brazil
 01/01/2020,0,0,Brazil
 31/12/2019,0,0,Brazil
+13/11/2020,0,0,British Virgin Islands
+12/11/2020,0,0,British Virgin Islands
+11/11/2020,0,0,British Virgin Islands
+10/11/2020,0,0,British Virgin Islands
+09/11/2020,0,0,British Virgin Islands
+08/11/2020,0,0,British Virgin Islands
+07/11/2020,0,0,British Virgin Islands
 06/11/2020,0,0,British Virgin Islands
 05/11/2020,0,0,British Virgin Islands
 04/11/2020,0,0,British Virgin Islands
@@ -7501,6 +7704,13 @@ dateRep,cases,deaths,country
 29/03/2020,0,0,British Virgin Islands
 28/03/2020,0,0,British Virgin Islands
 27/03/2020,2,0,British Virgin Islands
+13/11/2020,0,0,Brunei Darussalam
+12/11/2020,0,0,Brunei Darussalam
+11/11/2020,0,0,Brunei Darussalam
+10/11/2020,0,0,Brunei Darussalam
+09/11/2020,0,0,Brunei Darussalam
+08/11/2020,0,0,Brunei Darussalam
+07/11/2020,0,0,Brunei Darussalam
 06/11/2020,0,0,Brunei Darussalam
 05/11/2020,0,0,Brunei Darussalam
 04/11/2020,0,0,Brunei Darussalam
@@ -7742,6 +7952,13 @@ dateRep,cases,deaths,country
 13/03/2020,14,0,Brunei Darussalam
 12/03/2020,10,0,Brunei Darussalam
 10/03/2020,1,0,Brunei Darussalam
+13/11/2020,3414,72,Bulgaria
+12/11/2020,3945,47,Bulgaria
+11/11/2020,4390,80,Bulgaria
+10/11/2020,3816,106,Bulgaria
+09/11/2020,675,33,Bulgaria
+08/11/2020,2301,56,Bulgaria
+07/11/2020,3839,58,Bulgaria
 06/11/2020,3754,52,Bulgaria
 05/11/2020,4054,54,Bulgaria
 04/11/2020,4041,63,Bulgaria
@@ -7984,6 +8201,13 @@ dateRep,cases,deaths,country
 12/03/2020,3,1,Bulgaria
 09/03/2020,2,0,Bulgaria
 08/03/2020,2,0,Bulgaria
+13/11/2020,0,0,Burkina Faso
+12/11/2020,4,0,Burkina Faso
+11/11/2020,1,0,Burkina Faso
+10/11/2020,12,0,Burkina Faso
+09/11/2020,4,0,Burkina Faso
+08/11/2020,3,0,Burkina Faso
+07/11/2020,12,0,Burkina Faso
 06/11/2020,11,0,Burkina Faso
 05/11/2020,9,0,Burkina Faso
 04/11/2020,13,0,Burkina Faso
@@ -8223,6 +8447,13 @@ dateRep,cases,deaths,country
 15/03/2020,1,0,Burkina Faso
 12/03/2020,0,0,Burkina Faso
 11/03/2020,2,0,Burkina Faso
+13/11/2020,3,0,Burundi
+12/11/2020,5,0,Burundi
+11/11/2020,1,0,Burundi
+10/11/2020,0,0,Burundi
+09/11/2020,2,0,Burundi
+08/11/2020,7,0,Burundi
+07/11/2020,5,0,Burundi
 06/11/2020,1,0,Burundi
 05/11/2020,2,0,Burundi
 04/11/2020,8,0,Burundi
@@ -8443,6 +8674,13 @@ dateRep,cases,deaths,country
 03/04/2020,1,0,Burundi
 02/04/2020,0,0,Burundi
 01/04/2020,2,0,Burundi
+13/11/2020,0,0,Cambodia
+12/11/2020,1,0,Cambodia
+11/11/2020,0,0,Cambodia
+10/11/2020,3,0,Cambodia
+09/11/2020,2,0,Cambodia
+08/11/2020,1,0,Cambodia
+07/11/2020,2,0,Cambodia
 06/11/2020,0,0,Cambodia
 05/11/2020,0,0,Cambodia
 04/11/2020,0,0,Cambodia
@@ -8746,6 +8984,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Cambodia
 01/01/2020,0,0,Cambodia
 31/12/2019,0,0,Cambodia
+13/11/2020,0,0,Cameroon
+12/11/2020,0,0,Cameroon
+11/11/2020,0,0,Cameroon
+10/11/2020,0,0,Cameroon
+09/11/2020,79,4,Cameroon
+08/11/2020,239,0,Cameroon
+07/11/2020,0,0,Cameroon
 06/11/2020,0,0,Cameroon
 05/11/2020,0,0,Cameroon
 04/11/2020,310,3,Cameroon
@@ -8985,6 +9230,13 @@ dateRep,cases,deaths,country
 15/03/2020,1,0,Cameroon
 09/03/2020,1,0,Cameroon
 07/03/2020,1,0,Cameroon
+13/11/2020,5516,83,Canada
+12/11/2020,4024,53,Canada
+11/11/2020,4302,68,Canada
+10/11/2020,4622,42,Canada
+09/11/2020,4058,32,Canada
+08/11/2020,4246,54,Canada
+07/11/2020,4471,55,Canada
 06/11/2020,3635,50,Canada
 05/11/2020,2768,52,Canada
 04/11/2020,4672,71,Canada
@@ -9297,6 +9549,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Canada
 01/01/2020,0,0,Canada
 31/12/2019,0,0,Canada
+13/11/2020,134,0,Cape Verde
+12/11/2020,61,1,Cape Verde
+11/11/2020,80,1,Cape Verde
+10/11/2020,50,0,Cape Verde
+09/11/2020,78,0,Cape Verde
+08/11/2020,67,0,Cape Verde
+07/11/2020,75,3,Cape Verde
 06/11/2020,96,2,Cape Verde
 05/11/2020,109,0,Cape Verde
 04/11/2020,62,0,Cape Verde
@@ -9592,6 +9851,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Cases on an international conveyance Japan
 01/01/2020,0,0,Cases on an international conveyance Japan
 31/12/2019,0,0,Cases on an international conveyance Japan
+13/11/2020,0,0,Cayman Islands
+12/11/2020,0,0,Cayman Islands
+11/11/2020,3,0,Cayman Islands
+10/11/2020,0,0,Cayman Islands
+09/11/2020,0,0,Cayman Islands
+08/11/2020,5,0,Cayman Islands
+07/11/2020,1,0,Cayman Islands
 06/11/2020,2,0,Cayman Islands
 05/11/2020,0,0,Cayman Islands
 04/11/2020,2,0,Cayman Islands
@@ -9824,6 +10090,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Cayman Islands
 21/03/2020,2,1,Cayman Islands
 20/03/2020,1,0,Cayman Islands
+13/11/2020,4,0,Central African Republic
+12/11/2020,0,0,Central African Republic
+11/11/2020,4,0,Central African Republic
+10/11/2020,1,0,Central African Republic
+09/11/2020,0,0,Central African Republic
+08/11/2020,4,0,Central African Republic
+07/11/2020,0,0,Central African Republic
 06/11/2020,0,0,Central African Republic
 05/11/2020,9,0,Central African Republic
 04/11/2020,0,0,Central African Republic
@@ -10060,6 +10333,13 @@ dateRep,cases,deaths,country
 18/03/2020,0,0,Central African Republic
 17/03/2020,0,0,Central African Republic
 16/03/2020,1,0,Central African Republic
+13/11/2020,0,0,Chad
+12/11/2020,4,0,Chad
+11/11/2020,10,0,Chad
+10/11/2020,4,0,Chad
+09/11/2020,4,0,Chad
+08/11/2020,5,0,Chad
+07/11/2020,9,0,Chad
 06/11/2020,12,0,Chad
 05/11/2020,4,1,Chad
 04/11/2020,14,0,Chad
@@ -10292,6 +10572,13 @@ dateRep,cases,deaths,country
 22/03/2020,1,0,Chad
 21/03/2020,0,0,Chad
 20/03/2020,1,0,Chad
+13/11/2020,1634,66,Chile
+12/11/2020,897,22,Chile
+11/11/2020,1028,23,Chile
+10/11/2020,1321,45,Chile
+09/11/2020,1581,44,Chile
+08/11/2020,1587,49,Chile
+07/11/2020,1808,46,Chile
 06/11/2020,1540,64,Chile
 05/11/2020,840,21,Chile
 04/11/2020,1014,17,Chile
@@ -10539,6 +10826,13 @@ dateRep,cases,deaths,country
 06/03/2020,1,0,Chile
 05/03/2020,2,0,Chile
 04/03/2020,1,0,Chile
+13/11/2020,0,0,China
+12/11/2020,10,0,China
+11/11/2020,13,0,China
+10/11/2020,20,0,China
+09/11/2020,32,0,China
+08/11/2020,24,0,China
+07/11/2020,33,0,China
 06/11/2020,32,0,China
 05/11/2020,27,0,China
 04/11/2020,16,0,China
@@ -10851,6 +11145,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,China
 01/01/2020,0,0,China
 31/12/2019,27,0,China
+13/11/2020,8686,179,Colombia
+12/11/2020,8651,164,Colombia
+11/11/2020,7612,174,Colombia
+10/11/2020,5176,183,Colombia
+09/11/2020,7440,196,Colombia
+08/11/2020,8714,190,Colombia
+07/11/2020,9756,196,Colombia
 06/11/2020,9893,196,Colombia
 05/11/2020,8692,166,Colombia
 04/11/2020,6136,177,Colombia
@@ -11092,6 +11393,13 @@ dateRep,cases,deaths,country
 12/03/2020,6,0,Colombia
 10/03/2020,2,0,Colombia
 07/03/2020,1,0,Colombia
+13/11/2020,5,0,Comoros
+12/11/2020,0,0,Comoros
+11/11/2020,6,0,Comoros
+10/11/2020,0,0,Comoros
+09/11/2020,0,0,Comoros
+08/11/2020,6,0,Comoros
+07/11/2020,0,0,Comoros
 06/11/2020,3,0,Comoros
 05/11/2020,0,0,Comoros
 04/11/2020,9,0,Comoros
@@ -11281,6 +11589,13 @@ dateRep,cases,deaths,country
 04/05/2020,2,0,Comoros
 03/05/2020,0,0,Comoros
 02/05/2020,1,0,Comoros
+13/11/2020,0,0,Congo
+12/11/2020,0,0,Congo
+11/11/2020,0,0,Congo
+10/11/2020,0,0,Congo
+09/11/2020,0,0,Congo
+08/11/2020,0,0,Congo
+07/11/2020,0,0,Congo
 06/11/2020,0,0,Congo
 05/11/2020,31,0,Congo
 04/11/2020,58,0,Congo
@@ -11517,6 +11832,13 @@ dateRep,cases,deaths,country
 18/03/2020,0,0,Congo
 17/03/2020,0,0,Congo
 16/03/2020,1,0,Congo
+13/11/2020,1171,14,Costa Rica
+12/11/2020,1202,11,Costa Rica
+11/11/2020,979,11,Costa Rica
+10/11/2020,1224,27,Costa Rica
+09/11/2020,0,0,Costa Rica
+08/11/2020,946,11,Costa Rica
+07/11/2020,1050,9,Costa Rica
 06/11/2020,1106,13,Costa Rica
 05/11/2020,1141,12,Costa Rica
 04/11/2020,863,15,Costa Rica
@@ -11761,6 +12083,13 @@ dateRep,cases,deaths,country
 10/03/2020,4,0,Costa Rica
 09/03/2020,4,0,Costa Rica
 07/03/2020,1,0,Costa Rica
+13/11/2020,27,0,Cote dIvoire
+12/11/2020,8,1,Cote dIvoire
+11/11/2020,12,0,Cote dIvoire
+10/11/2020,3,0,Cote dIvoire
+09/11/2020,19,0,Cote dIvoire
+08/11/2020,12,0,Cote dIvoire
+07/11/2020,12,0,Cote dIvoire
 06/11/2020,11,0,Cote dIvoire
 05/11/2020,13,0,Cote dIvoire
 04/11/2020,12,0,Cote dIvoire
@@ -11999,6 +12328,13 @@ dateRep,cases,deaths,country
 16/03/2020,0,0,Cote dIvoire
 15/03/2020,3,0,Cote dIvoire
 12/03/2020,1,0,Cote dIvoire
+13/11/2020,82,32,Croatia
+12/11/2020,2597,28,Croatia
+11/11/2020,1467,33,Croatia
+10/11/2020,1529,38,Croatia
+09/11/2020,2543,42,Croatia
+08/11/2020,2399,35,Croatia
+07/11/2020,2890,34,Croatia
 06/11/2020,2848,29,Croatia
 05/11/2020,2480,26,Croatia
 04/11/2020,1427,34,Croatia
@@ -12308,6 +12644,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Croatia
 01/01/2020,0,0,Croatia
 31/12/2019,0,0,Croatia
+13/11/2020,58,1,Cuba
+12/11/2020,37,0,Cuba
+11/11/2020,43,0,Cuba
+10/11/2020,52,0,Cuba
+09/11/2020,30,0,Cuba
+08/11/2020,39,0,Cuba
+07/11/2020,44,1,Cuba
 06/11/2020,40,0,Cuba
 05/11/2020,109,0,Cuba
 04/11/2020,65,0,Cuba
@@ -12545,6 +12888,13 @@ dateRep,cases,deaths,country
 15/03/2020,0,0,Cuba
 14/03/2020,1,0,Cuba
 12/03/2020,3,0,Cuba
+13/11/2020,33,0,Curaçao
+12/11/2020,51,0,Curaçao
+11/11/2020,29,0,Curaçao
+10/11/2020,5,0,Curaçao
+09/11/2020,20,0,Curaçao
+08/11/2020,24,0,Curaçao
+07/11/2020,23,0,Curaçao
 06/11/2020,9,0,Curaçao
 05/11/2020,21,1,Curaçao
 04/11/2020,5,0,Curaçao
@@ -12773,9 +13123,16 @@ dateRep,cases,deaths,country
 24/03/2020,3,0,Curaçao
 20/03/2020,2,0,Curaçao
 13/03/2020,1,0,Curaçao
+13/11/2020,185,2,Cyprus
+12/11/2020,165,3,Cyprus
+11/11/2020,198,2,Cyprus
+10/11/2020,111,0,Cyprus
+09/11/2020,116,0,Cyprus
+08/11/2020,314,1,Cyprus
+07/11/2020,224,0,Cyprus
 06/11/2020,233,0,Cyprus
 05/11/2020,166,0,Cyprus
-04/11/2020,174,1,Cyprus
+04/11/2020,174,0,Cyprus
 03/11/2020,197,0,Cyprus
 02/11/2020,197,0,Cyprus
 01/11/2020,149,1,Cyprus
@@ -13013,6 +13370,13 @@ dateRep,cases,deaths,country
 14/03/2020,8,0,Cyprus
 12/03/2020,4,0,Cyprus
 10/03/2020,2,0,Cyprus
+13/11/2020,7870,185,Czechia
+12/11/2020,8925,247,Czechia
+11/11/2020,9005,249,Czechia
+10/11/2020,6047,216,Czechia
+09/11/2020,3608,177,Czechia
+08/11/2020,7723,155,Czechia
+07/11/2020,11552,196,Czechia
 06/11/2020,13229,197,Czechia
 05/11/2020,15731,220,Czechia
 04/11/2020,12089,259,Czechia
@@ -13325,6 +13689,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Czechia
 01/01/2020,0,0,Czechia
 31/12/2019,0,0,Czechia
+13/11/2020,36,2,Democratic Republic of the Congo
+12/11/2020,14,0,Democratic Republic of the Congo
+11/11/2020,34,0,Democratic Republic of the Congo
+10/11/2020,0,0,Democratic Republic of the Congo
+09/11/2020,17,0,Democratic Republic of the Congo
+08/11/2020,41,0,Democratic Republic of the Congo
+07/11/2020,64,1,Democratic Republic of the Congo
 06/11/2020,36,0,Democratic Republic of the Congo
 05/11/2020,23,0,Democratic Republic of the Congo
 04/11/2020,54,7,Democratic Republic of the Congo
@@ -13564,6 +13935,13 @@ dateRep,cases,deaths,country
 15/03/2020,0,0,Democratic Republic of the Congo
 14/03/2020,1,0,Democratic Republic of the Congo
 11/03/2020,1,0,Democratic Republic of the Congo
+13/11/2020,1011,2,Denmark
+12/11/2020,994,3,Denmark
+11/11/2020,1066,3,Denmark
+10/11/2020,771,4,Denmark
+09/11/2020,891,3,Denmark
+08/11/2020,1050,2,Denmark
+07/11/2020,1427,5,Denmark
 06/11/2020,1223,4,Denmark
 05/11/2020,936,1,Denmark
 04/11/2020,1353,4,Denmark
@@ -13876,6 +14254,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Denmark
 01/01/2020,0,0,Denmark
 31/12/2019,0,0,Denmark
+13/11/2020,6,0,Djibouti
+12/11/2020,2,0,Djibouti
+11/11/2020,6,0,Djibouti
+10/11/2020,19,0,Djibouti
+09/11/2020,3,0,Djibouti
+08/11/2020,1,0,Djibouti
+07/11/2020,5,0,Djibouti
 06/11/2020,19,0,Djibouti
 05/11/2020,5,0,Djibouti
 04/11/2020,2,0,Djibouti
@@ -14109,6 +14494,13 @@ dateRep,cases,deaths,country
 21/03/2020,0,0,Djibouti
 20/03/2020,0,0,Djibouti
 19/03/2020,1,0,Djibouti
+13/11/2020,26,0,Dominica
+12/11/2020,0,0,Dominica
+11/11/2020,0,0,Dominica
+10/11/2020,0,0,Dominica
+09/11/2020,0,0,Dominica
+08/11/2020,0,0,Dominica
+07/11/2020,0,0,Dominica
 06/11/2020,0,0,Dominica
 05/11/2020,0,0,Dominica
 04/11/2020,0,0,Dominica
@@ -14338,6 +14730,13 @@ dateRep,cases,deaths,country
 25/03/2020,1,0,Dominica
 24/03/2020,0,0,Dominica
 23/03/2020,1,0,Dominica
+13/11/2020,371,2,Dominican Republic
+12/11/2020,134,3,Dominican Republic
+11/11/2020,528,2,Dominican Republic
+10/11/2020,421,2,Dominican Republic
+09/11/2020,537,2,Dominican Republic
+08/11/2020,345,2,Dominican Republic
+07/11/2020,476,1,Dominican Republic
 06/11/2020,546,3,Dominican Republic
 05/11/2020,430,5,Dominican Republic
 04/11/2020,257,2,Dominican Republic
@@ -14641,6 +15040,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Dominican Republic
 01/01/2020,0,0,Dominican Republic
 31/12/2019,0,0,Dominican Republic
+13/11/2020,883,26,Ecuador
+12/11/2020,919,71,Ecuador
+11/11/2020,442,10,Ecuador
+10/11/2020,362,9,Ecuador
+09/11/2020,1421,15,Ecuador
+08/11/2020,978,54,Ecuador
+07/11/2020,725,31,Ecuador
 06/11/2020,350,26,Ecuador
 05/11/2020,1323,6,Ecuador
 04/11/2020,548,6,Ecuador
@@ -14948,6 +15354,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Ecuador
 01/01/2020,0,0,Ecuador
 31/12/2019,0,0,Ecuador
+13/11/2020,214,12,Egypt
+12/11/2020,227,11,Egypt
+11/11/2020,232,14,Egypt
+10/11/2020,221,12,Egypt
+09/11/2020,239,13,Egypt
+08/11/2020,208,12,Egypt
+07/11/2020,224,14,Egypt
 06/11/2020,201,11,Egypt
 05/11/2020,207,13,Egypt
 04/11/2020,197,14,Egypt
@@ -15256,6 +15669,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Egypt
 01/01/2020,0,0,Egypt
 31/12/2019,0,0,Egypt
+13/11/2020,885,5,El Salvador
+12/11/2020,0,4,El Salvador
+11/11/2020,0,4,El Salvador
+10/11/2020,0,6,El Salvador
+09/11/2020,0,4,El Salvador
+08/11/2020,0,4,El Salvador
+07/11/2020,363,4,El Salvador
 06/11/2020,767,5,El Salvador
 05/11/2020,0,5,El Salvador
 04/11/2020,0,5,El Salvador
@@ -15489,6 +15909,13 @@ dateRep,cases,deaths,country
 21/03/2020,2,0,El Salvador
 20/03/2020,0,0,El Salvador
 19/03/2020,1,0,El Salvador
+13/11/2020,0,0,Equatorial Guinea
+12/11/2020,2,0,Equatorial Guinea
+11/11/2020,10,0,Equatorial Guinea
+10/11/2020,0,0,Equatorial Guinea
+09/11/2020,0,0,Equatorial Guinea
+08/11/2020,0,0,Equatorial Guinea
+07/11/2020,0,0,Equatorial Guinea
 06/11/2020,3,2,Equatorial Guinea
 05/11/2020,0,0,Equatorial Guinea
 04/11/2020,0,0,Equatorial Guinea
@@ -15726,6 +16153,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Equatorial Guinea
 16/03/2020,0,0,Equatorial Guinea
 15/03/2020,1,0,Equatorial Guinea
+13/11/2020,0,0,Eritrea
+12/11/2020,0,0,Eritrea
+11/11/2020,0,0,Eritrea
+10/11/2020,0,0,Eritrea
+09/11/2020,0,0,Eritrea
+08/11/2020,7,0,Eritrea
+07/11/2020,0,0,Eritrea
 06/11/2020,4,0,Eritrea
 05/11/2020,0,0,Eritrea
 04/11/2020,17,0,Eritrea
@@ -15956,6 +16390,13 @@ dateRep,cases,deaths,country
 24/03/2020,0,0,Eritrea
 23/03/2020,0,0,Eritrea
 22/03/2020,1,0,Eritrea
+13/11/2020,373,0,Estonia
+12/11/2020,132,0,Estonia
+11/11/2020,126,0,Estonia
+10/11/2020,125,1,Estonia
+09/11/2020,192,2,Estonia
+08/11/2020,228,0,Estonia
+07/11/2020,241,0,Estonia
 06/11/2020,131,0,Estonia
 05/11/2020,208,0,Estonia
 04/11/2020,79,0,Estonia
@@ -16263,6 +16704,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Estonia
 01/01/2020,0,0,Estonia
 31/12/2019,0,0,Estonia
+13/11/2020,16,0,Eswatini
+12/11/2020,20,0,Eswatini
+11/11/2020,11,0,Eswatini
+10/11/2020,10,0,Eswatini
+09/11/2020,14,0,Eswatini
+08/11/2020,13,0,Eswatini
+07/11/2020,9,0,Eswatini
 06/11/2020,12,0,Eswatini
 05/11/2020,13,0,Eswatini
 04/11/2020,13,0,Eswatini
@@ -16500,6 +16948,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Eswatini
 16/03/2020,0,0,Eswatini
 15/03/2020,1,0,Eswatini
+13/11/2020,521,9,Ethiopia
+12/11/2020,400,8,Ethiopia
+11/11/2020,345,7,Ethiopia
+10/11/2020,307,7,Ethiopia
+09/11/2020,474,5,Ethiopia
+08/11/2020,455,6,Ethiopia
+07/11/2020,355,4,Ethiopia
 06/11/2020,510,5,Ethiopia
 05/11/2020,379,9,Ethiopia
 04/11/2020,560,5,Ethiopia
@@ -16738,6 +17193,13 @@ dateRep,cases,deaths,country
 16/03/2020,3,0,Ethiopia
 15/03/2020,0,0,Ethiopia
 14/03/2020,1,0,Ethiopia
+13/11/2020,1,0,Falkland Islands (Malvinas)
+12/11/2020,0,0,Falkland Islands (Malvinas)
+11/11/2020,1,0,Falkland Islands (Malvinas)
+10/11/2020,0,0,Falkland Islands (Malvinas)
+09/11/2020,0,0,Falkland Islands (Malvinas)
+08/11/2020,0,0,Falkland Islands (Malvinas)
+07/11/2020,0,0,Falkland Islands (Malvinas)
 06/11/2020,0,0,Falkland Islands (Malvinas)
 05/11/2020,0,0,Falkland Islands (Malvinas)
 04/11/2020,0,0,Falkland Islands (Malvinas)
@@ -16955,6 +17417,13 @@ dateRep,cases,deaths,country
 06/04/2020,1,0,Falkland Islands (Malvinas)
 05/04/2020,0,0,Falkland Islands (Malvinas)
 04/04/2020,1,0,Falkland Islands (Malvinas)
+13/11/2020,0,0,Faroe Islands
+12/11/2020,0,0,Faroe Islands
+11/11/2020,0,0,Faroe Islands
+10/11/2020,0,0,Faroe Islands
+09/11/2020,2,0,Faroe Islands
+08/11/2020,0,0,Faroe Islands
+07/11/2020,0,0,Faroe Islands
 06/11/2020,0,0,Faroe Islands
 05/11/2020,0,0,Faroe Islands
 04/11/2020,0,0,Faroe Islands
@@ -17201,6 +17670,13 @@ dateRep,cases,deaths,country
 08/03/2020,1,0,Faroe Islands
 07/03/2020,1,0,Faroe Islands
 06/03/2020,1,0,Faroe Islands
+13/11/2020,0,0,Fiji
+12/11/2020,0,0,Fiji
+11/11/2020,1,0,Fiji
+10/11/2020,0,0,Fiji
+09/11/2020,0,0,Fiji
+08/11/2020,0,0,Fiji
+07/11/2020,0,0,Fiji
 06/11/2020,0,0,Fiji
 05/11/2020,0,0,Fiji
 04/11/2020,0,0,Fiji
@@ -17433,6 +17909,13 @@ dateRep,cases,deaths,country
 22/03/2020,1,0,Fiji
 21/03/2020,0,0,Fiji
 20/03/2020,1,0,Fiji
+13/11/2020,197,0,Finland
+12/11/2020,238,2,Finland
+11/11/2020,220,0,Finland
+10/11/2020,90,1,Finland
+09/11/2020,412,0,Finland
+08/11/2020,0,0,Finland
+07/11/2020,266,1,Finland
 06/11/2020,189,0,Finland
 05/11/2020,293,2,Finland
 04/11/2020,237,0,Finland
@@ -17741,6 +18224,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Finland
 01/01/2020,0,0,Finland
 31/12/2019,0,0,Finland
+13/11/2020,33172,425,France
+12/11/2020,35879,328,France
+11/11/2020,22180,1220,France
+10/11/2020,20155,548,France
+09/11/2020,38619,270,France
+08/11/2020,86852,304,France
+07/11/2020,60486,828,France
 06/11/2020,58046,363,France
 05/11/2020,40558,385,France
 04/11/2020,36330,854,France
@@ -18053,6 +18543,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,France
 01/01/2020,0,0,France
 31/12/2019,0,0,France
+13/11/2020,345,0,French Polynesia
+12/11/2020,291,3,French Polynesia
+11/11/2020,685,10,French Polynesia
+10/11/2020,0,0,French Polynesia
+09/11/2020,0,0,French Polynesia
+08/11/2020,241,0,French Polynesia
+07/11/2020,467,0,French Polynesia
 06/11/2020,338,1,French Polynesia
 05/11/2020,303,0,French Polynesia
 04/11/2020,1384,9,French Polynesia
@@ -18286,6 +18783,13 @@ dateRep,cases,deaths,country
 21/03/2020,12,0,French Polynesia
 20/03/2020,0,0,French Polynesia
 19/03/2020,3,0,French Polynesia
+13/11/2020,0,0,Gabon
+12/11/2020,19,0,Gabon
+11/11/2020,0,0,Gabon
+10/11/2020,7,2,Gabon
+09/11/2020,0,0,Gabon
+08/11/2020,0,0,Gabon
+07/11/2020,17,0,Gabon
 06/11/2020,0,0,Gabon
 05/11/2020,21,0,Gabon
 04/11/2020,0,0,Gabon
@@ -18524,6 +19028,13 @@ dateRep,cases,deaths,country
 16/03/2020,0,0,Gabon
 15/03/2020,0,0,Gabon
 13/03/2020,1,0,Gabon
+13/11/2020,0,0,Gambia
+12/11/2020,13,1,Gambia
+11/11/2020,0,0,Gambia
+10/11/2020,0,0,Gambia
+09/11/2020,0,0,Gambia
+08/11/2020,3,1,Gambia
+07/11/2020,1,0,Gambia
 06/11/2020,0,0,Gambia
 05/11/2020,1,0,Gambia
 04/11/2020,7,1,Gambia
@@ -18758,6 +19269,13 @@ dateRep,cases,deaths,country
 20/03/2020,0,0,Gambia
 19/03/2020,0,0,Gambia
 18/03/2020,1,0,Gambia
+13/11/2020,3473,37,Georgia
+12/11/2020,3120,33,Georgia
+11/11/2020,2911,45,Georgia
+10/11/2020,2970,22,Georgia
+09/11/2020,2927,24,Georgia
+08/11/2020,2901,34,Georgia
+07/11/2020,2859,18,Georgia
 06/11/2020,2775,22,Georgia
 05/11/2020,2401,20,Georgia
 04/11/2020,2295,19,Georgia
@@ -19067,6 +19585,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Georgia
 01/01/2020,0,0,Georgia
 31/12/2019,0,0,Georgia
+13/11/2020,23542,218,Germany
+12/11/2020,21866,215,Germany
+11/11/2020,18487,261,Germany
+10/11/2020,15332,154,Germany
+09/11/2020,13363,63,Germany
+08/11/2020,16017,63,Germany
+07/11/2020,23399,130,Germany
 06/11/2020,21506,166,Germany
 05/11/2020,19990,118,Germany
 04/11/2020,17214,151,Germany
@@ -19379,6 +19904,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Germany
 01/01/2020,0,0,Germany
 31/12/2019,0,0,Germany
+13/11/2020,716,0,Ghana
+12/11/2020,0,0,Ghana
+11/11/2020,100,0,Ghana
+10/11/2020,0,0,Ghana
+09/11/2020,298,0,Ghana
+08/11/2020,116,0,Ghana
+07/11/2020,0,0,Ghana
 06/11/2020,145,0,Ghana
 05/11/2020,443,0,Ghana
 04/11/2020,0,0,Ghana
@@ -19617,6 +20149,13 @@ dateRep,cases,deaths,country
 16/03/2020,0,0,Ghana
 15/03/2020,0,0,Ghana
 13/03/2020,2,0,Ghana
+13/11/2020,22,0,Gibraltar
+12/11/2020,28,1,Gibraltar
+11/11/2020,9,0,Gibraltar
+10/11/2020,12,0,Gibraltar
+09/11/2020,8,0,Gibraltar
+08/11/2020,15,0,Gibraltar
+07/11/2020,16,0,Gibraltar
 06/11/2020,11,0,Gibraltar
 05/11/2020,13,0,Gibraltar
 04/11/2020,23,0,Gibraltar
@@ -19849,6 +20388,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Gibraltar
 21/03/2020,0,0,Gibraltar
 20/03/2020,10,0,Gibraltar
+13/11/2020,3316,50,Greece
+12/11/2020,2751,43,Greece
+11/11/2020,2383,41,Greece
+10/11/2020,1489,41,Greece
+09/11/2020,1889,35,Greece
+08/11/2020,2555,34,Greece
+07/11/2020,2447,13,Greece
 06/11/2020,2915,29,Greece
 05/11/2020,2646,18,Greece
 04/11/2020,2166,13,Greece
@@ -20159,6 +20705,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Greece
 01/01/2020,0,0,Greece
 31/12/2019,0,0,Greece
+13/11/2020,0,0,Greenland
+12/11/2020,0,0,Greenland
+11/11/2020,0,0,Greenland
+10/11/2020,0,0,Greenland
+09/11/2020,0,0,Greenland
+08/11/2020,0,0,Greenland
+07/11/2020,0,0,Greenland
 06/11/2020,0,0,Greenland
 05/11/2020,0,0,Greenland
 04/11/2020,0,0,Greenland
@@ -20391,6 +20944,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Greenland
 21/03/2020,0,0,Greenland
 20/03/2020,2,0,Greenland
+13/11/2020,0,0,Grenada
+12/11/2020,0,0,Grenada
+11/11/2020,0,0,Grenada
+10/11/2020,0,0,Grenada
+09/11/2020,2,0,Grenada
+08/11/2020,0,0,Grenada
+07/11/2020,0,0,Grenada
 06/11/2020,0,0,Grenada
 05/11/2020,1,0,Grenada
 04/11/2020,0,0,Grenada
@@ -20620,6 +21180,13 @@ dateRep,cases,deaths,country
 25/03/2020,0,0,Grenada
 24/03/2020,0,0,Grenada
 23/03/2020,1,0,Grenada
+13/11/2020,95,1,Guam
+12/11/2020,101,0,Guam
+11/11/2020,421,0,Guam
+10/11/2020,0,2,Guam
+09/11/2020,120,0,Guam
+08/11/2020,0,0,Guam
+07/11/2020,109,4,Guam
 06/11/2020,101,2,Guam
 05/11/2020,91,2,Guam
 04/11/2020,119,2,Guam
@@ -20853,6 +21420,13 @@ dateRep,cases,deaths,country
 21/03/2020,2,0,Guam
 20/03/2020,9,0,Guam
 19/03/2020,3,0,Guam
+13/11/2020,732,13,Guatemala
+12/11/2020,682,13,Guatemala
+11/11/2020,769,9,Guatemala
+10/11/2020,98,2,Guatemala
+09/11/2020,212,10,Guatemala
+08/11/2020,548,17,Guatemala
+07/11/2020,653,28,Guatemala
 06/11/2020,702,14,Guatemala
 05/11/2020,664,4,Guatemala
 04/11/2020,379,10,Guatemala
@@ -21090,6 +21664,13 @@ dateRep,cases,deaths,country
 17/03/2020,5,0,Guatemala
 16/03/2020,0,1,Guatemala
 15/03/2020,1,0,Guatemala
+13/11/2020,0,0,Guernsey
+12/11/2020,0,0,Guernsey
+11/11/2020,3,0,Guernsey
+10/11/2020,0,0,Guernsey
+09/11/2020,0,0,Guernsey
+08/11/2020,1,0,Guernsey
+07/11/2020,4,0,Guernsey
 06/11/2020,1,0,Guernsey
 05/11/2020,1,0,Guernsey
 04/11/2020,1,0,Guernsey
@@ -21322,6 +21903,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Guernsey
 21/03/2020,0,0,Guernsey
 20/03/2020,1,0,Guernsey
+13/11/2020,21,0,Guinea
+12/11/2020,32,0,Guinea
+11/11/2020,25,0,Guinea
+10/11/2020,33,0,Guinea
+09/11/2020,26,1,Guinea
+08/11/2020,37,0,Guinea
+07/11/2020,0,0,Guinea
 06/11/2020,32,0,Guinea
 05/11/2020,118,0,Guinea
 04/11/2020,0,0,Guinea
@@ -21559,6 +22147,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Guinea
 15/03/2020,0,0,Guinea
 14/03/2020,1,0,Guinea
+13/11/2020,0,0,Guinea Bissau
+12/11/2020,1,1,Guinea Bissau
+11/11/2020,0,0,Guinea Bissau
+10/11/2020,0,0,Guinea Bissau
+09/11/2020,0,0,Guinea Bissau
+08/11/2020,0,0,Guinea Bissau
+07/11/2020,0,0,Guinea Bissau
 06/11/2020,0,0,Guinea Bissau
 05/11/2020,0,0,Guinea Bissau
 04/11/2020,0,0,Guinea Bissau
@@ -21784,6 +22379,13 @@ dateRep,cases,deaths,country
 29/03/2020,0,0,Guinea Bissau
 28/03/2020,0,0,Guinea Bissau
 27/03/2020,2,0,Guinea Bissau
+13/11/2020,44,1,Guyana
+12/11/2020,88,2,Guyana
+11/11/2020,6,0,Guyana
+10/11/2020,10,1,Guyana
+09/11/2020,30,0,Guyana
+08/11/2020,27,1,Guyana
+07/11/2020,64,3,Guyana
 06/11/2020,69,0,Guyana
 05/11/2020,79,2,Guyana
 04/11/2020,7,0,Guyana
@@ -22021,6 +22623,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Guyana
 16/03/2020,3,0,Guyana
 13/03/2020,1,1,Guyana
+13/11/2020,0,0,Haiti
+12/11/2020,10,0,Haiti
+11/11/2020,5,0,Haiti
+10/11/2020,10,0,Haiti
+09/11/2020,0,0,Haiti
+08/11/2020,0,0,Haiti
+07/11/2020,18,0,Haiti
 06/11/2020,9,0,Haiti
 05/11/2020,0,0,Haiti
 04/11/2020,46,0,Haiti
@@ -22253,6 +22862,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Haiti
 21/03/2020,0,0,Haiti
 20/03/2020,2,0,Haiti
+13/11/2020,0,0,Holy See
+12/11/2020,0,0,Holy See
+11/11/2020,0,0,Holy See
+10/11/2020,0,0,Holy See
+09/11/2020,0,0,Holy See
+08/11/2020,0,0,Holy See
+07/11/2020,0,0,Holy See
 06/11/2020,0,0,Holy See
 05/11/2020,0,0,Holy See
 04/11/2020,0,0,Holy See
@@ -22490,6 +23106,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Holy See
 16/03/2020,0,0,Holy See
 07/03/2020,1,0,Holy See
+13/11/2020,299,7,Honduras
+12/11/2020,365,17,Honduras
+11/11/2020,231,15,Honduras
+10/11/2020,65,14,Honduras
+09/11/2020,467,6,Honduras
+08/11/2020,465,4,Honduras
+07/11/2020,229,5,Honduras
 06/11/2020,223,6,Honduras
 05/11/2020,436,24,Honduras
 04/11/2020,283,18,Honduras
@@ -22728,6 +23351,13 @@ dateRep,cases,deaths,country
 16/03/2020,3,0,Honduras
 14/03/2020,1,0,Honduras
 12/03/2020,2,0,Honduras
+13/11/2020,5097,99,Hungary
+12/11/2020,3927,87,Hungary
+11/11/2020,3945,101,Hungary
+10/11/2020,4140,103,Hungary
+09/11/2020,5162,55,Hungary
+08/11/2020,4673,81,Hungary
+07/11/2020,5318,107,Hungary
 06/11/2020,4709,103,Hungary
 05/11/2020,3928,84,Hungary
 04/11/2020,4219,90,Hungary
@@ -22974,6 +23604,13 @@ dateRep,cases,deaths,country
 08/03/2020,3,0,Hungary
 07/03/2020,2,0,Hungary
 05/03/2020,2,0,Hungary
+13/11/2020,18,1,Iceland
+12/11/2020,28,0,Iceland
+11/11/2020,13,1,Iceland
+10/11/2020,23,3,Iceland
+09/11/2020,15,2,Iceland
+08/11/2020,24,0,Iceland
+07/11/2020,22,0,Iceland
 06/11/2020,28,1,Iceland
 05/11/2020,32,0,Iceland
 04/11/2020,26,5,Iceland
@@ -23286,6 +23923,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Iceland
 01/01/2020,0,0,Iceland
 31/12/2019,0,0,Iceland
+13/11/2020,44879,547,India
+12/11/2020,47905,550,India
+11/11/2020,44281,512,India
+10/11/2020,38073,448,India
+09/11/2020,45903,490,India
+08/11/2020,45674,559,India
+07/11/2020,50356,577,India
 06/11/2020,47638,670,India
 05/11/2020,50210,704,India
 04/11/2020,46253,514,India
@@ -23597,6 +24241,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,India
 01/01/2020,0,0,India
 31/12/2019,0,0,India
+13/11/2020,4173,97,Indonesia
+12/11/2020,3770,75,Indonesia
+11/11/2020,3779,72,Indonesia
+10/11/2020,2853,75,Indonesia
+09/11/2020,3880,74,Indonesia
+08/11/2020,4262,98,Indonesia
+07/11/2020,3778,94,Indonesia
 06/11/2020,4065,89,Indonesia
 05/11/2020,3356,113,Indonesia
 04/11/2020,2973,102,Indonesia
@@ -23902,6 +24553,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Indonesia
 01/01/2020,0,0,Indonesia
 31/12/2019,0,0,Indonesia
+13/11/2020,11517,457,Iran
+12/11/2020,11780,462,Iran
+11/11/2020,10339,453,Iran
+10/11/2020,10463,458,Iran
+09/11/2020,9236,459,Iran
+08/11/2020,9450,423,Iran
+07/11/2020,8864,424,Iran
 06/11/2020,8772,406,Iran
 05/11/2020,8452,419,Iran
 04/11/2020,8932,422,Iran
@@ -24214,6 +24872,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Iran
 01/01/2020,0,0,Iran
 31/12/2019,0,0,Iran
+13/11/2020,3298,50,Iraq
+12/11/2020,3198,50,Iraq
+11/11/2020,3577,52,Iraq
+10/11/2020,3184,53,Iraq
+09/11/2020,2530,44,Iraq
+08/11/2020,2880,39,Iraq
+07/11/2020,3568,69,Iraq
 06/11/2020,3701,47,Iraq
 05/11/2020,3574,60,Iraq
 04/11/2020,3595,51,Iraq
@@ -24524,6 +25189,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Iraq
 01/01/2020,0,0,Iraq
 31/12/2019,0,0,Iraq
+13/11/2020,385,0,Ireland
+12/11/2020,358,2,Ireland
+11/11/2020,230,15,Ireland
+10/11/2020,265,1,Ireland
+09/11/2020,539,2,Ireland
+08/11/2020,317,5,Ireland
+07/11/2020,492,7,Ireland
 06/11/2020,563,3,Ireland
 05/11/2020,435,8,Ireland
 04/11/2020,298,5,Ireland
@@ -24834,6 +25506,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Ireland
 01/01/2020,0,0,Ireland
 31/12/2019,0,0,Ireland
+13/11/2020,2,0,Isle of Man
+12/11/2020,2,0,Isle of Man
+11/11/2020,2,0,Isle of Man
+10/11/2020,0,0,Isle of Man
+09/11/2020,0,1,Isle of Man
+08/11/2020,0,0,Isle of Man
+07/11/2020,0,0,Isle of Man
 06/11/2020,0,0,Isle of Man
 05/11/2020,1,0,Isle of Man
 04/11/2020,1,0,Isle of Man
@@ -25065,6 +25744,13 @@ dateRep,cases,deaths,country
 23/03/2020,0,0,Isle of Man
 22/03/2020,1,0,Isle of Man
 21/03/2020,1,0,Isle of Man
+13/11/2020,833,6,Israel
+12/11/2020,477,17,Israel
+11/11/2020,665,5,Israel
+10/11/2020,622,4,Israel
+09/11/2020,540,30,Israel
+08/11/2020,620,0,Israel
+07/11/2020,291,5,Israel
 06/11/2020,555,42,Israel
 05/11/2020,764,5,Israel
 04/11/2020,809,12,Israel
@@ -25374,6 +26060,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Israel
 01/01/2020,0,0,Israel
 31/12/2019,0,0,Israel
+13/11/2020,37977,636,Italy
+12/11/2020,32961,623,Italy
+11/11/2020,35090,580,Italy
+10/11/2020,25269,356,Italy
+09/11/2020,32614,331,Italy
+08/11/2020,39809,425,Italy
+07/11/2020,37802,446,Italy
 06/11/2020,34502,428,Italy
 05/11/2020,30548,352,Italy
 04/11/2020,28241,353,Italy
@@ -25686,6 +26379,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Italy
 01/01/2020,0,0,Italy
 31/12/2019,0,0,Italy
+13/11/2020,53,0,Jamaica
+12/11/2020,8,1,Jamaica
+11/11/2020,31,3,Jamaica
+10/11/2020,36,0,Jamaica
+09/11/2020,34,3,Jamaica
+08/11/2020,46,0,Jamaica
+07/11/2020,53,1,Jamaica
 06/11/2020,47,2,Jamaica
 05/11/2020,30,1,Jamaica
 04/11/2020,39,4,Jamaica
@@ -25925,6 +26625,13 @@ dateRep,cases,deaths,country
 14/03/2020,2,0,Jamaica
 13/03/2020,4,0,Jamaica
 12/03/2020,2,0,Jamaica
+13/11/2020,1587,16,Japan
+12/11/2020,1555,10,Japan
+11/11/2020,1173,12,Japan
+10/11/2020,899,11,Japan
+09/11/2020,998,6,Japan
+08/11/2020,1172,3,Japan
+07/11/2020,1132,3,Japan
 06/11/2020,944,12,Japan
 05/11/2020,938,8,Japan
 04/11/2020,619,6,Japan
@@ -26237,6 +26944,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Japan
 01/01/2020,0,0,Japan
 31/12/2019,0,0,Japan
+13/11/2020,17,0,Jersey
+12/11/2020,14,0,Jersey
+11/11/2020,18,0,Jersey
+10/11/2020,29,0,Jersey
+09/11/2020,0,0,Jersey
+08/11/2020,0,0,Jersey
+07/11/2020,11,0,Jersey
 06/11/2020,12,0,Jersey
 05/11/2020,12,0,Jersey
 04/11/2020,17,0,Jersey
@@ -26469,6 +27183,13 @@ dateRep,cases,deaths,country
 22/03/2020,0,0,Jersey
 21/03/2020,7,0,Jersey
 20/03/2020,5,0,Jersey
+13/11/2020,5685,80,Jordan
+12/11/2020,5419,81,Jordan
+11/11/2020,5996,91,Jordan
+10/11/2020,5665,62,Jordan
+09/11/2020,4519,52,Jordan
+08/11/2020,3554,45,Jordan
+07/11/2020,5384,67,Jordan
 06/11/2020,4630,40,Jordan
 05/11/2020,4658,62,Jordan
 04/11/2020,4833,54,Jordan
@@ -26708,6 +27429,13 @@ dateRep,cases,deaths,country
 15/03/2020,0,0,Jordan
 08/03/2020,0,0,Jordan
 03/03/2020,1,0,Jordan
+13/11/2020,817,3,Kazakhstan
+12/11/2020,775,44,Kazakhstan
+11/11/2020,810,0,Kazakhstan
+10/11/2020,575,1,Kazakhstan
+09/11/2020,656,0,Kazakhstan
+08/11/2020,899,1,Kazakhstan
+07/11/2020,774,2,Kazakhstan
 06/11/2020,822,0,Kazakhstan
 05/11/2020,703,1,Kazakhstan
 04/11/2020,701,1,Kazakhstan
@@ -26945,6 +27673,13 @@ dateRep,cases,deaths,country
 17/03/2020,2,0,Kazakhstan
 16/03/2020,3,0,Kazakhstan
 15/03/2020,6,0,Kazakhstan
+13/11/2020,2135,49,Kenya
+12/11/2020,0,0,Kenya
+11/11/2020,1344,24,Kenya
+10/11/2020,756,19,Kenya
+09/11/2020,719,8,Kenya
+08/11/2020,1065,10,Kenya
+07/11/2020,1109,21,Kenya
 06/11/2020,1008,21,Kenya
 05/11/2020,1494,12,Kenya
 04/11/2020,492,12,Kenya
@@ -27183,6 +27918,13 @@ dateRep,cases,deaths,country
 16/03/2020,2,0,Kenya
 15/03/2020,0,0,Kenya
 14/03/2020,1,0,Kenya
+13/11/2020,767,7,Kosovo
+12/11/2020,733,4,Kosovo
+11/11/2020,596,5,Kosovo
+10/11/2020,637,13,Kosovo
+09/11/2020,730,11,Kosovo
+08/11/2020,491,12,Kosovo
+07/11/2020,728,12,Kosovo
 06/11/2020,661,6,Kosovo
 05/11/2020,546,9,Kosovo
 04/11/2020,344,8,Kosovo
@@ -27421,6 +28163,13 @@ dateRep,cases,deaths,country
 16/03/2020,8,0,Kosovo
 15/03/2020,3,0,Kosovo
 14/03/2020,2,0,Kosovo
+13/11/2020,773,4,Kuwait
+12/11/2020,778,5,Kuwait
+11/11/2020,903,5,Kuwait
+10/11/2020,735,5,Kuwait
+09/11/2020,538,3,Kuwait
+08/11/2020,742,4,Kuwait
+07/11/2020,825,5,Kuwait
 06/11/2020,795,5,Kuwait
 05/11/2020,763,5,Kuwait
 04/11/2020,787,3,Kuwait
@@ -27730,6 +28479,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Kuwait
 01/01/2020,0,0,Kuwait
 31/12/2019,0,0,Kuwait
+13/11/2020,567,2,Kyrgyzstan
+12/11/2020,527,5,Kyrgyzstan
+11/11/2020,400,3,Kyrgyzstan
+10/11/2020,570,3,Kyrgyzstan
+09/11/2020,571,5,Kyrgyzstan
+08/11/2020,515,5,Kyrgyzstan
+07/11/2020,556,2,Kyrgyzstan
 06/11/2020,439,3,Kyrgyzstan
 05/11/2020,535,4,Kyrgyzstan
 04/11/2020,495,4,Kyrgyzstan
@@ -27963,6 +28719,13 @@ dateRep,cases,deaths,country
 21/03/2020,0,0,Kyrgyzstan
 20/03/2020,3,0,Kyrgyzstan
 19/03/2020,3,0,Kyrgyzstan
+13/11/2020,0,0,Laos
+12/11/2020,0,0,Laos
+11/11/2020,0,0,Laos
+10/11/2020,0,0,Laos
+09/11/2020,0,0,Laos
+08/11/2020,0,0,Laos
+07/11/2020,0,0,Laos
 06/11/2020,0,0,Laos
 05/11/2020,0,0,Laos
 04/11/2020,0,0,Laos
@@ -28190,6 +28953,13 @@ dateRep,cases,deaths,country
 27/03/2020,4,0,Laos
 26/03/2020,0,0,Laos
 25/03/2020,2,0,Laos
+13/11/2020,533,4,Latvia
+12/11/2020,453,0,Latvia
+11/11/2020,208,2,Latvia
+10/11/2020,92,2,Latvia
+09/11/2020,215,3,Latvia
+08/11/2020,404,1,Latvia
+07/11/2020,357,7,Latvia
 06/11/2020,367,3,Latvia
 05/11/2020,313,6,Latvia
 04/11/2020,171,2,Latvia
@@ -28435,6 +29205,13 @@ dateRep,cases,deaths,country
 09/03/2020,1,0,Latvia
 08/03/2020,1,0,Latvia
 03/03/2020,1,0,Latvia
+13/11/2020,1874,12,Lebanon
+12/11/2020,1922,14,Lebanon
+11/11/2020,1552,17,Lebanon
+10/11/2020,1119,9,Lebanon
+09/11/2020,1139,10,Lebanon
+08/11/2020,1769,13,Lebanon
+07/11/2020,2142,17,Lebanon
 06/11/2020,2089,7,Lebanon
 05/11/2020,1888,9,Lebanon
 04/11/2020,1512,15,Lebanon
@@ -28743,6 +29520,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Lebanon
 01/01/2020,0,0,Lebanon
 31/12/2019,0,0,Lebanon
+13/11/2020,0,0,Lesotho
+12/11/2020,0,0,Lesotho
+11/11/2020,59,0,Lesotho
+10/11/2020,0,0,Lesotho
+09/11/2020,0,0,Lesotho
+08/11/2020,0,0,Lesotho
+07/11/2020,4,0,Lesotho
 06/11/2020,0,0,Lesotho
 05/11/2020,2,0,Lesotho
 04/11/2020,8,0,Lesotho
@@ -28919,6 +29703,13 @@ dateRep,cases,deaths,country
 17/05/2020,0,0,Lesotho
 16/05/2020,0,0,Lesotho
 15/05/2020,1,0,Lesotho
+13/11/2020,7,0,Liberia
+12/11/2020,0,0,Liberia
+11/11/2020,9,0,Liberia
+10/11/2020,10,0,Liberia
+09/11/2020,0,0,Liberia
+08/11/2020,0,0,Liberia
+07/11/2020,2,0,Liberia
 06/11/2020,2,0,Liberia
 05/11/2020,2,0,Liberia
 04/11/2020,0,0,Liberia
@@ -29154,6 +29945,13 @@ dateRep,cases,deaths,country
 19/03/2020,0,0,Liberia
 18/03/2020,1,0,Liberia
 17/03/2020,1,0,Liberia
+13/11/2020,919,15,Libya
+12/11/2020,875,13,Libya
+11/11/2020,970,13,Libya
+10/11/2020,923,15,Libya
+09/11/2020,1078,9,Libya
+08/11/2020,595,5,Libya
+07/11/2020,1004,8,Libya
 06/11/2020,853,7,Libya
 05/11/2020,899,7,Libya
 04/11/2020,781,13,Libya
@@ -29381,6 +30179,13 @@ dateRep,cases,deaths,country
 27/03/2020,0,0,Libya
 26/03/2020,0,0,Libya
 25/03/2020,1,0,Libya
+13/11/2020,31,0,Liechtenstein
+12/11/2020,32,0,Liechtenstein
+11/11/2020,45,1,Liechtenstein
+10/11/2020,29,0,Liechtenstein
+09/11/2020,23,0,Liechtenstein
+08/11/2020,12,0,Liechtenstein
+07/11/2020,50,0,Liechtenstein
 06/11/2020,30,0,Liechtenstein
 05/11/2020,30,0,Liechtenstein
 04/11/2020,36,0,Liechtenstein
@@ -29622,6 +30427,13 @@ dateRep,cases,deaths,country
 13/03/2020,1,0,Liechtenstein
 12/03/2020,2,0,Liechtenstein
 05/03/2020,1,0,Liechtenstein
+13/11/2020,1550,9,Lithuania
+12/11/2020,1421,14,Lithuania
+11/11/2020,1086,11,Lithuania
+10/11/2020,1056,3,Lithuania
+09/11/2020,1980,4,Lithuania
+08/11/2020,1972,11,Lithuania
+07/11/2020,1656,6,Lithuania
 06/11/2020,999,4,Lithuania
 05/11/2020,639,7,Lithuania
 04/11/2020,897,5,Lithuania
@@ -29925,6 +30737,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Lithuania
 01/01/2020,0,0,Lithuania
 31/12/2019,0,0,Lithuania
+13/11/2020,795,8,Luxembourg
+12/11/2020,483,5,Luxembourg
+11/11/2020,176,5,Luxembourg
+10/11/2020,570,3,Luxembourg
+09/11/2020,0,0,Luxembourg
+08/11/2020,675,5,Luxembourg
+07/11/2020,659,3,Luxembourg
 06/11/2020,803,6,Luxembourg
 05/11/2020,710,4,Luxembourg
 04/11/2020,533,7,Luxembourg
@@ -30230,6 +31049,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Luxembourg
 01/01/2020,0,0,Luxembourg
 31/12/2019,0,0,Luxembourg
+13/11/2020,0,0,Madagascar
+12/11/2020,0,0,Madagascar
+11/11/2020,0,0,Madagascar
+10/11/2020,0,0,Madagascar
+09/11/2020,10,0,Madagascar
+08/11/2020,0,0,Madagascar
+07/11/2020,102,5,Madagascar
 06/11/2020,0,0,Madagascar
 05/11/2020,0,0,Madagascar
 04/11/2020,0,0,Madagascar
@@ -30461,6 +31287,13 @@ dateRep,cases,deaths,country
 23/03/2020,0,0,Madagascar
 22/03/2020,0,0,Madagascar
 21/03/2020,3,0,Madagascar
+13/11/2020,3,0,Malawi
+12/11/2020,2,0,Malawi
+11/11/2020,0,0,Malawi
+10/11/2020,2,1,Malawi
+09/11/2020,3,0,Malawi
+08/11/2020,6,0,Malawi
+07/11/2020,2,0,Malawi
 06/11/2020,6,0,Malawi
 05/11/2020,0,0,Malawi
 04/11/2020,1,0,Malawi
@@ -30679,6 +31512,13 @@ dateRep,cases,deaths,country
 05/04/2020,1,0,Malawi
 04/04/2020,0,0,Malawi
 03/04/2020,3,0,Malawi
+13/11/2020,919,1,Malaysia
+12/11/2020,822,2,Malaysia
+11/11/2020,869,6,Malaysia
+10/11/2020,972,8,Malaysia
+09/11/2020,852,4,Malaysia
+08/11/2020,1168,3,Malaysia
+07/11/2020,1755,2,Malaysia
 06/11/2020,1009,6,Malaysia
 05/11/2020,1032,8,Malaysia
 04/11/2020,1054,12,Malaysia
@@ -30990,6 +31830,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Malaysia
 01/01/2020,0,0,Malaysia
 31/12/2019,0,0,Malaysia
+13/11/2020,26,0,Maldives
+12/11/2020,29,1,Maldives
+11/11/2020,21,0,Maldives
+10/11/2020,23,0,Maldives
+09/11/2020,24,1,Maldives
+08/11/2020,30,0,Maldives
+07/11/2020,39,1,Maldives
 06/11/2020,71,0,Maldives
 05/11/2020,26,0,Maldives
 04/11/2020,59,0,Maldives
@@ -31232,6 +32079,12 @@ dateRep,cases,deaths,country
 11/03/2020,2,0,Maldives
 09/03/2020,2,0,Maldives
 08/03/2020,2,0,Maldives
+13/11/2020,47,1,Mali
+11/11/2020,0,0,Mali
+10/11/2020,30,0,Mali
+09/11/2020,0,0,Mali
+08/11/2020,19,0,Mali
+07/11/2020,24,0,Mali
 06/11/2020,24,0,Mali
 05/11/2020,36,1,Mali
 04/11/2020,0,0,Mali
@@ -31458,6 +32311,13 @@ dateRep,cases,deaths,country
 28/03/2020,0,0,Mali
 27/03/2020,2,0,Mali
 26/03/2020,2,0,Mali
+13/11/2020,109,3,Malta
+12/11/2020,141,13,Malta
+11/11/2020,153,0,Malta
+10/11/2020,204,0,Malta
+09/11/2020,0,0,Malta
+08/11/2020,146,0,Malta
+07/11/2020,129,2,Malta
 06/11/2020,174,5,Malta
 05/11/2020,84,1,Malta
 04/11/2020,106,0,Malta
@@ -31703,6 +32563,13 @@ dateRep,cases,deaths,country
 09/03/2020,2,0,Malta
 08/03/2020,0,0,Malta
 07/03/2020,1,0,Malta
+13/11/2020,0,0,Marshall Islands
+12/11/2020,0,0,Marshall Islands
+11/11/2020,0,0,Marshall Islands
+10/11/2020,0,0,Marshall Islands
+09/11/2020,0,0,Marshall Islands
+08/11/2020,0,0,Marshall Islands
+07/11/2020,0,0,Marshall Islands
 06/11/2020,0,0,Marshall Islands
 05/11/2020,0,0,Marshall Islands
 04/11/2020,0,0,Marshall Islands
@@ -31712,6 +32579,13 @@ dateRep,cases,deaths,country
 31/10/2020,0,0,Marshall Islands
 30/10/2020,0,0,Marshall Islands
 29/10/2020,1,0,Marshall Islands
+13/11/2020,37,0,Mauritania
+12/11/2020,28,0,Mauritania
+11/11/2020,0,0,Mauritania
+10/11/2020,14,0,Mauritania
+09/11/2020,6,0,Mauritania
+08/11/2020,10,0,Mauritania
+07/11/2020,27,0,Mauritania
 06/11/2020,19,1,Mauritania
 05/11/2020,19,1,Mauritania
 04/11/2020,0,0,Mauritania
@@ -31949,6 +32823,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Mauritania
 16/03/2020,0,0,Mauritania
 15/03/2020,1,0,Mauritania
+13/11/2020,16,0,Mauritius
+12/11/2020,0,0,Mauritius
+11/11/2020,0,0,Mauritius
+10/11/2020,0,0,Mauritius
+09/11/2020,0,0,Mauritius
+08/11/2020,0,0,Mauritius
+07/11/2020,0,0,Mauritius
 06/11/2020,0,0,Mauritius
 05/11/2020,1,0,Mauritius
 04/11/2020,0,0,Mauritius
@@ -32181,6 +33062,13 @@ dateRep,cases,deaths,country
 22/03/2020,2,1,Mauritius
 21/03/2020,9,0,Mauritius
 20/03/2020,3,0,Mauritius
+13/11/2020,5658,626,Mexico
+12/11/2020,7646,588,Mexico
+11/11/2020,5746,617,Mexico
+10/11/2020,4960,198,Mexico
+09/11/2020,5887,219,Mexico
+08/11/2020,6810,485,Mexico
+07/11/2020,5931,551,Mexico
 06/11/2020,5567,544,Mexico
 05/11/2020,5225,635,Mexico
 04/11/2020,5250,493,Mexico
@@ -32480,11 +33368,26 @@ dateRep,cases,deaths,country
 15/01/2020,0,0,Mexico
 14/01/2020,1,0,Mexico
 13/01/2020,0,0,Mexico
+12/01/2020,0,0,Mexico
+11/01/2020,0,0,Mexico
+10/01/2020,0,0,Mexico
+09/01/2020,0,0,Mexico
+08/01/2020,0,0,Mexico
+07/01/2020,0,0,Mexico
+06/01/2020,0,0,Mexico
+05/01/2020,0,0,Mexico
 04/01/2020,0,0,Mexico
 03/01/2020,0,0,Mexico
 02/01/2020,0,0,Mexico
 01/01/2020,0,0,Mexico
 31/12/2019,0,0,Mexico
+13/11/2020,1331,19,Moldova
+12/11/2020,1115,20,Moldova
+11/11/2020,915,18,Moldova
+10/11/2020,331,19,Moldova
+09/11/2020,671,2,Moldova
+08/11/2020,1174,9,Moldova
+07/11/2020,935,16,Moldova
 06/11/2020,1059,15,Moldova
 05/11/2020,1020,13,Moldova
 04/11/2020,710,20,Moldova
@@ -32727,6 +33630,13 @@ dateRep,cases,deaths,country
 12/03/2020,1,0,Moldova
 11/03/2020,2,0,Moldova
 08/03/2020,1,0,Moldova
+13/11/2020,8,0,Monaco
+12/11/2020,12,0,Monaco
+11/11/2020,22,0,Monaco
+10/11/2020,4,0,Monaco
+09/11/2020,3,0,Monaco
+08/11/2020,29,0,Monaco
+07/11/2020,24,0,Monaco
 06/11/2020,18,0,Monaco
 05/11/2020,15,0,Monaco
 04/11/2020,22,0,Monaco
@@ -33027,6 +33937,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Monaco
 01/01/2020,0,0,Monaco
 31/12/2019,0,0,Monaco
+13/11/2020,6,0,Mongolia
+12/11/2020,24,0,Mongolia
+11/11/2020,14,0,Mongolia
+10/11/2020,0,0,Mongolia
+09/11/2020,7,0,Mongolia
+08/11/2020,4,0,Mongolia
+07/11/2020,1,0,Mongolia
 06/11/2020,3,0,Mongolia
 05/11/2020,1,0,Mongolia
 04/11/2020,2,0,Mongolia
@@ -33263,6 +34180,13 @@ dateRep,cases,deaths,country
 18/03/2020,3,0,Mongolia
 15/03/2020,0,0,Mongolia
 10/03/2020,1,0,Mongolia
+13/11/2020,644,8,Montenegro
+12/11/2020,711,7,Montenegro
+11/11/2020,546,7,Montenegro
+10/11/2020,803,5,Montenegro
+09/11/2020,426,4,Montenegro
+08/11/2020,300,5,Montenegro
+07/11/2020,546,0,Montenegro
 06/11/2020,682,2,Montenegro
 05/11/2020,874,4,Montenegro
 04/11/2020,767,2,Montenegro
@@ -33497,6 +34421,13 @@ dateRep,cases,deaths,country
 20/03/2020,5,0,Montenegro
 19/03/2020,6,0,Montenegro
 18/03/2020,2,0,Montenegro
+13/11/2020,0,0,Montserrat
+12/11/2020,0,0,Montserrat
+11/11/2020,0,0,Montserrat
+10/11/2020,0,0,Montserrat
+09/11/2020,0,0,Montserrat
+08/11/2020,0,0,Montserrat
+07/11/2020,0,0,Montserrat
 06/11/2020,0,0,Montserrat
 05/11/2020,0,0,Montserrat
 04/11/2020,0,0,Montserrat
@@ -33727,6 +34658,13 @@ dateRep,cases,deaths,country
 23/03/2020,0,0,Montserrat
 22/03/2020,0,0,Montserrat
 21/03/2020,1,0,Montserrat
+13/11/2020,6195,64,Morocco
+12/11/2020,5461,81,Morocco
+11/11/2020,5214,69,Morocco
+10/11/2020,3170,84,Morocco
+09/11/2020,4596,75,Morocco
+08/11/2020,5836,70,Morocco
+07/11/2020,5398,68,Morocco
 06/11/2020,5641,77,Morocco
 05/11/2020,5745,82,Morocco
 04/11/2020,4495,74,Morocco
@@ -33969,6 +34907,13 @@ dateRep,cases,deaths,country
 12/03/2020,3,1,Morocco
 06/03/2020,1,0,Morocco
 03/03/2020,1,0,Morocco
+13/11/2020,183,0,Mozambique
+12/11/2020,88,5,Mozambique
+11/11/2020,0,0,Mozambique
+10/11/2020,55,0,Mozambique
+09/11/2020,191,0,Mozambique
+08/11/2020,92,0,Mozambique
+07/11/2020,94,2,Mozambique
 06/11/2020,108,2,Mozambique
 05/11/2020,81,0,Mozambique
 04/11/2020,72,1,Mozambique
@@ -34198,6 +35143,13 @@ dateRep,cases,deaths,country
 25/03/2020,0,0,Mozambique
 24/03/2020,0,0,Mozambique
 23/03/2020,1,0,Mozambique
+13/11/2020,1145,28,Myanmar
+12/11/2020,1212,19,Myanmar
+11/11/2020,1266,24,Myanmar
+10/11/2020,598,17,Myanmar
+09/11/2020,1029,24,Myanmar
+08/11/2020,1071,20,Myanmar
+07/11/2020,1342,24,Myanmar
 06/11/2020,995,22,Myanmar
 05/11/2020,1136,23,Myanmar
 04/11/2020,1197,25,Myanmar
@@ -34427,6 +35379,13 @@ dateRep,cases,deaths,country
 25/03/2020,1,0,Myanmar
 24/03/2020,2,0,Myanmar
 17/03/2020,0,0,Myanmar
+13/11/2020,53,1,Namibia
+12/11/2020,39,0,Namibia
+11/11/2020,13,0,Namibia
+10/11/2020,29,0,Namibia
+09/11/2020,41,0,Namibia
+08/11/2020,27,1,Namibia
+07/11/2020,53,0,Namibia
 06/11/2020,44,0,Namibia
 05/11/2020,16,0,Namibia
 04/11/2020,18,0,Namibia
@@ -34664,6 +35623,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Namibia
 16/03/2020,0,0,Namibia
 15/03/2020,2,0,Namibia
+13/11/2020,1913,15,Nepal
+12/11/2020,2569,26,Nepal
+11/11/2020,2736,22,Nepal
+10/11/2020,2571,18,Nepal
+09/11/2020,2817,21,Nepal
+08/11/2020,2753,17,Nepal
+07/11/2020,2909,18,Nepal
 06/11/2020,3051,18,Nepal
 05/11/2020,3309,30,Nepal
 04/11/2020,3114,20,Nepal
@@ -34963,6 +35929,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Nepal
 01/01/2020,0,0,Nepal
 31/12/2019,0,0,Nepal
+13/11/2020,5627,89,Netherlands
+12/11/2020,5400,74,Netherlands
+11/11/2020,4664,98,Netherlands
+10/11/2020,4674,39,Netherlands
+09/11/2020,5659,44,Netherlands
+08/11/2020,6659,73,Netherlands
+07/11/2020,7232,118,Netherlands
 06/11/2020,6957,87,Netherlands
 05/11/2020,7622,106,Netherlands
 04/11/2020,7729,113,Netherlands
@@ -35275,6 +36248,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Netherlands
 01/01/2020,0,0,Netherlands
 31/12/2019,0,0,Netherlands
+13/11/2020,0,0,New Caledonia
+12/11/2020,1,0,New Caledonia
+11/11/2020,0,0,New Caledonia
+10/11/2020,0,0,New Caledonia
+09/11/2020,0,0,New Caledonia
+08/11/2020,0,0,New Caledonia
+07/11/2020,0,0,New Caledonia
 06/11/2020,1,0,New Caledonia
 05/11/2020,0,0,New Caledonia
 04/11/2020,0,0,New Caledonia
@@ -35506,6 +36486,13 @@ dateRep,cases,deaths,country
 23/03/2020,1,0,New Caledonia
 22/03/2020,2,0,New Caledonia
 21/03/2020,2,0,New Caledonia
+13/11/2020,4,0,New Zealand
+12/11/2020,3,0,New Zealand
+11/11/2020,1,0,New Zealand
+10/11/2020,1,0,New Zealand
+09/11/2020,4,0,New Zealand
+08/11/2020,6,0,New Zealand
+07/11/2020,2,0,New Zealand
 06/11/2020,1,0,New Zealand
 05/11/2020,2,0,New Zealand
 04/11/2020,3,0,New Zealand
@@ -35809,6 +36796,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,New Zealand
 01/01/2020,0,0,New Zealand
 31/12/2019,0,0,New Zealand
+13/11/2020,0,0,Nicaragua
+12/11/2020,70,1,Nicaragua
+11/11/2020,0,0,Nicaragua
+10/11/2020,0,0,Nicaragua
+09/11/2020,0,0,Nicaragua
+08/11/2020,0,0,Nicaragua
+07/11/2020,0,0,Nicaragua
 06/11/2020,77,1,Nicaragua
 05/11/2020,0,0,Nicaragua
 04/11/2020,0,0,Nicaragua
@@ -36042,6 +37036,13 @@ dateRep,cases,deaths,country
 21/03/2020,1,0,Nicaragua
 20/03/2020,0,0,Nicaragua
 19/03/2020,1,0,Nicaragua
+13/11/2020,19,0,Niger
+12/11/2020,7,0,Niger
+11/11/2020,13,0,Niger
+10/11/2020,0,0,Niger
+09/11/2020,1,0,Niger
+08/11/2020,12,0,Niger
+07/11/2020,4,0,Niger
 06/11/2020,1,0,Niger
 05/11/2020,3,0,Niger
 04/11/2020,0,0,Niger
@@ -36273,8 +37274,15 @@ dateRep,cases,deaths,country
 23/03/2020,0,0,Niger
 22/03/2020,0,0,Niger
 21/03/2020,1,0,Niger
+13/11/2020,212,0,Nigeria
+12/11/2020,180,2,Nigeria
+11/11/2020,152,2,Nigeria
+10/11/2020,94,4,Nigeria
+09/11/2020,300,0,Nigeria
+08/11/2020,59,0,Nigeria
+07/11/2020,223,0,Nigeria
 06/11/2020,180,0,Nigeria
-05/11/2020,155,4,Nigeria
+05/11/2020,155,3,Nigeria
 04/11/2020,137,4,Nigeria
 03/11/2020,72,1,Nigeria
 02/11/2020,111,2,Nigeria
@@ -36574,6 +37582,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Nigeria
 01/01/2020,0,0,Nigeria
 31/12/2019,0,0,Nigeria
+13/11/2020,1295,26,North Macedonia
+12/11/2020,1318,26,North Macedonia
+11/11/2020,947,30,North Macedonia
+10/11/2020,515,20,North Macedonia
+09/11/2020,978,26,North Macedonia
+08/11/2020,1283,14,North Macedonia
+07/11/2020,1127,12,North Macedonia
 06/11/2020,1275,13,North Macedonia
 05/11/2020,1189,22,North Macedonia
 04/11/2020,911,24,North Macedonia
@@ -36877,6 +37892,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,North Macedonia
 01/01/2020,0,0,North Macedonia
 31/12/2019,0,0,North Macedonia
+13/11/2020,0,0,Northern Mariana Islands
+12/11/2020,0,0,Northern Mariana Islands
+11/11/2020,0,0,Northern Mariana Islands
+10/11/2020,0,0,Northern Mariana Islands
+09/11/2020,2,0,Northern Mariana Islands
+08/11/2020,0,0,Northern Mariana Islands
+07/11/2020,0,0,Northern Mariana Islands
 06/11/2020,2,0,Northern Mariana Islands
 05/11/2020,0,0,Northern Mariana Islands
 04/11/2020,0,0,Northern Mariana Islands
@@ -37098,6 +38120,13 @@ dateRep,cases,deaths,country
 02/04/2020,0,1,Northern Mariana Islands
 01/04/2020,4,0,Northern Mariana Islands
 31/03/2020,2,0,Northern Mariana Islands
+13/11/2020,618,6,Norway
+12/11/2020,564,0,Norway
+11/11/2020,594,0,Norway
+10/11/2020,1502,0,Norway
+09/11/2020,0,0,Norway
+08/11/2020,0,0,Norway
+07/11/2020,650,1,Norway
 06/11/2020,621,2,Norway
 05/11/2020,620,0,Norway
 04/11/2020,700,0,Norway
@@ -37410,6 +38439,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Norway
 01/01/2020,0,0,Norway
 31/12/2019,0,0,Norway
+13/11/2020,256,5,Oman
+12/11/2020,302,5,Oman
+11/11/2020,381,6,Oman
+10/11/2020,363,9,Oman
+09/11/2020,973,15,Oman
+08/11/2020,0,0,Oman
+07/11/2020,0,0,Oman
 06/11/2020,320,11,Oman
 05/11/2020,319,11,Oman
 04/11/2020,376,8,Oman
@@ -37716,6 +38752,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Oman
 01/01/2020,0,0,Oman
 31/12/2019,0,0,Oman
+13/11/2020,2304,37,Pakistan
+12/11/2020,1808,34,Pakistan
+11/11/2020,1708,21,Pakistan
+10/11/2020,1637,23,Pakistan
+09/11/2020,1650,9,Pakistan
+08/11/2020,1436,25,Pakistan
+07/11/2020,1502,20,Pakistan
 06/11/2020,1376,30,Pakistan
 05/11/2020,1302,26,Pakistan
 04/11/2020,1313,18,Pakistan
@@ -38023,6 +39066,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Pakistan
 01/01/2020,0,0,Pakistan
 31/12/2019,0,0,Pakistan
+13/11/2020,823,5,Palestine
+12/11/2020,643,5,Palestine
+11/11/2020,660,14,Palestine
+10/11/2020,680,6,Palestine
+09/11/2020,549,3,Palestine
+08/11/2020,431,1,Palestine
+07/11/2020,681,3,Palestine
 06/11/2020,582,4,Palestine
 05/11/2020,734,3,Palestine
 04/11/2020,633,8,Palestine
@@ -38266,6 +39316,13 @@ dateRep,cases,deaths,country
 08/03/2020,3,0,Palestine
 07/03/2020,9,0,Palestine
 06/03/2020,7,0,Palestine
+13/11/2020,887,7,Panama
+12/11/2020,1163,6,Panama
+11/11/2020,971,9,Panama
+10/11/2020,804,10,Panama
+09/11/2020,1021,17,Panama
+08/11/2020,746,11,Panama
+07/11/2020,1193,14,Panama
 06/11/2020,543,12,Panama
 05/11/2020,432,13,Panama
 04/11/2020,677,11,Panama
@@ -38508,6 +39565,13 @@ dateRep,cases,deaths,country
 12/03/2020,7,0,Panama
 11/03/2020,6,1,Panama
 10/03/2020,1,0,Panama
+13/11/2020,0,0,Papua New Guinea
+12/11/2020,0,0,Papua New Guinea
+11/11/2020,0,0,Papua New Guinea
+10/11/2020,2,0,Papua New Guinea
+09/11/2020,0,0,Papua New Guinea
+08/11/2020,0,0,Papua New Guinea
+07/11/2020,0,0,Papua New Guinea
 06/11/2020,0,0,Papua New Guinea
 05/11/2020,0,0,Papua New Guinea
 04/11/2020,7,0,Papua New Guinea
@@ -38739,6 +39803,13 @@ dateRep,cases,deaths,country
 23/03/2020,0,0,Papua New Guinea
 22/03/2020,0,0,Papua New Guinea
 21/03/2020,1,0,Papua New Guinea
+13/11/2020,547,11,Paraguay
+12/11/2020,609,16,Paraguay
+11/11/2020,549,14,Paraguay
+10/11/2020,359,12,Paraguay
+09/11/2020,648,11,Paraguay
+08/11/2020,460,7,Paraguay
+07/11/2020,703,10,Paraguay
 06/11/2020,520,8,Paraguay
 05/11/2020,630,13,Paraguay
 04/11/2020,472,12,Paraguay
@@ -38979,6 +40050,13 @@ dateRep,cases,deaths,country
 13/03/2020,1,0,Paraguay
 11/03/2020,4,0,Paraguay
 08/03/2020,1,0,Paraguay
+13/11/2020,2231,36,Peru
+12/11/2020,2575,39,Peru
+11/11/2020,1904,49,Peru
+10/11/2020,1194,64,Peru
+09/11/2020,2323,39,Peru
+08/11/2020,2507,57,Peru
+07/11/2020,2781,53,Peru
 06/11/2020,2935,59,Peru
 05/11/2020,2885,48,Peru
 04/11/2020,2357,38,Peru
@@ -39223,6 +40301,13 @@ dateRep,cases,deaths,country
 10/03/2020,2,0,Peru
 09/03/2020,6,0,Peru
 07/03/2020,1,0,Peru
+13/11/2020,1404,11,Philippines
+12/11/2020,1667,49,Philippines
+11/11/2020,1300,14,Philippines
+10/11/2020,2054,108,Philippines
+09/11/2020,2434,54,Philippines
+08/11/2020,2152,24,Philippines
+07/11/2020,2084,52,Philippines
 06/11/2020,1588,42,Philippines
 05/11/2020,976,49,Philippines
 04/11/2020,1761,49,Philippines
@@ -39531,6 +40616,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Philippines
 01/01/2020,0,0,Philippines
 31/12/2019,0,0,Philippines
+13/11/2020,22683,275,Poland
+12/11/2020,25221,430,Poland
+11/11/2020,25454,330,Poland
+10/11/2020,21713,173,Poland
+09/11/2020,24785,236,Poland
+08/11/2020,27875,349,Poland
+07/11/2020,27086,445,Poland
 06/11/2020,27143,367,Poland
 05/11/2020,24692,373,Poland
 04/11/2020,19364,227,Poland
@@ -39777,6 +40869,13 @@ dateRep,cases,deaths,country
 08/03/2020,1,0,Poland
 07/03/2020,4,0,Poland
 04/03/2020,1,0,Poland
+13/11/2020,5839,78,Portugal
+12/11/2020,4935,82,Portugal
+11/11/2020,3817,62,Portugal
+10/11/2020,4096,63,Portugal
+09/11/2020,5784,48,Portugal
+08/11/2020,6640,56,Portugal
+07/11/2020,5550,52,Portugal
 06/11/2020,4410,46,Portugal
 05/11/2020,7497,59,Portugal
 04/11/2020,2596,45,Portugal
@@ -40026,6 +41125,13 @@ dateRep,cases,deaths,country
 05/03/2020,1,0,Portugal
 04/03/2020,2,0,Portugal
 03/03/2020,2,0,Portugal
+13/11/2020,1955,8,Puerto Rico
+12/11/2020,154,12,Puerto Rico
+11/11/2020,316,7,Puerto Rico
+10/11/2020,688,10,Puerto Rico
+09/11/2020,610,10,Puerto Rico
+08/11/2020,936,0,Puerto Rico
+07/11/2020,1103,7,Puerto Rico
 06/11/2020,396,5,Puerto Rico
 05/11/2020,77,8,Puerto Rico
 04/11/2020,771,3,Puerto Rico
@@ -40250,6 +41356,13 @@ dateRep,cases,deaths,country
 30/03/2020,27,2,Puerto Rico
 29/03/2020,36,1,Puerto Rico
 28/03/2020,64,2,Puerto Rico
+13/11/2020,245,1,Qatar
+12/11/2020,224,0,Qatar
+11/11/2020,230,1,Qatar
+10/11/2020,230,0,Qatar
+09/11/2020,190,0,Qatar
+08/11/2020,202,0,Qatar
+07/11/2020,192,0,Qatar
 06/11/2020,249,0,Qatar
 05/11/2020,227,0,Qatar
 04/11/2020,226,0,Qatar
@@ -40558,6 +41671,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Qatar
 01/01/2020,0,0,Qatar
 31/12/2019,0,0,Qatar
+13/11/2020,10142,121,Romania
+12/11/2020,9799,203,Romania
+11/11/2020,7304,177,Romania
+10/11/2020,3240,130,Romania
+09/11/2020,6752,86,Romania
+08/11/2020,9937,130,Romania
+07/11/2020,10260,123,Romania
 06/11/2020,9714,121,Romania
 05/11/2020,8651,146,Romania
 04/11/2020,7733,120,Romania
@@ -40868,6 +41988,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Romania
 01/01/2020,0,0,Romania
 31/12/2019,0,0,Romania
+13/11/2020,21608,439,Russia
+12/11/2020,19851,432,Russia
+11/11/2020,20977,368,Russia
+10/11/2020,21798,256,Russia
+09/11/2020,20498,286,Russia
+08/11/2020,20396,364,Russia
+07/11/2020,20582,378,Russia
 06/11/2020,19404,292,Russia
 05/11/2020,19768,389,Russia
 04/11/2020,18648,355,Russia
@@ -41180,6 +42307,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Russia
 01/01/2020,0,0,Russia
 31/12/2019,0,0,Russia
+13/11/2020,7,0,Rwanda
+12/11/2020,50,1,Rwanda
+11/11/2020,20,2,Rwanda
+10/11/2020,20,2,Rwanda
+09/11/2020,9,0,Rwanda
+08/11/2020,5,0,Rwanda
+07/11/2020,16,0,Rwanda
 06/11/2020,18,1,Rwanda
 05/11/2020,12,0,Rwanda
 04/11/2020,7,0,Rwanda
@@ -41417,6 +42551,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Rwanda
 16/03/2020,4,0,Rwanda
 15/03/2020,1,0,Rwanda
+13/11/2020,0,0,Saint Kitts and Nevis
+12/11/2020,0,0,Saint Kitts and Nevis
+11/11/2020,0,0,Saint Kitts and Nevis
+10/11/2020,0,0,Saint Kitts and Nevis
+09/11/2020,0,0,Saint Kitts and Nevis
+08/11/2020,0,0,Saint Kitts and Nevis
+07/11/2020,0,0,Saint Kitts and Nevis
 06/11/2020,0,0,Saint Kitts and Nevis
 05/11/2020,0,0,Saint Kitts and Nevis
 04/11/2020,0,0,Saint Kitts and Nevis
@@ -41643,6 +42784,13 @@ dateRep,cases,deaths,country
 28/03/2020,0,0,Saint Kitts and Nevis
 27/03/2020,0,0,Saint Kitts and Nevis
 26/03/2020,2,0,Saint Kitts and Nevis
+13/11/2020,8,0,Saint Lucia
+12/11/2020,0,0,Saint Lucia
+11/11/2020,7,2,Saint Lucia
+10/11/2020,10,0,Saint Lucia
+09/11/2020,8,0,Saint Lucia
+08/11/2020,13,0,Saint Lucia
+07/11/2020,4,0,Saint Lucia
 06/11/2020,1,0,Saint Lucia
 05/11/2020,8,0,Saint Lucia
 04/11/2020,13,0,Saint Lucia
@@ -41880,6 +43028,13 @@ dateRep,cases,deaths,country
 17/03/2020,0,0,Saint Lucia
 16/03/2020,0,0,Saint Lucia
 15/03/2020,2,0,Saint Lucia
+13/11/2020,0,0,Saint Vincent and the Grenadines
+12/11/2020,1,0,Saint Vincent and the Grenadines
+11/11/2020,0,0,Saint Vincent and the Grenadines
+10/11/2020,0,0,Saint Vincent and the Grenadines
+09/11/2020,0,0,Saint Vincent and the Grenadines
+08/11/2020,0,0,Saint Vincent and the Grenadines
+07/11/2020,0,0,Saint Vincent and the Grenadines
 06/11/2020,1,0,Saint Vincent and the Grenadines
 05/11/2020,0,0,Saint Vincent and the Grenadines
 04/11/2020,0,0,Saint Vincent and the Grenadines
@@ -42108,6 +43263,13 @@ dateRep,cases,deaths,country
 26/03/2020,0,0,Saint Vincent and the Grenadines
 25/03/2020,0,0,Saint Vincent and the Grenadines
 13/03/2020,1,0,Saint Vincent and the Grenadines
+13/11/2020,0,0,San Marino
+12/11/2020,76,0,San Marino
+11/11/2020,0,0,San Marino
+10/11/2020,71,0,San Marino
+09/11/2020,0,0,San Marino
+08/11/2020,0,0,San Marino
+07/11/2020,0,0,San Marino
 06/11/2020,49,0,San Marino
 05/11/2020,0,0,San Marino
 04/11/2020,66,0,San Marino
@@ -42419,6 +43581,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,San Marino
 01/01/2020,0,0,San Marino
 31/12/2019,0,0,San Marino
+13/11/2020,1,30,Sao Tome and Principe
+12/11/2020,0,0,Sao Tome and Principe
+11/11/2020,0,0,Sao Tome and Principe
+10/11/2020,0,0,Sao Tome and Principe
+09/11/2020,0,0,Sao Tome and Principe
+08/11/2020,2,0,Sao Tome and Principe
+07/11/2020,2,0,Sao Tome and Principe
 06/11/2020,0,0,Sao Tome and Principe
 05/11/2020,4,0,Sao Tome and Principe
 04/11/2020,5,0,Sao Tome and Principe
@@ -42631,6 +43800,13 @@ dateRep,cases,deaths,country
 11/04/2020,0,0,Sao Tome and Principe
 10/04/2020,0,0,Sao Tome and Principe
 09/04/2020,4,0,Sao Tome and Principe
+13/11/2020,311,15,Saudi Arabia
+12/11/2020,394,14,Saudi Arabia
+11/11/2020,471,17,Saudi Arabia
+10/11/2020,392,19,Saudi Arabia
+09/11/2020,363,15,Saudi Arabia
+08/11/2020,407,19,Saudi Arabia
+07/11/2020,436,17,Saudi Arabia
 06/11/2020,450,18,Saudi Arabia
 05/11/2020,426,15,Saudi Arabia
 04/11/2020,473,19,Saudi Arabia
@@ -42877,6 +44053,13 @@ dateRep,cases,deaths,country
 08/03/2020,2,0,Saudi Arabia
 06/03/2020,4,0,Saudi Arabia
 03/03/2020,1,0,Saudi Arabia
+13/11/2020,9,0,Senegal
+12/11/2020,15,0,Senegal
+11/11/2020,9,0,Senegal
+10/11/2020,3,0,Senegal
+09/11/2020,15,0,Senegal
+08/11/2020,17,0,Senegal
+07/11/2020,36,0,Senegal
 06/11/2020,0,0,Senegal
 05/11/2020,3,1,Senegal
 04/11/2020,0,0,Senegal
@@ -43119,6 +44302,13 @@ dateRep,cases,deaths,country
 06/03/2020,1,0,Senegal
 05/03/2020,2,0,Senegal
 03/03/2020,1,0,Senegal
+13/11/2020,3341,19,Serbia
+12/11/2020,3536,21,Serbia
+11/11/2020,2823,14,Serbia
+10/11/2020,1318,11,Serbia
+09/11/2020,2112,10,Serbia
+08/11/2020,2677,9,Serbia
+07/11/2020,2282,10,Serbia
 06/11/2020,2181,11,Serbia
 05/11/2020,2412,6,Serbia
 04/11/2020,1878,11,Serbia
@@ -43361,6 +44551,13 @@ dateRep,cases,deaths,country
 12/03/2020,13,0,Serbia
 11/03/2020,4,0,Serbia
 07/03/2020,1,0,Serbia
+13/11/2020,0,0,Seychelles
+12/11/2020,0,0,Seychelles
+11/11/2020,0,0,Seychelles
+10/11/2020,0,0,Seychelles
+09/11/2020,0,0,Seychelles
+08/11/2020,0,0,Seychelles
+07/11/2020,0,0,Seychelles
 06/11/2020,1,0,Seychelles
 05/11/2020,0,0,Seychelles
 04/11/2020,2,0,Seychelles
@@ -43598,6 +44795,13 @@ dateRep,cases,deaths,country
 17/03/2020,1,0,Seychelles
 16/03/2020,1,0,Seychelles
 15/03/2020,2,0,Seychelles
+13/11/2020,1,0,Sierra Leone
+12/11/2020,0,0,Sierra Leone
+11/11/2020,1,0,Sierra Leone
+10/11/2020,4,0,Sierra Leone
+09/11/2020,0,0,Sierra Leone
+08/11/2020,8,0,Sierra Leone
+07/11/2020,2,0,Sierra Leone
 06/11/2020,2,0,Sierra Leone
 05/11/2020,1,0,Sierra Leone
 04/11/2020,2,0,Sierra Leone
@@ -43818,6 +45022,13 @@ dateRep,cases,deaths,country
 03/04/2020,1,0,Sierra Leone
 02/04/2020,0,0,Sierra Leone
 01/04/2020,1,0,Sierra Leone
+13/11/2020,11,0,Singapore
+12/11/2020,18,0,Singapore
+11/11/2020,9,0,Singapore
+10/11/2020,8,0,Singapore
+09/11/2020,2,0,Singapore
+08/11/2020,7,0,Singapore
+07/11/2020,4,0,Singapore
 06/11/2020,7,0,Singapore
 05/11/2020,7,0,Singapore
 04/11/2020,9,0,Singapore
@@ -44130,6 +45341,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Singapore
 01/01/2020,0,0,Singapore
 31/12/2019,0,0,Singapore
+13/11/2020,4,0,Sint Maarten
+12/11/2020,2,0,Sint Maarten
+11/11/2020,12,0,Sint Maarten
+10/11/2020,0,0,Sint Maarten
+09/11/2020,10,0,Sint Maarten
+08/11/2020,0,0,Sint Maarten
+07/11/2020,9,0,Sint Maarten
 06/11/2020,7,1,Sint Maarten
 05/11/2020,11,0,Sint Maarten
 04/11/2020,15,0,Sint Maarten
@@ -44356,6 +45574,13 @@ dateRep,cases,deaths,country
 27/03/2020,0,0,Sint Maarten
 26/03/2020,1,0,Sint Maarten
 03/03/2020,1,0,Sint Maarten
+13/11/2020,2591,50,Slovakia
+12/11/2020,2058,24,Slovakia
+11/11/2020,1051,24,Slovakia
+10/11/2020,577,15,Slovakia
+09/11/2020,1828,0,Slovakia
+08/11/2020,2579,34,Slovakia
+07/11/2020,2354,31,Slovakia
 06/11/2020,1962,25,Slovakia
 05/11/2020,3216,26,Slovakia
 04/11/2020,1727,16,Slovakia
@@ -44600,6 +45825,13 @@ dateRep,cases,deaths,country
 09/03/2020,2,0,Slovakia
 08/03/2020,2,0,Slovakia
 07/03/2020,1,0,Slovakia
+13/11/2020,1931,13,Slovenia
+12/11/2020,2222,14,Slovenia
+11/11/2020,1092,12,Slovenia
+10/11/2020,464,16,Slovenia
+09/11/2020,890,4,Slovenia
+08/11/2020,1613,25,Slovenia
+07/11/2020,1564,12,Slovenia
 06/11/2020,1686,20,Slovenia
 05/11/2020,2025,39,Slovenia
 04/11/2020,1177,31,Slovenia
@@ -44846,6 +46078,13 @@ dateRep,cases,deaths,country
 07/03/2020,3,0,Slovenia
 06/03/2020,5,0,Slovenia
 05/03/2020,1,0,Slovenia
+13/11/2020,0,0,Solomon Islands
+12/11/2020,0,0,Solomon Islands
+11/11/2020,3,0,Solomon Islands
+10/11/2020,0,0,Solomon Islands
+09/11/2020,0,0,Solomon Islands
+08/11/2020,0,0,Solomon Islands
+07/11/2020,0,0,Solomon Islands
 06/11/2020,0,0,Solomon Islands
 05/11/2020,0,0,Solomon Islands
 04/11/2020,5,0,Solomon Islands
@@ -44868,6 +46107,13 @@ dateRep,cases,deaths,country
 18/10/2020,0,0,Solomon Islands
 17/10/2020,1,0,Solomon Islands
 16/10/2020,2,0,Solomon Islands
+13/11/2020,0,0,Somalia
+12/11/2020,0,0,Somalia
+11/11/2020,0,0,Somalia
+10/11/2020,72,0,Somalia
+09/11/2020,0,0,Somalia
+08/11/2020,0,0,Somalia
+07/11/2020,0,0,Somalia
 06/11/2020,0,0,Somalia
 05/11/2020,0,0,Somalia
 04/11/2020,288,3,Somalia
@@ -45103,6 +46349,13 @@ dateRep,cases,deaths,country
 19/03/2020,0,0,Somalia
 18/03/2020,0,0,Somalia
 17/03/2020,1,0,Somalia
+13/11/2020,2338,65,South Africa
+12/11/2020,2140,60,South Africa
+11/11/2020,1729,106,South Africa
+10/11/2020,1247,36,South Africa
+09/11/2020,1372,20,South Africa
+08/11/2020,1731,40,South Africa
+07/11/2020,1761,72,South Africa
 06/11/2020,1866,92,South Africa
 05/11/2020,1712,46,South Africa
 04/11/2020,1241,74,South Africa
@@ -45347,6 +46600,13 @@ dateRep,cases,deaths,country
 09/03/2020,1,0,South Africa
 08/03/2020,1,0,South Africa
 06/03/2020,1,0,South Africa
+13/11/2020,191,1,South Korea
+12/11/2020,143,0,South Korea
+11/11/2020,146,2,South Korea
+10/11/2020,100,5,South Korea
+09/11/2020,126,2,South Korea
+08/11/2020,143,1,South Korea
+07/11/2020,89,1,South Korea
 06/11/2020,145,1,South Korea
 05/11/2020,125,1,South Korea
 04/11/2020,118,2,South Korea
@@ -45659,6 +46919,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,South Korea
 01/01/2020,0,0,South Korea
 31/12/2019,0,0,South Korea
+13/11/2020,0,0,South Sudan
+12/11/2020,0,0,South Sudan
+11/11/2020,0,0,South Sudan
+10/11/2020,5,0,South Sudan
+09/11/2020,0,0,South Sudan
+08/11/2020,0,0,South Sudan
+07/11/2020,10,0,South Sudan
 06/11/2020,2,0,South Sudan
 05/11/2020,3,0,South Sudan
 04/11/2020,14,0,South Sudan
@@ -45874,6 +47141,13 @@ dateRep,cases,deaths,country
 08/04/2020,0,0,South Sudan
 07/04/2020,0,0,South Sudan
 06/04/2020,1,0,South Sudan
+12/11/2020,19511,356,Spain
+11/11/2020,19096,349,Spain
+10/11/2020,17395,411,Spain
+09/11/2020,52386,512,Spain
+08/11/2020,0,0,Spain
+07/11/2020,0,0,Spain
+06/11/2020,22516,347,Spain
 05/11/2020,21908,368,Spain
 04/11/2020,25042,1623,Spain
 03/11/2020,18669,238,Spain
@@ -46185,6 +47459,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Spain
 01/01/2020,0,0,Spain
 31/12/2019,0,0,Spain
+13/11/2020,373,2,Sri Lanka
+12/11/2020,635,5,Sri Lanka
+11/11/2020,430,5,Sri Lanka
+10/11/2020,356,1,Sri Lanka
+09/11/2020,510,1,Sri Lanka
+08/11/2020,449,4,Sri Lanka
+07/11/2020,400,1,Sri Lanka
 06/11/2020,383,5,Sri Lanka
 05/11/2020,443,1,Sri Lanka
 04/11/2020,409,2,Sri Lanka
@@ -46488,6 +47769,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Sri Lanka
 01/01/2020,0,0,Sri Lanka
 31/12/2019,0,0,Sri Lanka
+13/11/2020,55,0,Sudan
+12/11/2020,191,0,Sudan
+11/11/2020,0,0,Sudan
+10/11/2020,65,1,Sudan
+09/11/2020,147,278,Sudan
+08/11/2020,0,0,Sudan
+07/11/2020,0,0,Sudan
 06/11/2020,0,0,Sudan
 05/11/2020,77,0,Sudan
 04/11/2020,47,0,Sudan
@@ -46726,6 +48014,13 @@ dateRep,cases,deaths,country
 16/03/2020,0,0,Sudan
 15/03/2020,0,1,Sudan
 14/03/2020,1,0,Sudan
+13/11/2020,7,1,Suriname
+12/11/2020,9,0,Suriname
+11/11/2020,4,0,Suriname
+10/11/2020,2,0,Suriname
+09/11/2020,5,0,Suriname
+08/11/2020,7,1,Suriname
+07/11/2020,2,0,Suriname
 06/11/2020,5,0,Suriname
 05/11/2020,2,1,Suriname
 04/11/2020,6,0,Suriname
@@ -46958,27 +48253,34 @@ dateRep,cases,deaths,country
 22/03/2020,4,0,Suriname
 21/03/2020,0,0,Suriname
 15/03/2020,1,0,Suriname
-06/11/2020,0,0,Sweden
-05/11/2020,3213,1,Sweden
-04/11/2020,3627,2,Sweden
-03/11/2020,1573,7,Sweden
-02/11/2020,1303,3,Sweden
-01/11/2020,2989,5,Sweden
-31/10/2020,4062,6,Sweden
-30/10/2020,3263,3,Sweden
-29/10/2020,3394,4,Sweden
-28/10/2020,2415,8,Sweden
-27/10/2020,1070,10,Sweden
-26/10/2020,516,7,Sweden
-25/10/2020,1477,7,Sweden
-24/10/2020,1869,6,Sweden
-23/10/2020,1667,9,Sweden
-22/10/2020,1571,3,Sweden
-21/10/2020,1291,4,Sweden
+13/11/2020,0,0,Sweden
+12/11/2020,4296,3,Sweden
+11/11/2020,4562,8,Sweden
+10/11/2020,3740,7,Sweden
+09/11/2020,2114,5,Sweden
+08/11/2020,4460,11,Sweden
+07/11/2020,4456,13,Sweden
+06/11/2020,4744,12,Sweden
+05/11/2020,4486,12,Sweden
+04/11/2020,3610,10,Sweden
+03/11/2020,1570,15,Sweden
+02/11/2020,1298,20,Sweden
+01/11/2020,2987,9,Sweden
+31/10/2020,4056,7,Sweden
+30/10/2020,3263,8,Sweden
+29/10/2020,3390,7,Sweden
+28/10/2020,2415,10,Sweden
+27/10/2020,1068,12,Sweden
+26/10/2020,514,7,Sweden
+25/10/2020,1477,8,Sweden
+24/10/2020,1868,7,Sweden
+23/10/2020,1666,9,Sweden
+22/10/2020,1570,3,Sweden
+21/10/2020,1290,4,Sweden
 20/10/2020,770,4,Sweden
 19/10/2020,321,1,Sweden
 18/10/2020,697,4,Sweden
-17/10/2020,1180,2,Sweden
+17/10/2020,1179,2,Sweden
 16/10/2020,902,3,Sweden
 15/10/2020,968,2,Sweden
 14/10/2020,916,1,Sweden
@@ -46990,7 +48292,7 @@ dateRep,cases,deaths,country
 08/10/2020,831,3,Sweden
 07/10/2020,786,4,Sweden
 06/10/2020,374,2,Sweden
-05/10/2020,155,3,Sweden
+05/10/2020,156,3,Sweden
 04/10/2020,461,3,Sweden
 03/10/2020,712,3,Sweden
 02/10/2020,633,1,Sweden
@@ -47147,7 +48449,7 @@ dateRep,cases,deaths,country
 04/05/2020,261,75,Sweden
 03/05/2020,299,73,Sweden
 02/05/2020,532,78,Sweden
-01/05/2020,635,78,Sweden
+01/05/2020,636,78,Sweden
 30/04/2020,799,83,Sweden
 29/04/2020,742,83,Sweden
 28/04/2020,563,74,Sweden
@@ -47197,7 +48499,7 @@ dateRep,cases,deaths,country
 15/03/2020,71,1,Sweden
 14/03/2020,152,1,Sweden
 13/03/2020,151,0,Sweden
-12/03/2020,196,14,Sweden
+12/03/2020,196,12,Sweden
 11/03/2020,98,0,Sweden
 10/03/2020,101,0,Sweden
 09/03/2020,46,0,Sweden
@@ -47270,6 +48572,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Sweden
 01/01/2020,0,0,Sweden
 31/12/2019,0,0,Sweden
+13/11/2020,6893,98,Switzerland
+12/11/2020,8238,86,Switzerland
+11/11/2020,5935,106,Switzerland
+10/11/2020,17245,169,Switzerland
+09/11/2020,0,0,Switzerland
+08/11/2020,0,0,Switzerland
+07/11/2020,9359,70,Switzerland
 06/11/2020,10098,62,Switzerland
 05/11/2020,10043,72,Switzerland
 04/11/2020,6090,72,Switzerland
@@ -47582,6 +48891,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Switzerland
 01/01/2020,0,0,Switzerland
 31/12/2019,0,0,Switzerland
+13/11/2020,65,4,Syria
+12/11/2020,69,4,Syria
+11/11/2020,68,4,Syria
+10/11/2020,69,4,Syria
+09/11/2020,68,4,Syria
+08/11/2020,45,4,Syria
+07/11/2020,62,4,Syria
 06/11/2020,76,4,Syria
 05/11/2020,76,3,Syria
 04/11/2020,45,3,Syria
@@ -47811,6 +49127,13 @@ dateRep,cases,deaths,country
 25/03/2020,0,0,Syria
 24/03/2020,0,0,Syria
 23/03/2020,1,0,Syria
+13/11/2020,8,0,Taiwan
+12/11/2020,5,0,Taiwan
+11/11/2020,4,0,Taiwan
+10/11/2020,2,0,Taiwan
+09/11/2020,1,0,Taiwan
+08/11/2020,4,0,Taiwan
+07/11/2020,0,0,Taiwan
 06/11/2020,4,0,Taiwan
 05/11/2020,1,0,Taiwan
 04/11/2020,1,0,Taiwan
@@ -48123,6 +49446,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Taiwan
 01/01/2020,0,0,Taiwan
 31/12/2019,0,0,Taiwan
+13/11/2020,40,0,Tajikistan
+12/11/2020,39,0,Tajikistan
+11/11/2020,41,1,Tajikistan
+10/11/2020,40,0,Tajikistan
+09/11/2020,80,0,Tajikistan
+08/11/2020,0,0,Tajikistan
+07/11/2020,37,0,Tajikistan
 06/11/2020,39,0,Tajikistan
 05/11/2020,41,0,Tajikistan
 04/11/2020,43,1,Tajikistan
@@ -48313,6 +49643,13 @@ dateRep,cases,deaths,country
 03/05/2020,17,0,Tajikistan
 02/05/2020,0,0,Tajikistan
 01/05/2020,15,0,Tajikistan
+13/11/2020,9,0,Thailand
+12/11/2020,5,0,Thailand
+11/11/2020,3,0,Thailand
+10/11/2020,4,0,Thailand
+09/11/2020,3,0,Thailand
+08/11/2020,7,0,Thailand
+07/11/2020,12,0,Thailand
 06/11/2020,8,1,Thailand
 05/11/2020,6,0,Thailand
 04/11/2020,7,0,Thailand
@@ -48618,6 +49955,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Thailand
 01/01/2020,0,0,Thailand
 31/12/2019,0,0,Thailand
+13/11/2020,0,0,Timor Leste
+12/11/2020,0,0,Timor Leste
+11/11/2020,0,0,Timor Leste
+10/11/2020,0,0,Timor Leste
+09/11/2020,0,0,Timor Leste
+08/11/2020,0,0,Timor Leste
+07/11/2020,0,0,Timor Leste
 06/11/2020,0,0,Timor Leste
 05/11/2020,0,0,Timor Leste
 04/11/2020,0,0,Timor Leste
@@ -48848,6 +50192,13 @@ dateRep,cases,deaths,country
 24/03/2020,0,0,Timor Leste
 23/03/2020,0,0,Timor Leste
 22/03/2020,1,0,Timor Leste
+13/11/2020,12,1,Togo
+12/11/2020,35,2,Togo
+11/11/2020,35,0,Togo
+10/11/2020,7,0,Togo
+09/11/2020,33,0,Togo
+08/11/2020,23,0,Togo
+07/11/2020,18,0,Togo
 06/11/2020,36,0,Togo
 05/11/2020,25,0,Togo
 04/11/2020,17,0,Togo
@@ -49086,6 +50437,13 @@ dateRep,cases,deaths,country
 16/03/2020,0,0,Togo
 15/03/2020,0,0,Togo
 07/03/2020,1,0,Togo
+13/11/2020,26,0,Trinidad and Tobago
+12/11/2020,24,0,Trinidad and Tobago
+11/11/2020,31,0,Trinidad and Tobago
+10/11/2020,0,0,Trinidad and Tobago
+09/11/2020,11,0,Trinidad and Tobago
+08/11/2020,40,0,Trinidad and Tobago
+07/11/2020,24,0,Trinidad and Tobago
 06/11/2020,10,1,Trinidad and Tobago
 05/11/2020,10,0,Trinidad and Tobago
 04/11/2020,50,1,Trinidad and Tobago
@@ -49325,6 +50683,13 @@ dateRep,cases,deaths,country
 15/03/2020,0,0,Trinidad and Tobago
 14/03/2020,1,0,Trinidad and Tobago
 13/03/2020,1,0,Trinidad and Tobago
+13/11/2020,1584,49,Tunisia
+12/11/2020,1529,96,Tunisia
+11/11/2020,1424,86,Tunisia
+10/11/2020,450,47,Tunisia
+09/11/2020,1576,79,Tunisia
+08/11/2020,3209,217,Tunisia
+07/11/2020,0,0,Tunisia
 06/11/2020,1971,65,Tunisia
 05/11/2020,1237,29,Tunisia
 04/11/2020,1220,102,Tunisia
@@ -49568,6 +50933,13 @@ dateRep,cases,deaths,country
 11/03/2020,3,0,Tunisia
 10/03/2020,1,0,Tunisia
 03/03/2020,1,0,Tunisia
+13/11/2020,2841,88,Turkey
+12/11/2020,2693,86,Turkey
+11/11/2020,2529,87,Turkey
+10/11/2020,2576,85,Turkey
+09/11/2020,2516,84,Turkey
+08/11/2020,2483,81,Turkey
+07/11/2020,2436,83,Turkey
 06/11/2020,2311,81,Turkey
 05/11/2020,2391,77,Turkey
 04/11/2020,2343,79,Turkey
@@ -49806,6 +51178,13 @@ dateRep,cases,deaths,country
 16/03/2020,16,0,Turkey
 13/03/2020,1,0,Turkey
 12/03/2020,1,0,Turkey
+13/11/2020,0,0,Turks and Caicos islands
+12/11/2020,5,0,Turks and Caicos islands
+11/11/2020,4,0,Turks and Caicos islands
+10/11/2020,0,0,Turks and Caicos islands
+09/11/2020,0,0,Turks and Caicos islands
+08/11/2020,0,0,Turks and Caicos islands
+07/11/2020,2,0,Turks and Caicos islands
 06/11/2020,0,0,Turks and Caicos islands
 05/11/2020,1,0,Turks and Caicos islands
 04/11/2020,0,0,Turks and Caicos islands
@@ -50033,6 +51412,13 @@ dateRep,cases,deaths,country
 27/03/2020,1,0,Turks and Caicos islands
 26/03/2020,0,0,Turks and Caicos islands
 25/03/2020,1,0,Turks and Caicos islands
+13/11/2020,224,4,Uganda
+12/11/2020,289,6,Uganda
+11/11/2020,130,0,Uganda
+10/11/2020,171,1,Uganda
+09/11/2020,337,1,Uganda
+08/11/2020,214,0,Uganda
+07/11/2020,284,14,Uganda
 06/11/2020,217,0,Uganda
 05/11/2020,252,2,Uganda
 04/11/2020,128,1,Uganda
@@ -50263,6 +51649,13 @@ dateRep,cases,deaths,country
 24/03/2020,8,0,Uganda
 23/03/2020,0,0,Uganda
 22/03/2020,1,0,Uganda
+13/11/2020,11057,198,Ukraine
+12/11/2020,10611,191,Ukraine
+11/11/2020,10179,191,Ukraine
+10/11/2020,8687,115,Ukraine
+09/11/2020,9397,138,Ukraine
+08/11/2020,10746,187,Ukraine
+07/11/2020,9721,201,Ukraine
 06/11/2020,9850,193,Ukraine
 05/11/2020,9524,199,Ukraine
 04/11/2020,8899,157,Ukraine
@@ -50501,6 +51894,13 @@ dateRep,cases,deaths,country
 16/03/2020,0,0,Ukraine
 13/03/2020,2,0,Ukraine
 04/03/2020,1,0,Ukraine
+13/11/2020,1136,3,United Arab Emirates
+12/11/2020,1214,2,United Arab Emirates
+11/11/2020,1096,3,United Arab Emirates
+10/11/2020,1146,1,United Arab Emirates
+09/11/2020,1111,0,United Arab Emirates
+08/11/2020,1141,4,United Arab Emirates
+07/11/2020,1292,2,United Arab Emirates
 06/11/2020,1289,3,United Arab Emirates
 05/11/2020,1161,2,United Arab Emirates
 04/11/2020,1008,6,United Arab Emirates
@@ -50807,6 +52207,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,United Arab Emirates
 01/01/2020,0,0,United Arab Emirates
 31/12/2019,0,0,United Arab Emirates
+13/11/2020,33470,563,United Kingdom
+12/11/2020,22950,595,United Kingdom
+11/11/2020,20412,532,United Kingdom
+10/11/2020,21350,194,United Kingdom
+09/11/2020,20572,156,United Kingdom
+08/11/2020,24957,413,United Kingdom
+07/11/2020,23287,355,United Kingdom
 06/11/2020,24138,378,United Kingdom
 05/11/2020,25177,492,United Kingdom
 04/11/2020,20018,397,United Kingdom
@@ -51119,6 +52526,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,United Kingdom
 01/01/2020,0,0,United Kingdom
 31/12/2019,0,0,United Kingdom
+13/11/2020,0,0,United Republic of Tanzania
+12/11/2020,0,0,United Republic of Tanzania
+11/11/2020,0,0,United Republic of Tanzania
+10/11/2020,0,0,United Republic of Tanzania
+09/11/2020,0,0,United Republic of Tanzania
+08/11/2020,0,0,United Republic of Tanzania
+07/11/2020,0,0,United Republic of Tanzania
 06/11/2020,0,0,United Republic of Tanzania
 05/11/2020,0,0,United Republic of Tanzania
 04/11/2020,0,0,United Republic of Tanzania
@@ -51354,6 +52768,13 @@ dateRep,cases,deaths,country
 19/03/2020,2,0,United Republic of Tanzania
 18/03/2020,0,0,United Republic of Tanzania
 17/03/2020,1,0,United Republic of Tanzania
+13/11/2020,153669,630,United States of America
+12/11/2020,143306,2117,United States of America
+11/11/2020,147274,1432,United States of America
+10/11/2020,138901,679,United States of America
+09/11/2020,110693,459,United States of America
+08/11/2020,121413,1014,United States of America
+07/11/2020,130623,1162,United States of America
 06/11/2020,122436,1208,United States of America
 05/11/2020,102507,1102,United States of America
 04/11/2020,92734,1076,United States of America
@@ -51666,6 +53087,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,United States of America
 01/01/2020,0,0,United States of America
 31/12/2019,0,0,United States of America
+13/11/2020,0,0,United States Virgin Islands
+12/11/2020,0,0,United States Virgin Islands
+11/11/2020,5,0,United States Virgin Islands
+10/11/2020,0,0,United States Virgin Islands
+09/11/2020,0,0,United States Virgin Islands
+08/11/2020,15,0,United States Virgin Islands
+07/11/2020,0,0,United States Virgin Islands
 06/11/2020,2,0,United States Virgin Islands
 05/11/2020,3,1,United States Virgin Islands
 04/11/2020,7,1,United States Virgin Islands
@@ -51893,6 +53321,13 @@ dateRep,cases,deaths,country
 26/03/2020,0,0,United States Virgin Islands
 25/03/2020,0,0,United States Virgin Islands
 24/03/2020,17,0,United States Virgin Islands
+13/11/2020,95,0,Uruguay
+12/11/2020,80,1,Uruguay
+11/11/2020,60,0,Uruguay
+10/11/2020,46,0,Uruguay
+09/11/2020,73,1,Uruguay
+08/11/2020,71,0,Uruguay
+07/11/2020,61,0,Uruguay
 06/11/2020,64,0,Uruguay
 05/11/2020,49,0,Uruguay
 04/11/2020,31,1,Uruguay
@@ -52130,6 +53565,13 @@ dateRep,cases,deaths,country
 17/03/2020,21,0,Uruguay
 16/03/2020,2,0,Uruguay
 15/03/2020,6,0,Uruguay
+13/11/2020,220,2,Uzbekistan
+12/11/2020,224,2,Uzbekistan
+11/11/2020,146,1,Uzbekistan
+10/11/2020,239,3,Uzbekistan
+09/11/2020,421,4,Uzbekistan
+08/11/2020,228,2,Uzbekistan
+07/11/2020,0,0,Uzbekistan
 06/11/2020,360,2,Uzbekistan
 05/11/2020,226,3,Uzbekistan
 04/11/2020,299,3,Uzbekistan
@@ -52366,6 +53808,16 @@ dateRep,cases,deaths,country
 18/03/2020,8,0,Uzbekistan
 17/03/2020,2,0,Uzbekistan
 16/03/2020,6,0,Uzbekistan
+13/11/2020,0,0,Vanuatu
+12/11/2020,0,0,Vanuatu
+11/11/2020,1,0,Vanuatu
+13/11/2020,695,7,Venezuela
+12/11/2020,0,0,Venezuela
+11/11/2020,562,8,Venezuela
+10/11/2020,0,0,Venezuela
+09/11/2020,578,5,Venezuela
+08/11/2020,0,0,Venezuela
+07/11/2020,384,2,Venezuela
 06/11/2020,821,9,Venezuela
 05/11/2020,0,0,Venezuela
 04/11/2020,395,5,Venezuela
@@ -52602,6 +54054,13 @@ dateRep,cases,deaths,country
 17/03/2020,18,0,Venezuela
 16/03/2020,5,0,Venezuela
 15/03/2020,10,0,Venezuela
+13/11/2020,1,0,Vietnam
+12/11/2020,26,0,Vietnam
+11/11/2020,10,0,Vietnam
+10/11/2020,3,0,Vietnam
+09/11/2020,0,0,Vietnam
+08/11/2020,0,0,Vietnam
+07/11/2020,6,0,Vietnam
 06/11/2020,0,0,Vietnam
 05/11/2020,4,0,Vietnam
 04/11/2020,11,0,Vietnam
@@ -52910,6 +54369,13 @@ dateRep,cases,deaths,country
 02/01/2020,0,0,Vietnam
 01/01/2020,0,0,Vietnam
 31/12/2019,0,0,Vietnam
+13/11/2020,0,0,Wallis and Futuna
+12/11/2020,0,0,Wallis and Futuna
+11/11/2020,0,0,Wallis and Futuna
+10/11/2020,0,0,Wallis and Futuna
+09/11/2020,0,0,Wallis and Futuna
+08/11/2020,0,0,Wallis and Futuna
+07/11/2020,0,0,Wallis and Futuna
 06/11/2020,0,0,Wallis and Futuna
 05/11/2020,0,0,Wallis and Futuna
 04/11/2020,0,0,Wallis and Futuna
@@ -52931,6 +54397,13 @@ dateRep,cases,deaths,country
 19/10/2020,0,0,Wallis and Futuna
 18/10/2020,0,0,Wallis and Futuna
 17/10/2020,1,0,Wallis and Futuna
+13/11/2020,0,0,Western Sahara
+12/11/2020,0,0,Western Sahara
+11/11/2020,0,0,Western Sahara
+10/11/2020,0,0,Western Sahara
+09/11/2020,0,0,Western Sahara
+08/11/2020,0,0,Western Sahara
+07/11/2020,0,0,Western Sahara
 06/11/2020,0,0,Western Sahara
 05/11/2020,0,0,Western Sahara
 04/11/2020,0,0,Western Sahara
@@ -53126,6 +54599,13 @@ dateRep,cases,deaths,country
 28/04/2020,0,0,Western Sahara
 27/04/2020,0,0,Western Sahara
 26/04/2020,6,0,Western Sahara
+13/11/2020,0,0,Yemen
+12/11/2020,0,0,Yemen
+11/11/2020,0,0,Yemen
+10/11/2020,0,0,Yemen
+09/11/2020,0,0,Yemen
+08/11/2020,0,0,Yemen
+07/11/2020,3,0,Yemen
 06/11/2020,0,0,Yemen
 05/11/2020,0,0,Yemen
 04/11/2020,4,2,Yemen
@@ -53337,6 +54817,13 @@ dateRep,cases,deaths,country
 12/04/2020,0,0,Yemen
 11/04/2020,0,0,Yemen
 10/04/2020,1,0,Yemen
+13/11/2020,0,0,Zambia
+12/11/2020,39,0,Zambia
+11/11/2020,26,1,Zambia
+10/11/2020,17,0,Zambia
+09/11/2020,46,0,Zambia
+08/11/2020,89,0,Zambia
+07/11/2020,49,0,Zambia
 06/11/2020,72,0,Zambia
 05/11/2020,37,0,Zambia
 04/11/2020,118,0,Zambia
@@ -53570,6 +55057,13 @@ dateRep,cases,deaths,country
 21/03/2020,0,0,Zambia
 20/03/2020,0,0,Zambia
 19/03/2020,2,0,Zambia
+13/11/2020,29,0,Zimbabwe
+12/11/2020,57,0,Zimbabwe
+11/11/2020,49,1,Zimbabwe
+10/11/2020,30,1,Zimbabwe
+09/11/2020,33,2,Zimbabwe
+08/11/2020,27,1,Zimbabwe
+07/11/2020,27,2,Zimbabwe
 06/11/2020,17,0,Zimbabwe
 05/11/2020,17,2,Zimbabwe
 04/11/2020,21,1,Zimbabwe
