@@ -130,9 +130,3 @@ dataset_final.to_csv("dataset_covid.csv", index=False)
 
 
 
-
-
-
-
-
-
