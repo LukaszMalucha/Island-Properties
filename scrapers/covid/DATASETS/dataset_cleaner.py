@@ -28,6 +28,8 @@ dataset_daily = pd.read_csv("covid_daily_org.csv", encoding="utf-8")
 
 col = list(dataset_daily.columns)
 
+dataset_daily = dataset_daily.rename(columns={ "cases_weekly" : "cases", "deaths_weekly" : "deaths"})
+
 dataset_daily = dataset_daily[["dateRep", "cases", "deaths", "countriesAndTerritories"]]
 
 dataset_daily = dataset_daily.rename(columns= {"countriesAndTerritories": "country"})
@@ -114,6 +116,14 @@ lst = list(dataset_final.columns)
 
 scaler = MinMaxScaler()
 
+
+dataset_final["deaths_per_capita"] = round((dataset_final["deaths"] / dataset_final["Population"]) * 1000, 4)
+
+
+dataset_final["severity_ratio"] = (dataset_final["cases_per_capita"]  + (dataset_final['positivity_rate'] * 0.8 ) + (dataset_final['median_age'] * 0.4 ))  / (dataset_final['curative_beds_per_hundred_thousand'] * 1.8  + dataset_final['testing_rate'] * 1.8 + dataset_final['life_expectancy'] * 1.4 + dataset_final['gdp_per_capita'] * 1.4) * 10
+
+    
+    
 dataset_final[["cases_per_capita", 'median_age', 'gdp_per_capita', 'diabetes_prevalence', 'curative_beds_per_hundred_thousand', 'life_expectancy', 'testing_rate', 'positivity_rate', ]] = scaler.fit_transform(dataset_final[["cases_per_capita", 'median_age', 'gdp_per_capita', 'diabetes_prevalence', 'curative_beds_per_hundred_thousand', 'life_expectancy', 'testing_rate', 'positivity_rate']].values)
 
 
