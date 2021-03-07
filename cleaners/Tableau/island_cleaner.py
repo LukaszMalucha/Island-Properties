@@ -9,8 +9,16 @@ import pandas as pd
 import numpy as np
 
 
-dataset_sale = pd.read_csv("properties.csv", encoding="utf-8")
-dataset_rent = pd.read_csv("island_rent.csv", encoding="utf-8")
+dataset = pd.read_csv("properties.csv", encoding="utf-8")
+
+dataset = dataset.reset_index()
+
+dataset = dataset.rename(columns={"index": "Id"})
+
+dataset_rent = dataset[dataset["advert_type"] == "rent"]
+dataset_sale = dataset[dataset["advert_type"] == "sale"]
+
+
 
 dataset_sale["locality"] = dataset_sale["locality"].str.replace(" De ", " de ")
 dataset_sale["locality"] = dataset_sale["locality"].str.replace(" Del ", " del ")
@@ -50,6 +58,7 @@ dataset_sale["locality"] = dataset_sale["locality"].str.replace("S'illot-Cala Mo
 
 
 
+
 dataset_rent["locality"] = dataset_rent["locality"].str.replace(" De ", " de ")
 dataset_rent["locality"] = dataset_rent["locality"].str.replace(" Del ", " del ")
 dataset_rent["locality"] = dataset_rent["locality"].str.replace("ü", "u")
@@ -72,12 +81,15 @@ dataset_rent["locality"] = dataset_rent["locality"].str.replace("San Bartolomé"
 dataset_rent["locality"] = dataset_rent["locality"].str.replace("à", "a")
 
 
+dataset_rent = dataset_rent[dataset_rent["price"] < 5000]
+
+
 sale_localities = list(dataset_sale["locality"].unique())
 rent_localities = list(dataset_rent["locality"].unique())
 
 
 
-dataset_sale.to_csv("properties.csv", encoding="utf-8")
+dataset_sale.to_csv("island_sale.csv", encoding="utf-8")
 dataset_rent.to_csv("island_rent.csv", encoding="utf-8", index=False)
 
 
