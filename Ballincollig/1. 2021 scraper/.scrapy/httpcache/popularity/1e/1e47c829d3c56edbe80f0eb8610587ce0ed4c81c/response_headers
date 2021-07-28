@@ -1,0 +1,11 @@
+Content-Type: text/html; charset=utf-8
+Access-Control-Expose-Headers: X-Identity-LoginLink,X-Identity-LoginToken
+Content-Encoding: gzip
+Date: Wed, 28 Jul 2021 15:30:51 GMT
+Etag: "13ecf-KLZuxDpDVdXVAIYu6OV/CDHRWBI"
+Vary: Origin
+X-Powered-By: Next.js
+X-Cache: Miss from cloudfront
+Via: 1.1 4d054711fa046225c14d8fd7485a4718.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: DUB2-C1
+X-Amz-Cf-Id: iab-_kub9yfpiGCRzvNynsWHaULsSJoeyW8nD1W5xZDXYn2phVh6ig==

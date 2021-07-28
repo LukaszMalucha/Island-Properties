@@ -1,0 +1,12 @@
+Server: nginx
+Date: Wed, 28 Jul 2021 16:08:08 GMT
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Set-Cookie: _mitula_user_id=4882fb15-ece1-413b-804b-84d3b4f88509; Expires=Fri, 28-Jul-2023 16:08:08 GMT; Path=/
+Set-Cookie: _splitTest=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: _rs=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: MGRef=1; Expires=Wed, 04-Aug-2021 16:08:08 GMT; Path=/
+Set-Cookie: JSESSIONID=f4w1~71239BE46C9756883AAC49713B8F6CFA.worker1; Path=/; HttpOnly
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip

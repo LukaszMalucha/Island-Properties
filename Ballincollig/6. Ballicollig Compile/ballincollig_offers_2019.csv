@@ -1,0 +1,49 @@
+address,property_type,beds,baths,price,area,geocode,lat,long
+"1 Limeworth, Ballincollig, Co. Cork", Detached House,4.0,4.0,875000,Maglin,"51.88135112776452, -8.59523805920491",51.88135112776452,-8.59523805920491
+"36 Parknamore, Ballincollig, Co. Cork", Semi-Detached House,4.0,4.0,335000,Parknamore,"51.88458744794133, -8.609309161051812",51.88458744794133,-8.609309161051812
+"92 The Green, Coolroe Meadows, Ballincollig, Co. Cork", Semi-Detached House,4.0,3.0,350000,Coolroe,"51.885279789132504, -8.622716969745719",51.885279789132504,-8.622716969745719
+"72 Old Court, Greenfields, Killumney Road, Ballincollig, Co. Cork", Semi-Detached House,4.0,3.0,360000,Greenfield,"51.88072634468435, -8.611355403381312",51.88072634468435,-8.611355403381312
+"20 Granary Court, The Maltings, Ballincollig, Co. Cork",Apartment for sale,2.0,1.0,220000,The Maltings,"51.88503727921537, -8.591352822622822",51.88503727921537,-8.591352822622822
+"Rowan House, Poulavone, Ballincollig, Co. Cork", Detached House,5.0,2.0,480000,Town Center,"51.8878563321983, -8.600737381727024",51.8878563321983,-8.600737381727024
+"35 The Lawn, Coolroe Meadows, Ballincollig, Co. Cork", End of Terrace House,4.0,3.0,330000,Coolroe,"51.885279789132504, -8.622716969745719",51.885279789132504,-8.622716969745719
+"17 Tara, An Caislean, Ballincollig, Co. Cork",Apartment for sale,2.0,2.0,220000,An Caislean,"51.88419579207018, -8.604721941977742",51.88419579207018,-8.604721941977742
+"148 Leslies Arch, Old Quarter, Ballincollig, Co. Cork", End of Terrace House,3.0,3.0,295000,Old Quarter,"51.89008441064981, -8.590014945710507",51.89008441064981,-8.590014945710507
+"2 The Cloisters, Ballincollig, Co. Cork", Semi-Detached House,3.0,2.0,275000,The Cloisters,"51.88453436126935, -8.578108099687265",51.88453436126935,-8.578108099687265
+"30 The Heathers, Classes Lake, Ballincollig, Co. Cork", Semi-Detached House,3.0,2.0,295000,Classis Lake,"51.88586099008718, -8.62822296864587",51.88586099008718,-8.62822296864587
+"163 Willowcourt, Ballincollig, Co. Cork", Semi-Detached House,3.0,1.0,235000,Willow Court,"51.89303295971821, -8.580903401534059",51.89303295971821,-8.580903401534059
+"69 Beech Park, Ballincollig, Co. Cork", Semi-Detached House,6.0,2.0,245000,Beech Park,"51.884462825784524, -8.586660730369518",51.884462825784524,-8.586660730369518
+"21 Parknamore Rise, Ballincollig, Co. Cork", Detached House,3.0,2.0,270000,Parknamore,"51.88458744794133, -8.609309161051812",51.88458744794133,-8.609309161051812
+"3 The Avenue, Highfield Park, Ballincollig, Co. Cork",Apartment for sale,3.0,3.0,285000,Highfield,"51.88483134751023, -8.573114016875365",51.88483134751023,-8.573114016875365
+"12 The Heathers, Classes Lake, Ballincollig, Co. Cork", Semi-Detached House,3.0,2.0,310000,Classis Lake,"51.88586099008718, -8.62822296864587",51.88586099008718,-8.62822296864587
+"4 Aylsbury Lawn, Ballincollig, Co. Cork", Detached House,5.0,3.0,385000,Aylsbury,"51.88284449037205, -8.620440916875388",51.88284449037205,-8.620440916875388
+"102 The Cloisters, Ballincollig, Co. Cork", Semi-Detached House,3.0,2.0,280000,The Cloisters,"51.88453436126935, -8.578108099687265",51.88453436126935,-8.578108099687265
+"77 An Caislean Drive, Ballincollig, Co. Cork", Semi-Detached House,3.0,3.0,260000,An Caislean,"51.88419579207018, -8.604721941977742",51.88419579207018,-8.604721941977742
+"11 Glincool Grove, Glincool, Ballincollig, Co. Cork", Detached House,4.0,3.0,310000,Maglin,"51.88135112776452, -8.59523805920491",51.88135112776452,-8.59523805920491
+"12 Glincool Gardens, Ballincollig, Co. Cork", Detached House,3.0,2.0,325000,Maglin,"51.88135112776452, -8.59523805920491",51.88135112776452,-8.59523805920491
+"35 Manor Hill, Ballincollig, Co. Cork", Semi-Detached House,3.0,1.0,220000,Manor Hill,"51.89121035709487, -8.575907457357648",51.89121035709487,-8.575907457357648
+"Dunvara, Coolatubrid, Carrigrohane, Ballincollig, Co. Cork",Bungalow for sale,3.0,2.0,285000,Carrigrohane,"51.89118108080445, -8.570433423222292",51.89118108080445,-8.570433423222292
+"208 The Willows, Ballincollig, Co. Cork", Semi-Detached House,3.0,1.0,250000,Carrigrohanebeg,"51.89309917070151, -8.580849757357647",51.89309917070151,-8.580849757357647
+"16 Newgrange, An Caislean, Ballincollig, Co. Cork",Apartment for sale,2.0,2.0,225000,An Caislean,"51.88419579207018, -8.604721941977742",51.88419579207018,-8.604721941977742
+"105 Cedardale, Ballincollig, Co. Cork", Detached House,4.0,1.0,265000,Carrigrohanebeg,"51.89309917070151, -8.580849757357647",51.89309917070151,-8.580849757357647
+"52 The Crescent, Old Fort Road, Ballincollig, Co. Cork",Apartment for sale,2.0,2.0,260000,The Crescent,"51.88974689003794, -8.592724974545812",51.88974689003794,-8.592724974545812
+"1 Elm Walk, Classes Lake, Ballincollig, Co. Cork", Detached House,5.0,4.0,460000,Classis Lake,"51.88586099008718, -8.62822296864587",51.88586099008718,-8.62822296864587
+"2 Fernway, Classes Lake, Ballincollig, Co. Cork",Duplex for sale,3.0,3.0,255000,Classis Lake,"51.88586099008718, -8.62822296864587",51.88586099008718,-8.62822296864587
+"28 Waltham Abbey, Old Quarter, Ballincollig, Co. Cork", Semi-Detached House,3.0,3.0,365000,Old Quarter,"51.89008441064981, -8.590014945710507",51.89008441064981,-8.590014945710507
+"30 Wyndham Downs, Ballincollig, Co. Cork",Bungalow for sale,3.0,2.0,325000,Wyndham Downs,"51.88594295587414, -8.620296147557605",51.88594295587414,-8.620296147557605
+"4 Shalamir Court, Ballincollig, Co. Cork",Duplex for sale,3.0,3.0,249500,Shalimar Court,"51.88896130535807, -8.578969730369383",51.88896130535807,-8.578969730369383
+"23 Parknamore Rise, Ballincollig, Co. Cork", Semi-Detached House,3.0,1.0,270000,Parknamore,"51.88458744794133, -8.609309161051812",51.88458744794133,-8.609309161051812
+"8 Rosewood, Ballincollig, Co. Cork", Semi-Detached House,3.0,2.0,320000,Rosewood,"51.88865181082447, -8.575978970851866",51.88865181082447,-8.575978970851866
+"59 Castle Avenue Muskerry Estate, Ballincollig, Co. Cork", Semi-Detached House,4.0,2.0,280000,Muskerry Estate,"51.885514844369936, -8.596310161258103",51.885514844369936,-8.596310161258103
+"200 The Willows, Ballincollig, Co. Cork", Semi-Detached House,3.0,1.0,250000,Carrigrohanebeg,"51.89309917070151, -8.580849757357647",51.89309917070151,-8.580849757357647
+"168 Caislean View, Ballincollig, Co. Cork", Semi-Detached House,3.0,3.0,265000,An Caislean,"51.88419579207018, -8.604721941977742",51.88419579207018,-8.604721941977742
+"1 Tara, An Caislean, Ballincollig, Co. Cork",Apartment for sale,2.0,2.0,220000,An Caislean,"51.88419579207018, -8.604721941977742",51.88419579207018,-8.604721941977742
+"4 Old Quarry, Coolroe, Ballincollig, Co. Cork",Apartment for sale,2.0,2.0,225000,Coolroe,"51.885279789132504, -8.622716969745719",51.885279789132504,-8.622716969745719
+"44 Daffodil Fields, Ballincollig, Co. Cork", Semi-Detached House,4.0,3.0,365000,Daffodil Fields,"51.89114262893351, -8.573402430369397",51.89114262893351,-8.573402430369397
+"33 The Lawn, Coolroe Meadows, Ballincollig, Co. Cork", Terraced House,3.0,0.0,265000,Coolroe,"51.885279789132504, -8.622716969745719",51.885279789132504,-8.622716969745719
+"25 The Close, Coolroe Meadows, Ballincollig, Co. Cork", Semi-Detached House,4.0,0.0,350000,Coolroe,"51.885279789132504, -8.622716969745719",51.885279789132504,-8.622716969745719
+"4 Carriganarra, Ballincollig, Co. Cork",Bungalow for sale,4.0,1.0,350000,Carriganarra,"51.88456579585057, -8.579854607281877",51.88456579585057,-8.579854607281877
+"98 Beech Park, Ballincollig, Co. Cork", Semi-Detached House,3.0,1.0,220000,Beech Park,"51.884462825784524, -8.586660730369518",51.884462825784524,-8.586660730369518
+"Fernway, Classes Lake, Ballincollig, Co. Cork",Duplex for sale,4.0,3.0,255000,Classis Lake,"51.88586099008718, -8.62822296864587",51.88586099008718,-8.62822296864587
+"5 Old Court, Greenfields, Ballincollig, Co. Cork", Detached House,4.0,3.0,440000,Greenfield,"51.88072634468435, -8.611355403381312",51.88072634468435,-8.611355403381312
+"Bride Park Cottage, Killumney, Ovens, Ballincollig, Co. Cork", Detached House,4.0,3.0,rice On Application,Ovens,"51.88127654707539, -8.658682937965343",51.88127654707539,-8.658682937965343
+"Innis Moy, Castle Road, Ballincollig, Co. Cork", Detached House,3.0,0.0,295000,Castle Road,"51.88234227885883, -8.598250759204856",51.88234227885883,-8.598250759204856
