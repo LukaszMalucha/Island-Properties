@@ -7,40 +7,42 @@ Created on Thu May  6 19:16:43 2021
 
 import pandas as pd
 import numpy as np
+from pathlib import Path
+from datetime import date, timedelta
+
+
+today = date.today()
+yesterday = today - timedelta(days=1)
+todays_date = today.strftime("%Y-%m-%d")
+yesterday_date = yesterday.strftime("%Y-%m-%d")
+
+
+CURRENT_DATASETS_PATH = Path(Path.cwd().parent, "_DATASETS")
 
 
 
-dataset = pd.read_csv("1.csv", encoding="utf-8")
-
-dataset = dataset.fillna("")
-
-dataset["address_area_2"] = dataset["address_area_2"].str.replace(",", "").str.strip()
+"""
+CONCAT OFFERS
+"""
 
 
-dataset["address_area_2"] = np.where(dataset["address_area_2"].str.len() < 1, dataset["address_area_1"],  dataset["address_area_2"] )
 
 
-dataset["address_number"] = dataset["address_number"].str.replace("Apartment", "")
-dataset["address_number"] = dataset["address_number"].str.strip()
-dataset["address_number"] = dataset["address_number"].str.replace(",", "")
+dataset_old = pd.read_csv(Path(Path.cwd().parent, "_DATASETS", f"{yesterday_date}_offers.csv"), encoding="utf-8")
 
 
 
 
 
 
-dataset["address_area_2"] = np.where(dataset["address_number"].str.len() > 6, dataset["address_number"],  dataset["address_area_2"] )
-dataset["address_number"] = np.where(dataset["address_number"].str.len() > 6, "1",  dataset["address_number"] )
+
+dataset = pd.read_csv("ballincollig.csv", encoding="utf-8")
+
+
+dataset["area"] = ""
 
 
 
-dataset["price"] = dataset["price"].str.replace("€", "").str.replace(",", "")
-
-
-dataset = dataset.rename(columns={"address_area_1": "address", "address_area_2": "area", "address_number": "number"})
-
-
-dataset = dataset[[ 'area', 'address', 'number',  'price','date', 'property_type']]
 
 
 dataset["area"] = np.where(dataset["address"].str.contains("Coopers"), "Old Quarter",  dataset["area"] )
@@ -145,7 +147,7 @@ dataset["area"] = np.where(dataset["address"].str.contains("Beech Park"), "Beech
 dataset["area"] = np.where(dataset["address"].str.contains("Maple Lawn"), "Muskerry Estate",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Aisling Lawn"), "Beech Park",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Station Road"), "Town Center",  dataset["area"] )
-
+dataset["area"] = np.where(dataset["address"].str.contains("Caisleé¡n Way"), "An Caislean",  dataset["area"] )
 dataset["area"] = dataset["area"].str.strip()
 
 
@@ -246,18 +248,160 @@ dataset = dataset[dataset["area"] != "Aherla"]
 dataset = dataset[~dataset["address"].str.contains("Grange Hill")]
 dataset = dataset[dataset["area"] != "Model Farm Road"]
 
-dataset["full_address"] = dataset["number"] + " " + dataset["address"] + ", " + dataset["area"]
 
-dataset = dataset[dataset["price"].str.len() == 6]
-
-
+dataset["lat"] = dataset["geocode"].str.split(", ").str[0]
+dataset["long"] = dataset["geocode"].str.split(", ").str[1]
 
 
 
+dataset["baths"] = dataset["baths"].str.split(" ").str[0].astype(int)
+dataset["beds"] = dataset["beds"].str.split(" ").str[0].astype(int)
+dataset["popularity"] = dataset["popularity"].str.replace(",", "").astype(int)
+dataset["price"] = dataset["price"].str.replace(",", "").str.replace("\€", "").astype(int)
+dataset["size"] = dataset["size"].str.replace(" m²", "")
+dataset["size"] = np.where(dataset["size"] == "None", 0, dataset["size"])
+dataset["size"] = dataset["size"].astype(int)
+dataset["size"] = dataset["size"].replace(0, np.nan)
+
+
+ 
+
+dataset = dataset.drop("geocode", axis =1)
+
+
+dataset = pd.concat([dataset, dataset_old])
+
+
+dataset["date"] = dataset["date"].str.split(" ").str[0]
+dataset = dataset.drop_duplicates()
+
+dataset["size"] = dataset["size"].replace(0, np.nan)
+dataset["price_per_meter"] = dataset["price"] / dataset["size"]
+dataset["price_per_bedroom"] = dataset["price"] / dataset["beds"]
 
 
 
-dataset.to_csv("ballincollig_sold.csv", index=False)
+dataset_map = dataset.sort_values("date", ascending=False)
+dataset_map["duplicate"] = dataset_map["address"].duplicated()
+dataset_map = dataset_map[dataset_map["duplicate"] == False]
+dataset_map = dataset_map.drop("duplicate", axis=1)
+
+
+dataset_map.to_csv(Path(CURRENT_DATASETS_PATH, f"{todays_date}_offers.csv"), index=False)
+
+
+
+
+
+
+
+dataset = dataset[dataset["link"].str.contains("daft")]
+dataset["address"] = dataset["address"].str.replace("Caisleé¡n", "Caisleán")
+
+
+dataset = dataset.sort_values("date", ascending=False)
+dataset["duplicate"] = dataset.duplicated(["address", "date"])
+dataset = dataset[dataset["duplicate"] == False]
+dataset = dataset.drop("duplicate", axis=1)
+
+
+
+dataset_popularity_old = pd.read_csv(Path(Path.cwd().parent, "_DATASETS", f"{yesterday_date}_popularity.csv"), encoding="utf-8")
+
+dataset = pd.concat([dataset, dataset_popularity_old])
+
+dataset = dataset.drop("Unnamed: 0", axis=1)
+
+
+
+dataset["geocode"] = ""
+
+dataset["geocode"] = np.where(dataset["area"] == "Maglin", "51.88135112776452, -8.59523805920491",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Classis Lake", "51.88586099008718, -8.62822296864587",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Old Quarter", "51.89008441064981, -8.590014945710507",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "The Cloisters", "51.88453436126935, -8.578140286193113",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.886701875920906, -8.606268807280973",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "The Maltings", "51.88503727921537, -8.591352822622822",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Coolroe", "51.885279789132504, -8.622716969745719",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "An Caislean", "51.88419579207018, -8.604721941977742",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Parknamore", "51.88458744794133, -8.609309161051812",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Castle Road", "51.88237120146108, -8.598641786193197",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Muskerry Estate", "51.885514844369936, -8.596310161258103",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Old Fort Road", "51.88988509759098, -8.59066895920469",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Highfield Park", "51.88438631124541, -8.574891410855766",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Westcourt", "51.88681255417706, -8.616295628522487",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Greenfield", "51.87768330900382, -8.61608163310892",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Castlepark", "51.88650616536384, -8.58533217454591",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Rosewood", "51.88865181082447, -8.575978970851866",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "The Willows", "51.89301140145297, -8.581593590126793",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Town Center", "51.8878563321983, -8.600737381727024",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Carriglee", "51.89320554364949, -8.582261828522315",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Carrigrohanebeg", "51.89309917070151, -8.580849757357647",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Limeworth", "51.88244387440602, -8.582059330369558",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.88656943500571, -8.60609714591646",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "The Quadrants", "51.8890702782036, -8.589706799326772",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "The Stables", "51.88380436406558, -8.622683203381243",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Leo Murphy Terrace", "51.888591280385164, -8.583440501534145",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Aylsbury", "51.88284449037205, -8.620440916875388",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Wyndham Downs", "51.88595620016782, -8.620113757357807",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Carriganarra", "51.88456579585057, -8.579854607281877",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Hazel Grove", "51.88270220033945, -8.594207045710691",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Cranford Pines", "51.88391871868656, -8.585827588040098",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Beech Park", "51.884462825784524, -8.586660730369518",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Church View", "51.88549636879165, -8.592625889887055",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "The Crescent", "51.88974689003794, -8.592724974545812",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Wyndham Downs", "51.88594295587414, -8.620296147557605",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Tudor Grove", "51.88555121291465, -8.591538215028342",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Westgrove", "51.88676931020199, -8.6146432996872",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Carrigrohane", "51.89608063198051, -8.56348113795949",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Station Cross", "51.88366424957323, -8.588997728522568",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Innishmore", "51.88897474404985, -8.608958999892096",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Powdermills", "51.89225015549648, -8.586096438526356",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Willow Grove", "51.882509982430086, -8.612375401534269",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Castleknock", "51.88198791175574, -8.595112470852024",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Station Road", "51.885856656204545, -8.590996730369481",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Leeview", "51.885856656204545, -8.590996730369481",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Heathfield", "51.88275370396547, -8.57522707085204",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Greystones", "51.88708566318779, -8.572495537963082",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Leesdale Court", "51.89042385266594, -8.583049957357712",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Avoncourt", "51.88515208061713, -8.612719189887075",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Cois Na Cora", "51.89115617169389, -8.586177713181245",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "An Caisleann", "51.89115617169389, -8.586177713181245",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Cois Na Cora", "51.89115617169389, -8.586177713181245",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Fionn Laoi", "51.89295672639931, -8.577244778805012",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Coolroe Meadows", "51.88363432099277, -8.616138226350916",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Greenfields", "51.87941701969475, -8.620193493581136",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Steeplewoods", "51.88978058994379, -8.565944853663783",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Greenfield", "51.88072634468435, -8.611355403381312",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Highfield", "51.88483134751023, -8.573114016875365",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Inniscarra View", "51.88901621244116, -8.572065214668026",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Manor Hill", "51.89121035709487, -8.575907457357648",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Shalimar Court", "51.88896130535807, -8.578969730369383",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Shalimar Court", "51.88896130535807, -8.578969730369383",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "The Cloisters", "51.88453436126935, -8.578108099687265",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Leecourt", "51.8915162277775, -8.581342570851831",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Coolroe Heights", "51.8915162277775, -8.581342570851831",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Daffodil Fields", "51.89114262893351, -8.573402430369397",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Glendower Court", "51.890963893776494, -8.579131855510711",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Mukerry Estate", "51.88554133320571, -8.596438907281483",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Glendower Court", "51.89097713659068, -8.579260601534097",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Glendower Court", "51.89097713659068, -8.579260601534097",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Ovens", "51.88127654707539, -8.658682937965343",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Castle Road", "51.88234227885883, -8.59817565735788",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Carrigrohane", "51.89118108080445, -8.570433423222292",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.88675485217772, -8.606397553304374",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.88675485217772, -8.606397553304374",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Castlepark", "51.88653927567583, -8.585310716875346",  dataset["geocode"] )
+
+
+dataset["lat"] = dataset["geocode"].str.split(", ").str[0]
+dataset["long"] = dataset["geocode"].str.split(", ").str[1]
+
+dataset = dataset.drop_duplicates(subset=["address", "date"])
+
+
+dataset.to_csv(Path(CURRENT_DATASETS_PATH, f"{todays_date}_popularity.csv"))
+
 
 
 

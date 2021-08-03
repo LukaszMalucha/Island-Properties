@@ -1,4 +1,5 @@
 area,address,price,number,matcher,address_sold,full_address,price_sold
+Maglin,"15 Glincool Grove, Ballincollig, Co. Cork",315000,15,Glincool,Glincool Crescent,"15 Glincool Crescent, Maglin",295000.0
 Coolroe,"92 The Green, Coolroe Meadows, Ballincollig, Co. Cork",350000,92,Green,The Green,"92 The Green, Coolroe",330000.0
 The Maltings,"20 Granary Court, The Maltings, Ballincollig, Co. Cork",220000,20,Granary,Granary Court,"20 Granary Court, The Maltings",210000.0
 Coolroe,"35 The Lawn, Coolroe Meadows, Ballincollig, Co. Cork",330000,35,Lawn,The Lawn,"35 The Lawn, Coolroe",332000.0
@@ -17,22 +18,26 @@ Manor Hill,"35 Manor Hill, Ballincollig, Co. Cork",220000,35,Manor,Manor Hill,"3
 Carrigrohanebeg,"208 The Willows, Ballincollig, Co. Cork",250000,208,Willows,The Willows,"208 The Willows, Carrigrohanebeg",256000.0
 An Caislean,"16 Newgrange, An Caislean, Ballincollig, Co. Cork",225000,16,Newgrange,Newgrange,"16 Newgrange, An Caislean",215000.0
 Carrigrohanebeg,"105 Cedardale, Ballincollig, Co. Cork",265000,105,Cedardale,Cedardale,"105 Cedardale, Carrigrohanebeg",245000.0
-Old Quarter,"28 Waltham Abbey, Old Quarter, Ballincollig, Co. Cork",365000,28,Waltham,Waltham Abbey,"28 Waltham Abbey, Old Quarter",339200.0
 Old Quarter,"28 Waltham Abbey, Old Quarter, Ballincollig, Co. Cork",365000,28,Waltham,Waltham Abbey,"28 Waltham Abbey, Old Quarter",344900.0
+Old Quarter,"28 Waltham Abbey, Old Quarter, Ballincollig, Co. Cork",365000,28,Waltham,Waltham Abbey,"28 Waltham Abbey, Old Quarter",339200.0
 Wyndham Downs,"30 Wyndham Downs, Ballincollig, Co. Cork",325000,30,Wyndham,Wyndham Downs,"30 Wyndham Downs, Wyndham Downs",325000.0
 Parknamore,"23 Parknamore Rise, Ballincollig, Co. Cork",270000,23,Parknamore,Parknamore Rise,"23 Parknamore Rise, Parknamore",265000.0
-Rosewood,"8 Rosewood, Ballincollig, Co. Cork",320000,8,Rosewood,Rosewood,"8 Rosewood, Rosewood",306000.0
 Rosewood,"8 Rosewood, Ballincollig, Co. Cork",320000,8,Rosewood,Rosewood,"8 Rosewood, Rosewood",235000.0
+Rosewood,"8 Rosewood, Ballincollig, Co. Cork",320000,8,Rosewood,Rosewood,"8 Rosewood, Rosewood",306000.0
 Muskerry Estate,"59 Castle Avenue Muskerry Estate, Ballincollig, Co. Cork",280000,59,Castle,Castle Avenue,"59 Castle Avenue, Muskerry Estate",270000.0
 Carrigrohanebeg,"200 The Willows, Ballincollig, Co. Cork",250000,200,Willows,The Willows,"200 The Willows, Carrigrohanebeg",245000.0
 An Caislean,"1 Tara, An Caislean, Ballincollig, Co. Cork",220000,1,Tara,Tara An Caisleain,"1 Tara An Caisleain, An Caislean",207000.0
 Coolroe,"33 The Lawn, Coolroe Meadows, Ballincollig, Co. Cork",265000,33,Lawn,The Lawn,"33 The Lawn, Coolroe",267500.0
 Carriganarra,"4 Carriganarra, Ballincollig, Co. Cork",350000,4,Carriganarra,Carriganarra,"4 Carriganarra, Carriganarra",325000.0
 Beech Park,"98 Beech Park, Ballincollig, Co. Cork",220000,98,Beech,Beech Park,"98 Beech Park, Beech Park",232000.0
+An Caislean,158 An Caislean View ,265000,158,Caislean,Caislean View,"158 Caislean View, An Caislean",282000.0
+An Caislean,158 An Caislean View ,265000,158,Caislean,Caislean View,"158 Caislean View, An Caislean",282000.0
 An Caislean,108 An Caislean ,290000,108,Caislean,An Caislean Way,"108 An Caislean Way, An Caislean",302000.0
 Town Center,57 Church View ,295000,57,Church,Church View,"57 Church View, Town Center",321000.0
 The Cloisters,63 The Cloisters ,325000,63,Cloisters,The Cloisters,"63 The Cloisters, The Cloisters",280000.0
 The Cloisters,63 The Cloisters ,325000,63,Cloisters,The Cloisters,"63 The Cloisters, The Cloisters",330000.0
+Parknamore,10 Parknamore Rise ,285000,10,Parknamore,Parknamore Rise,"10 Parknamore Rise, Parknamore",320000.0
+Parknamore,10 Parknamore Rise ,285000,10,Parknamore,Parknamore Rise,"10 Parknamore Rise, Parknamore",320000.0
 Old Quarter,69 Coopers Grange Old Quarter ,330000,69,Coopers,Coopers Grange,"69 Coopers Grange, Old Quarter",340000.0
 Beech Park,20 Cranford Pines ,280000,20,Cranford,Cranford Pines,"20 Cranford Pines, Beech Park",290000.0
 Rosewood,114 Rosewood Est ,285000,114,Rosewood,Rosewood Estate,"114 Rosewood Estate, Rosewood",280000.0

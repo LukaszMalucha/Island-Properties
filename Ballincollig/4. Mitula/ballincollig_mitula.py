@@ -142,9 +142,9 @@ dataset["geocode"] = ""
 
 
 
-dataset["geocode"] = np.where(dataset["area"] == "Maglin", "51.88135112776452, -8.59523805920491",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Maglin", "51.88128516801954, -8.59394691502851",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "Classis Lake", "51.88586099008718, -8.62822296864587",  dataset["geocode"] )
-dataset["geocode"] = np.where(dataset["area"] == "Old Quarter", "51.89008441064981, -8.590014945710507",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Old Quarter", "51.89114003596089, -8.59633561033392",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "The Cloisters", "51.88453436126935, -8.578140286193113",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.886701875920906, -8.606268807280973",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "The Maltings", "51.88503727921537, -8.591352822622822",  dataset["geocode"] )

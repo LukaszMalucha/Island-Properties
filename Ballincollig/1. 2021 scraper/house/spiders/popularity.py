@@ -86,7 +86,10 @@ class PopularitySpider(scrapy.Spider):
             if count == 4:
                 beds = sel.xpath('//p[contains(@class, "TitleBlock__CardInfoItem")]/text()')[-4].extract()
                 baths = sel.xpath('//p[contains(@class, "TitleBlock__CardInfoItem")]/text()')[-3].extract() 
-                size = sel.xpath('//p[contains(@class, "TitleBlock__CardInfoItem")]/text()')[-2].extract()  # MOZE NIE BYC
+                try:
+                    size = sel.xpath('//p[contains(@class, "TitleBlock__CardInfoItem")]/text()')[-2].extract()  # MOZE NIE BYC
+                except:
+                    size = ""    
                 property_type = sel.xpath('//p[contains(@class, "TitleBlock__CardInfoItem")]/text()')[-1].extract()
             else:
                 beds = sel.xpath('//p[contains(@class, "TitleBlock__CardInfoItem")]/text()')[0].extract()
@@ -100,7 +103,10 @@ class PopularitySpider(scrapy.Spider):
             l.add_value('address', address)       
             l.add_value('beds', beds)
             l.add_value('baths', baths)
-            l.add_value('size', size)
+            try:
+                l.add_value('size', size)
+            except:
+                pass    
             l.add_value('link', link)   
             l.add_value('property_type', property_type)
             l.add_value('popularity', popularity)

@@ -49,6 +49,8 @@ dataset["area"] = ""
 
 
 
+
+
 dataset["area"] = np.where(dataset["address"].str.contains("Coopers"), "Old Quarter",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Caislean"), "An Caislean",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("An Cais"), "An Caislean",  dataset["area"] )
@@ -151,7 +153,7 @@ dataset["area"] = np.where(dataset["address"].str.contains("Beech Park"), "Beech
 dataset["area"] = np.where(dataset["address"].str.contains("Maple Lawn"), "Muskerry Estate",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Aisling Lawn"), "Beech Park",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Station Road"), "Town Center",  dataset["area"] )
-
+dataset["area"] = np.where(dataset["address"].str.contains("Caisleé¡n Way"), "An Caislean",  dataset["area"] )
 dataset["area"] = dataset["area"].str.strip()
 
 
