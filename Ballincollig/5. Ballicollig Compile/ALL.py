@@ -7,10 +7,16 @@ Created on Thu May  6 19:16:43 2021
 
 import pandas as pd
 import numpy as np
+from pathlib import Path
+from datetime import date, timedelta
+
+today = date.today()
+yesterday = today - timedelta(days=1)
+todays_date = today.strftime("%Y-%m-%d")
+yesterday_date = yesterday.strftime("%Y-%m-%d")
 
 
-
-
+CURRENT_DATASETS_PATH = Path(Path.cwd().parent, "_DATASETS")
 
 
 """
@@ -146,9 +152,10 @@ dataset = dataset[dataset["price"] != "rice On Application"]
 
 dataset["price"] = dataset["price"].astype(int)
 
-
+dataset["address"] = dataset["address"].str.replace("Benamara ", "")
 
 dataset["number"] = dataset["address"].str.split(" ").str[0]
+
 
 dataset["matcher"] = dataset["address"].str.replace("1", "")
 dataset["matcher"] = dataset["matcher"].str.replace("57a", "")
@@ -165,6 +172,7 @@ dataset["matcher"] = dataset["matcher"].str.replace("The", "")
 dataset["matcher"] = dataset["matcher"].str.replace("An", "")
 dataset["matcher"] = dataset["matcher"].str.replace("  ", " ")
 dataset["matcher"] = dataset["matcher"].str.replace(",", "")
+
 
 dataset["matcher"] = dataset["matcher"].str.split(" ").str[1]
 
@@ -335,9 +343,7 @@ dataset_sold = dataset_sold.drop("geocode", axis=1)
 
 
 
-
-
-dataset_sold.to_csv("ballincollig_s.csv", index=False)
+dataset_sold.to_csv(Path(CURRENT_DATASETS_PATH, f"{todays_date}_sold.csv"))
 
 
 

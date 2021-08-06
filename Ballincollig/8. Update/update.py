@@ -400,14 +400,39 @@ dataset["long"] = dataset["geocode"].str.split(", ").str[1]
 dataset = dataset.drop_duplicates(subset=["address", "date"])
 
 
+
+
+
+
+
+
+
+dataset_popularity_difference = dataset[["address", "date", "popularity"]]
+
+
+dataset_popularity_difference = dataset_popularity_difference.pivot(index='address', columns='date', values="popularity")
+
+dataset_popularity_difference = dataset_popularity_difference.fillna(0)
+
+
+
+dataset_popularity_difference["difference"] = dataset_popularity_difference.iloc[: , -1] - dataset_popularity_difference.iloc[: , 0]
+dataset_popularity_difference["day_count"] = len(dataset_popularity_difference.columns) - 1
+
+dataset_popularity_difference = dataset_popularity_difference.reset_index()
+
+
+dataset_popularity_difference = dataset_popularity_difference[["address", "day_count","difference"]]
+
+dataset_popularity_difference.to_csv(Path(CURRENT_DATASETS_PATH, f"{todays_date}_popularity_difference.csv"))
+
+
+
+
+dataset = dataset.merge(dataset_popularity_difference, on="address", how="left")
+
+
+
 dataset.to_csv(Path(CURRENT_DATASETS_PATH, f"{todays_date}_popularity.csv"))
-
-
-
-
-
-
-
-
 
 

@@ -1,108 +1,556 @@
 address,baths,beds,date,link,popularity,price,property_type,size
+"4 The Stablesballincolligco Corkp31 K658
+                ",4 bathrooms,5 bedrooms,2021-08-06,,None,"€445,000",None,145 sq.feet
+126 Caisleán Way ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€285,000",None,145 sq.feet
+126 Caisleé N Way ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€285,000",None,145 sq.feet
+25 Innishmore Drive ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€229,000",None,145 sq.feet
+194 The Willows ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€249,500",None,145 sq.feet
+37 Millers Court Old Quarter ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€410,000",None,145 sq.feet
+"37 Millers Courtold Quarterballincolligco Corkp31he67
+                ",4 bathrooms,5 bedrooms,2021-08-06,,None,"€410,000",None,145 sq.feet
 "25 Leeviewballincolligco Corkp31 T934
-                ",2 bathrooms,3 bedrooms,2021-07-28,,None,"€280,000",None,88 sq.feet
-25 Leeview ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€280,000",None,88 sq.feet
+                ",4 bathrooms,5 bedrooms,2021-08-06,,None,"€280,000",None,145 sq.feet
+25 Leeview ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€280,000",None,145 sq.feet
+78 Leslies Arch Old Quarter ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€440,000",None,145 sq.feet
+21 Berryfield Classes Lake ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€495,000",None,145 sq.feet
+Coolroe ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€380,000",None,145 sq.feet
+39 The Brambles Classes Lake ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€360,000",None,145 sq.feet
 "50 Old Courtgreenfieldsballincolligco Corkp31 Ck70
-                ",2 bathrooms,3 bedrooms,2021-07-28,,None,"€350,000",None,88 sq.feet
-50 Old Court Greenfields ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€350,000",None,88 sq.feet
+                ",4 bathrooms,5 bedrooms,2021-08-06,,None,"€350,000",None,145 sq.feet
+50 Old Court Greenfields ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€350,000",None,145 sq.feet
 "8 Millers Courtold Quarterballincolligco Corkp31 Ck83
-                ",2 bathrooms,3 bedrooms,2021-07-28,,None,"€345,000",None,88 sq.feet
-8 Millers Court Old Quarter ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€345,000",None,88 sq.feet
-79 Coopers Grange Old Quarter ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€345,000",None,88 sq.feet
-22 Beech Road Muskerry Estate Ballincollg ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€350,000",None,88 sq.feet
-36 Castlepark ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€225,000",None,88 sq.feet
-104 Caisleán Grove ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€279,000",None,88 sq.feet
-104 Caisleé N Grove ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€279,000",None,88 sq.feet
-14 The Avenue Highfield Park ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€325,000",None,88 sq.feet
-4 Leo Murphy Terrace ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€220,000",None,88 sq.feet
+                ",4 bathrooms,5 bedrooms,2021-08-06,,None,"€345,000",None,145 sq.feet
+22 Beech Road Muskerry Estate Ballincollg ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€350,000",None,145 sq.feet
+79 Coopers Grange Old Quarter ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€345,000",None,145 sq.feet
+8 Millers Court Old Quarter ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€345,000",None,145 sq.feet
+36 Limeworth ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€745,000",None,145 sq.feet
+104 Caisleé N Grove ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€279,000",None,145 sq.feet
+10 Aylsbury Avenue ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€420,000",None,145 sq.feet
+104 Caisleán Grove ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€279,000",None,145 sq.feet
+14 The Avenue Highfield Park ,4 bathrooms,5 bedrooms,2021-08-06,,None,"€325,000",None,145 sq.feet
+15 Glincool Grove ,4 bathrooms,5 bedrooms,2021-08-06,,None,Request Details,None,145 sq.feet
+4 Leo Murphy Terrace ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€220,000",None,3 bathrooms
 "14 The Avenue, Highfield Park, Ballincollig, Cork
-                ",2 bathrooms,3 bedrooms,2021-07-28,,None,"€325,000",None,88 sq.feet
-Vesna 57 Rosewood ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€395,000",None,88 sq.feet
-57 57a Rosewood ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€395,000",None,88 sq.feet
+                ",3 bedrooms,2 bedrooms,2021-08-06,,None,"€325,000",None,3 bathrooms
+57 57a Rosewood ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€395,000",None,3 bathrooms
+Vesna 57 Rosewood ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€395,000",None,3 bathrooms
 "4 Leo Murphy Terraceballincolligco Corkp31 Pd88
-                ",2 bathrooms,3 bedrooms,2021-07-28,,None,"€220,000",None,88 sq.feet
+                ",3 bedrooms,2 bedrooms,2021-08-06,,None,"€220,000",None,3 bathrooms
+"158 An Caislean View, P31py68
+                ",3 bedrooms,2 bedrooms,2021-08-06,,None,Request Details,None,3 bathrooms
+"95 An Caislean Grove, P31c422
+                ",3 bedrooms,2 bedrooms,2021-08-06,,None,Request Details,None,3 bathrooms
+"25 Highfield Park, ",3 bedrooms,2 bedrooms,2021-08-06,,None,Request Details,None,3 bathrooms
 "118 Castlepark, P31w899
-                ",2 bathrooms,3 bedrooms,2021-07-28,,None,"€210,000",None,88 sq.feet
-36 Westcourt Heights ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€345,000",None,88 sq.feet
-2 Glendower Court ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€315,000",None,88 sq.feet
-17 Coolroe Heights ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€295,000",None,88 sq.feet
-118 Castlepark ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€210,000",None,88 sq.feet
-12 The Stables Coolroe ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€380,000",None,88 sq.feet
+                ",3 bedrooms,2 bedrooms,2021-08-06,,None,"€210,000",None,3 bathrooms
+"Coolroe House, Coolroe, Ballincollig, Cork
+                ",3 bedrooms,2 bedrooms,2021-08-06,,None,Request Details,None,3 bathrooms
+Coolroe House Coolroe ,3 bedrooms,2 bedrooms,2021-08-06,,None,Request Details,None,3 bathrooms
+36 Westcourt Heights ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€345,000",None,3 bathrooms
+2 Glendower Court ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€315,000",None,3 bathrooms
+17 Coolroe Heights ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€295,000",None,3 bathrooms
+72 Old Court Greenfields ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€435,000",None,3 bathrooms
+72 Oldcourt Greenfield ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€435,000",None,3 bathrooms
+118 Castlepark ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€210,000",None,3 bathrooms
+12 The Stables Coolroe ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€380,000",None,3 bathrooms
 "92 Leslies Archold Quarterballincolligco Corkp31 Vp66
-                ",2 bathrooms,3 bedrooms,2021-07-28,,None,"€350,000",None,88 sq.feet
-Apartment 19 Newgrange An Caislean ,2 bathrooms,3 bedrooms,2021-07-28,,None,"€249,000",None,88 sq.feet
-46 Coopers Grange Old Quarter ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€335,000",None,3 bathrooms
-46 Coopers Grange Old Quarter ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€335,000",None,3 bathrooms
-48 The Willows Classes Lake ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€305,000",None,3 bathrooms
-48 The Willows Classes Lake ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€305,000",None,3 bathrooms
-8 Parknamore Heights ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€300,000",None,3 bathrooms
-22 Cranford Pines ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€320,000",None,3 bathrooms
-22 Cranford Pines ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€320,000",None,3 bathrooms
-The Cottage Coolroe ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€275,000",None,3 bathrooms
-11 Rosewood ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€320,000",None,3 bathrooms
-158 An Caislean View ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€265,000",None,3 bathrooms
-Clareemmlorr 57 Carriganarra Estate ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€285,000",None,3 bathrooms
-36 Coolroe Heights ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€260,000",None,3 bathrooms
-158 An Caislean View ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€265,000",None,3 bathrooms
-95 Caisleé N Grove ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€240,000",None,3 bathrooms
-Clareemmlorr 57 Carriganarra Estate ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€300,000",None,3 bathrooms
-95 An Caislean ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€240,000",None,3 bathrooms
-41 Millers Court Old Quarter ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€380,000",None,3 bathrooms
-98 Leslies Arch Old Quarter ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€350,000",None,3 bathrooms
-108 An Caislean ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€290,000",None,3 bathrooms
-Benamara 8 Wyndham Downs ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€385,000",None,3 bathrooms
-23 Leeview ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€280,000",None,3 bathrooms
-57 Church View ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€295,000",None,3 bathrooms
-63 The Cloisters ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€325,000",None,3 bathrooms
-Rozel 165 Beech Park ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€330,000",None,3 bathrooms
-20 Parknamore Rise ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€260,000",None,3 bathrooms
-10 Parknamore Rise ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€285,000",None,2 bathrooms
-Farran Ovens ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€325,000",None,2 bathrooms
-167 Rosewood ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€325,000",None,2 bathrooms
-203 Rosewood ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€240,000",None,2 bathrooms
-22 Glincool Gardens ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€295,000",None,2 bathrooms
-10 Parknamore Rise ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€285,000",None,2 bathrooms
-Innisfree 56 Maple Lawn ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€299,000",None,2 bathrooms
-48 Willow Grove Coolroe Heights ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€315,000",None,2 bathrooms
-48 The Close Coolroe Meadows ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€339,000",None,2 bathrooms
-69 Coopers Grange Old Quarter ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€330,000",None,2 bathrooms
-23 The Stables Coolroe ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€250,000",None,2 bathrooms
-45 Waltham Abbey Old Quarter ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€225,000",None,2 bathrooms
-20 Cranford Pines ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€280,000",None,2 bathrooms
-32 Aylsbury Downs ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€245,000",None,2 bathrooms
-32 Aylsbury Downs ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€245,000",None,2 bathrooms
-2 Leesdale Drive ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€255,000",None,2 bathrooms
-43 Beech Park ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€249,500",None,2 bathrooms
-114 Rosewood Est ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€285,000",None,2 bathrooms
-32 Coolroe Heights ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€295,000",None,2 bathrooms
-17 The Heathers Classes Lake ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€290,000",None,2 bathrooms
-12 Glincool Gardens ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€310,000",None,2 bathrooms
-9 Rosewood Estate ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€295,000",None,2 bathrooms
-118 An Caislean ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€280,000",None,2 bathrooms
-4 Willow Drive Muskerry Estate ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€295,000",None,2 bathrooms
-118 Caisleán Way ,4 bedrooms,3 bedrooms,2021-07-28,,None,"€280,000",None,2 bathrooms
-21 Glincool Gardens ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€310,000",None,1 bathroom
-37 Aisling Lawn ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€240,000",None,1 bathroom
-182 The Willows ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€275,000",None,1 bathroom
-182 The Willows Carrigalee ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€275,000",None,1 bathroom
-47 Churchview ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€260,000",None,1 bathroom
-Devair 47 Church View ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€260,000",None,1 bathroom
-Station Road ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€250,000",None,1 bathroom
-48 Beech Park ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€219,500",None,1 bathroom
-21 Church View Station Road ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€260,000",None,1 bathroom
-The Willows Lisheens ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€365,000",None,1 bathroom
-27 Barley Grove The Maltings ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€259,500",None,1 bathroom
-9 The Meadows West Village ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€255,000",None,1 bathroom
-24 An Caislean Close ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€259,000",None,1 bathroom
-18 The Brambles Classes Lake ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€385,000",None,1 bathroom
-21 Aylsbury ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€320,000",None,1 bathroom
-31 An Caislean Drive ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€249,500",None,1 bathroom
-Type E Heathfield Carriganarra ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€380,000",None,1 bathroom
+                ",3 bedrooms,2 bedrooms,2021-08-06,,None,"€350,000",None,3 bathrooms
+Apartment 19 Newgrange ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€249,000",None,3 bathrooms
+Apartment 19 Newgrange An Caislean ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€249,000",None,3 bathrooms
+46 Coopers Grange Old Quarter ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€335,000",None,3 bathrooms
+46 Coopers Grange Old Quarter ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€335,000",None,3 bathrooms
+11 The Avenue Coolroe Heights ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€475,000",None,3 bathrooms
+48 The Willows Classes Lake ,3 bedrooms,2 bedrooms,2021-08-06,,None,"€305,000",None,3 bathrooms
+48 The Willows Classes Lake ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€305,000",None,3 bedrooms
+8 Parknamore Heights ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€300,000",None,3 bedrooms
+22 Cranford Pines ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€320,000",None,3 bedrooms
+67 Coopers Grange Old Quarter ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€330,000",None,3 bedrooms
+22 Cranford Pines ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€320,000",None,3 bedrooms
+The Cottage Coolroe ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€275,000",None,3 bedrooms
+Clareemmlorr 57 Carriganarra Estate ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€285,000",None,3 bedrooms
+11 Rosewood ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€320,000",None,3 bedrooms
+158 An Caislean View ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€265,000",None,3 bedrooms
+Cliona Clash Road Carrigrohane ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€495,000",None,3 bedrooms
+158 An Caislean View ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€265,000",None,3 bedrooms
+Clareemmlorr 57 Carriganarra Estate ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€300,000",None,3 bedrooms
+98 Leslies Arch Old Quarter ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€350,000",None,3 bedrooms
+1 Limeworth ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€875,000",None,3 bedrooms
+95 Caisleé N Grove ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€240,000",None,3 bedrooms
+41 Millers Court Old Quarter ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€380,000",None,3 bedrooms
+7 Highfield Avenue Highfield Park ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,3 bedrooms
+Chapel Lane Ballinora Waterfall ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€490,000",None,3 bedrooms
+108 An Caislean ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€290,000",None,3 bedrooms
+Benamara 8 Wyndham Downs ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€385,000",None,3 bedrooms
+Rozel 165 Beech Park ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€330,000",None,3 bedrooms
+57 Church View ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,3 bedrooms
+11 The Close Coolroe Meadows ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€525,000",None,3 bedrooms
+23 Leeview ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€280,000",None,3 bedrooms
+63 The Cloisters ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€325,000",None,3 bedrooms
+203 Rosewood ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€240,000",None,3 bedrooms
+10 Parknamore Rise ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€285,000",None,3 bedrooms
+20 Parknamore Rise ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€260,000",None,3 bedrooms
+Farran Ovens ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€325,000",None,3 bedrooms
+167 Rosewood ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€325,000",None,3 bedrooms
+104 Old Court Greenfields ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€450,000",None,3 bedrooms
+22 Glincool Gardens ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,3 bedrooms
+10 Parknamore Rise ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€285,000",None,3 bedrooms
+Innisfree 56 Maple Lawn ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€299,000",None,3 bedrooms
+48 Willow Grove Coolroe Heights ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€315,000",None,3 bedrooms
+"57 The Lawn, Coolroe Meadows
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"16 Citi West Mews
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"193 An Caislean View
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"127 An Caislean
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"57 The Lawn, Coolroe Meadow
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"48 Beech Park, P31 Pc64
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+48 The Close Coolroe Meadows ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€339,000",None,3 bedrooms
+Fatima Poulavone ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€365,000",None,3 bedrooms
+199 The Willows ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€265,000",None,3 bedrooms
+69 Coopers Grange Old Quarter ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€330,000",None,3 bedrooms
+23 The Stables Coolroe ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€250,000",None,3 bedrooms
+43 Beech Park ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€249,500",None,3 bedrooms
+21 The Stables Coolroe ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€285,000",None,3 bedrooms
+20 Cranford Pines ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€280,000",None,3 bedrooms
+32 Aylsbury Downs ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€245,000",None,3 bedrooms
+35 Innishmore Grove ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€165,000",None,1 bathroom
+35 Innishmore Grove ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€165,000",None,1 bathroom
+32 Aylsbury Downs ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€245,000",None,1 bathroom
+2 Leesdale Drive ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€255,000",None,1 bathroom
+43 Beech Park ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€249,500",None,1 bathroom
+114 Rosewood Est ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€285,000",None,1 bathroom
+42 Woodberry Greenfields ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€595,000",None,1 bathroom
+32 Coolroe Heights ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€289,000",None,1 bathroom
+32 Coolroe Heights ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,1 bathroom
+17 The Heathers Classes Lake ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€290,000",None,1 bathroom
+9 Rosewood Estate ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,1 bathroom
+12 Glincool Gardens ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€310,000",None,1 bathroom
+118 An Caislean ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€280,000",None,1 bathroom
+118 Caisleán Way ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€280,000",None,1 bathroom
+21 Glincool Gardens ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€310,000",None,1 bathroom
+4 Willow Drive Muskerry Estate ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,1 bathroom
+37 Aisling Lawn ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€240,000",None,1 bathroom
+182 The Willows Carrigalee ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€275,000",None,1 bathroom
+12 Highfield Square ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€239,000",None,1 bathroom
+182 The Willows ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€275,000",None,1 bathroom
+Devair 47 Church View ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€260,000",None,1 bathroom
+27 Cranford Pines ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,1 bathroom
+Station Road ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€250,000",None,1 bathroom
+48 Beech Park ,3 bedrooms,3 bedrooms,2021-08-06,,None,"€219,500",None,1 bathroom
+"3 The Elms
+                ",3 bedrooms,3 bedrooms,2021-08-06,,None,Request Details,None,1 bathroom
+21 Church View Station Road ,1 bathroom,3 bedrooms,2021-08-06,,None,"€260,000",None,4 bedrooms
+Rowan House Carrigrohane ,1 bathroom,3 bedrooms,2021-08-06,,None,"€485,000",None,4 bedrooms
+The Willows Lisheens ,1 bathroom,3 bedrooms,2021-08-06,,None,"€365,000",None,4 bedrooms
+27 Barley Grove The Maltings ,1 bathroom,3 bedrooms,2021-08-06,,None,"€259,500",None,4 bedrooms
+9 The Meadows West Village ,1 bathroom,3 bedrooms,2021-08-06,,None,"€255,000",None,4 bedrooms
+24 An Caislean Close ,1 bathroom,3 bedrooms,2021-08-06,,None,"€259,000",None,4 bedrooms
+18 The Brambles Classes Lake ,1 bathroom,3 bedrooms,2021-08-06,,None,"€385,000",None,4 bedrooms
+21 Aylsbury ,1 bathroom,3 bedrooms,2021-08-06,,None,"€320,000",None,4 bedrooms
+Woodberry Greenfields ,1 bathroom,3 bedrooms,2021-08-06,,None,"€475,000",None,4 bedrooms
+31 An Caislean Drive ,1 bathroom,3 bedrooms,2021-08-06,,None,"€249,500",None,4 bedrooms
+Type E Heathfield Carriganarra ,1 bathroom,3 bedrooms,2021-08-06,,None,"€380,000",None,4 bedrooms
+"165 Eagle Valley
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"43 Beech Park, P31f102
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
 "Coolroe, Ballincollig, Co. Cork
-                ",3 bedrooms,3 bedrooms,2021-07-28,,None,"€380,000",None,1 bathroom
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€380,000",None,4 bedrooms
 "36 Castlepark, Ballincollig, Ballincollig, Cork
-                ",3 bedrooms,3 bedrooms,2021-07-28,,None,"€225,000",None,1 bathroom
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€225,000",None,4 bedrooms
+"Cuil Greine House, Link Road
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"22 Glincool Gardens, Glincool, P31 Ve06
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"Coolroe House, Coolroe, Ballincollig, Cork, P31 Ae14 Poa
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
 "17 Coolroe Heights, Ballincollig, Cork City
-                ",3 bedrooms,3 bedrooms,2021-07-28,,None,"€295,000",None,1 bathroom
-10 Glincool Gardens ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€310,000",None,1 bathroom
-24 The Stables Coolroe ,3 bedrooms,3 bedrooms,2021-07-28,,None,"€260,000",None,1 bathroom
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€295,000",None,4 bedrooms
+10 Glincool Gardens ,1 bathroom,3 bedrooms,2021-08-06,,None,"€310,000",None,4 bedrooms
+"The Meadow
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"19 Leesdale Drive
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"Bungalow At Coolroe
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"10 Glincool Rise
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"27 Glendower Court
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"22 Park Road, Muskerry Estate
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"15 Holly Road, Muskerry Estate
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"21 The Lawn, Coolroe Meadows
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"Office At Joyce House, Barrack Square
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"14 Whitethorn Avenue, Inniscarra View
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"30 Manor Hill
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"82 Leslie’s Arch, Old Quarter
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"191 The Willows
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"8 Maglin Circle
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"22 The Stable
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"80 The Lawn, Coolroe Meadows
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"2 Fernway, Classis Lake
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"21 Glincool Gardens
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"52a Willowfield
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"Unit 4, Exchange House
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"Bungalow At Carriganarra Road
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"Carriganarra Road
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"31 Manor Hill
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"38 Woodberry
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"17 An Caislean
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"15 Cranford Pines
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"9a Aylsbury Lawn
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"84 Beech Park
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"27 Barley Grove, The Maltings
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"1 Willow Drive, Muskerry Estate
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"138 An Caislean
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"10 Glincool Villas
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"25 Cranford Pines
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"Bell View, 28a Westcourt
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"1 Old Court Drive, P31n296
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"12 The Avenue, Highfield Park, P31tn52
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"12 Glincool Gardens, P31p924
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"26 Barley Grove, P31 Rk35
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+24 The Stables Coolroe ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€260,000",None,122 sq.feet
+East Gate House East Gate ,2 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,122 sq.feet
+"House To Rent In Cork, ",2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,500",None,122 sq.feet
+"Manor Hill, Ballincollig, Cork City, Co. Cork
+                ",2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,800",None,122 sq.feet
+Waltham Abbey Old Quarter ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,800",None,122 sq.feet
+Ros Nua Poulavone ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,892",None,122 sq.feet
+60 Millers Court Old Quarter ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€2,300",None,122 sq.feet
+26 Aylsbury ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,975",None,122 sq.feet
+The Cloisters ,2 bathrooms,4 bedrooms,2021-08-06,,None,€600,None,122 sq.feet
+118 Shamrock Drive Muskerry Estate ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,900",None,122 sq.feet
+11 Hazel Grove ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,400",None,122 sq.feet
+11 Manor Close Grange Manor ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,400",None,122 sq.feet
+18 The Stables Coolroe ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,405",None,122 sq.feet
+Castle Road ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€2,400",None,122 sq.feet
+42 Castlepark ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,600",None,122 sq.feet
+53a Willowfield ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€1,400",None,122 sq.feet
+3 Ros Nua Poulavone ,2 bathrooms,4 bedrooms,2021-08-06,,None,"€2,200",None,122 sq.feet
+Parknamore Heights ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€1,331",None,2 bedrooms
+35 The Close Coolroe Meadows ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€1,650",None,2 bedrooms
+84 Leslies Arch Old Quarter ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€2,200",None,2 bedrooms
+1 Heron S Way Fionn Laoi ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€1,425",None,2 bedrooms
+48 An Caisleã N Drive ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€1,400",None,2 bedrooms
+154 An Caislean ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€1,400",None,2 bedrooms
+Unit 2 Brompton House The Cloisters ,2 bedrooms,3 bedrooms,2021-08-06,,None,€850,None,2 bedrooms
+Unit 1 Avondale House Old Square ,2 bedrooms,3 bedrooms,2021-08-06,,None,€650,None,2 bedrooms
+Shop 1 Avondale House Old Square ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€1,000",None,2 bedrooms
+Shop 1 Avondale House Old Square ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€1,000",None,2 bedrooms
+Unit 4 Oldtown House ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€15,000",None,2 bedrooms
+Unit 3 Oldtown House ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€15,000",None,2 bedrooms
+95 An Caislean ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€240,000",None,2 bedrooms
+11 The Avenue Coolroe Heights ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€475,000",None,2 bedrooms
+36 Coolroe Heights ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€260,000",None,2 bedrooms
+47 Churchview ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€260,000",None,2 bedrooms
+36 Castlepark ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€225,000",None,2 bedrooms
+66 Fernwalk Greenfields ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€780,000",None,2 bedrooms
+15 Glincool Grove ,2 bedrooms,3 bedrooms,2021-08-06,,None,Request Details,None,2 bedrooms
+45 Waltham Abbey Old Quarter ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€225,000",None,2 bedrooms
+106 Millers Court Old Quarter ,2 bedrooms,3 bedrooms,2021-08-06,,None,"€640,000",None,2 bedrooms
+"Apartment 27 The Abbey The Oaks Ovens Co Cork
+                ",2 bedrooms,3 bedrooms,2021-08-06,,None,"€220,000",None,2 bedrooms
+3 Ros Nua Poulavone ,2 bedrooms,3 bedrooms,2021-08-06,,None,Request Details,None,2 bedrooms
+"14 Lisheen Woods Ovens Co Cork
+                ",2 bedrooms,3 bedrooms,2021-08-06,,None,"€450,000",None,2 bedrooms
+"1 An Mé³inéar Ballinagree Macroom Co Cork
+                ",2 bedrooms,3 bedrooms,2021-08-06,,None,"€275,000",None,2 bedrooms
+"Carrrigadrohid Village Macroom Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+84 Leslies Arch Old Quarter ,3 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+126 Caisleán Way ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€285,000",None,4 bedrooms
+"Fort Andrew Coolyduff Inniscarra Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€430,000",None,4 bedrooms
+"Grange Hill Ovens Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€375,000",None,4 bedrooms
+21 Berryfield Classes Lake ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€495,000",None,4 bedrooms
+Coolroe ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€380,000",None,4 bedrooms
+"Kilnaglory Ovens Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€595,000",None,4 bedrooms
+79 Coopers Grange Old Quarter ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€345,000",None,4 bedrooms
+104 An Caislean Grove ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€279,000",None,4 bedrooms
+"Tullig More Dripsey Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€320,000",None,4 bedrooms
+15 Glincool Grove Glincool ,3 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+"24 Bridgefield Grove Curraheen Road Bishopstown Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€345,000",None,4 bedrooms
+"24 Bridgefield Grove Curraheen Road Bishopstown Cork City
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€345,000",None,4 bedrooms
+"8 O Brien Place Dripsey Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€215,000",None,4 bedrooms
+"No 8 O Brien Place Model Village Dripsey Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€215,000",None,4 bedrooms
+"7 Oaklawn Bandon Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€270,000",None,4 bedrooms
+"30 Harbour Court Courtmacsherry Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€235,000",None,4 bedrooms
+"11 Lisheen Fields Ovens Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€465,000",None,4 bedrooms
+"11 Lisheen Fields Ovens Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€465,000",None,4 bedrooms
+"8 Beverly Ovens Co Cork
+                ",3 bathrooms,3 bedrooms,2021-08-06,,None,"€495,000",None,4 bedrooms
+Coolroe House Coolroe ,3 bathrooms,3 bedrooms,2021-08-06,,None,Request Details,None,4 bedrooms
+36 Westcourt Heights ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€345,000",None,4 bedrooms
+2 Glendower Court ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€315,000",None,4 bedrooms
+17 Coolroe Heights ,3 bathrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,4 bedrooms
+118 Castlepark ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€210,000",None,4 bedrooms
+"22 Beech Roadmuskerry Estateballincollgco Corkp31xy38
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€350,000",None,4 bedrooms
+"49 Lisheen Fields Ovens Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€420,000",None,4 bedrooms
+"49 Lisheen Fields Ovens Cork P31 X030
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€420,000",None,4 bedrooms
+"14 Lisheen Woods Ovens Cork P31hc91
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€450,000",None,4 bedrooms
+"20 Oak Avenue Classes Lake Ovens Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€300,000",None,4 bedrooms
+"Windsor Ovens Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€450,000",None,4 bedrooms
+67 Coopers Grange Old Quarter ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€330,000",None,4 bedrooms
+"Windsor Ovens Cork P31 Dn20
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€450,000",None,4 bedrooms
+36 Coolroe Heights ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€260,000",None,4 bedrooms
+8 Wyndham Downs ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€385,000",None,4 bedrooms
+95 An Caislean Grove ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€240,000",None,4 bedrooms
+"Beech Lodge Model Farm Road Cork City Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€245,000",None,4 bedrooms
+"Renaniree Macroom Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€278,000",None,4 bedrooms
+"64 Seanabothair Killeens Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€345,000",None,4 bedrooms
+"11 Kyle Street Cork City Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€220,000",None,4 bedrooms
+"20 Drom Slí Blarney Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€395,000",None,4 bedrooms
+165 Beech Park ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€330,000",None,4 bedrooms
+56 Maple Lawn Muskerry Estate ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€299,000",None,4 bedrooms
+22 Glincool Gardens ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€295,000",None,4 bedrooms
+"Westwinds Faha Dripsey Co Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€500,000",None,4 bedrooms
+"4 Ashley Gardens Knockanemore Ovens Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€450,000",None,4 bedrooms
+"Renanirree Macroom Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€290,000",None,4 bedrooms
+"13 Melbourne Court T12x75e Model Farm Road Cork
+                ",2 bathrooms,3 bedrooms,2021-08-06,,None,"€280,000",None,4 bedrooms
+203 Rosewood ,2 bathrooms,3 bedrooms,2021-08-06,,None,"€240,000",None,4 bedrooms
+20 Parknamore Rise ,1 bathroom,3 bedrooms,2021-08-06,,None,"€260,000",None,92 sq.feet
+"Millboro House, Lee Road, Cork City, Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€1,100,000",None,92 sq.feet
+"16 The Elm, Classes
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,92 sq.feet
+"4 Ashley Gardens Knockanemore Ovens Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€450,000",None,92 sq.feet
+"Woodside Gurteen Inniscarra Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€395,000",None,92 sq.feet
+"10 Westway, Grange Manor, P31xw88
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,92 sq.feet
+Fatima Poulavone ,1 bathroom,3 bedrooms,2021-08-06,,None,"€365,000",None,92 sq.feet
+"The Hawthorn 4 Bed Detached Clonlara Kerry Pike Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,92 sq.feet
+"Lios Árda Minister S Cross Model Farm Road Cork City Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€390,000",None,92 sq.feet
+"19 Wilton Gardens, Wilton, Cork City
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€630,000",None,92 sq.feet
+"Dysart Dripsey Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,92 sq.feet
+69 Coopers Grange Old Quarter ,1 bathroom,3 bedrooms,2021-08-06,,None,"€330,000",None,92 sq.feet
+22 Rosewood ,1 bathroom,3 bedrooms,2021-08-06,,None,"€320,000",None,92 sq.feet
+"3 Dysart Woods Dripsey Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€195,000",None,92 sq.feet
+"15 The Brambles Classes Lake Ovens Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€340,000",None,92 sq.feet
+"4 Gleann Daire Lyre Banteer Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€175,000",None,92 sq.feet
+"15 The Brambles Classes Lake Ovens Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€340,000",None,92 sq.feet
+"Ardrum View Cloghroe Blarney Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€350,000",None,92 sq.feet
+"Ardrum View Blarney Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€350,000",None,92 sq.feet
+"3 Rose Hill Kilnamartyra Macroom Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€250,000",None,92 sq.feet
+"Killumney Ovens Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€525,000",None,92 sq.feet
+"Rossagh West Doneraile Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€315,000",None,92 sq.feet
+"Grange Hill Ovens Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€395,000",None,92 sq.feet
+"Carrigathou Coachford Macroom Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€440,000",None,92 sq.feet
+"Coolroe More Lyre Banteer Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€195,000",None,92 sq.feet
+"37 Primrose Hill Tower Blarney Cork
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€340,000",None,5 bedrooms
+"4 The Stables,ballincollig,co Cork,p31 K658
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€445,000",None,5 bedrooms
+"Woodbine Cottage, Clashanimud, Innishannon, Cork, T12 Ek2c €275,000
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€275,000",None,5 bedrooms
+"Fort Andrew, Coolyduff,, Inniscarra, Cork, P31 Kd54 €430,000
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€430,000",None,5 bedrooms
+"Fort Andrew, Coolyduff,, Inniscarra, Cork
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€430,000",None,5 bedrooms
+"Woodbine Cottage, Clashanimud, Innishannon, Cork
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€275,000",None,5 bedrooms
+"78 Leslies Arch,old Quarter,ballincollig,co Cork,p31 N603
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€440,000",None,5 bedrooms
+"9 Highfield Crescent,ballincollig,co Cork,p31d950
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€370,000",None,5 bedrooms
+"25 Leeview,ballincollig,co Cork,p31 T934
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€280,000",None,5 bedrooms
+"50 Old Court,greenfields,ballincollig,co Cork,p31 Ck70
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€350,000",None,5 bedrooms
+"Coolroe, Ballincollig, Co. Cork, P31xd76 €380,000
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€380,000",None,5 bedrooms
+"5 Oaklee,carrigrohane,co Cork,t12 Prf9
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€730,000",None,5 bedrooms
+"14 The Avenue, Highfield Park, Ballincollig, Cork, P31kv60 €325,000
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€325,000",None,5 bedrooms
+"5 Oakleecarrigrohaneco Corkt12 Prf9
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€730,000",None,5 bedrooms
+"36 Castlepark, Ballincollig, Ballincollig, Cork, P31 Ek61 €225,000
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€225,000",None,5 bedrooms
+"Lilly Bank,model Farm Road,cork,t12 Pw7p
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€380,000",None,5 bedrooms
+"Lilly Bankmodel Farm Roadcorkt12 Pw7p
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€380,000",None,5 bedrooms
+"Cephai, Ballygroman Upper, P31ah10
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€699,500",None,5 bedrooms
+"66 Fernwalk,greenfields,ballincollig,co Cork,p31 Pr94
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€780,000",None,5 bedrooms
+"15 Ryecourt Manor,cloughduv,co Cork,p14 Ae98
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€270,000",None,5 bedrooms
+"Clontead More, Coachford, Cork, P12kx29 €450,000
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,"€450,000",None,5 bedrooms
+"18 Manor Lawn, Grange Manor
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,5 bedrooms
+"24 Fernway, Classes Lake
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,5 bedrooms
+"Site For Sale, Cleburne
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,5 bedrooms
+"20 An Fana, Cul Ard
+                ",3 bathrooms,4 bedrooms,2021-08-06,,None,Request Details,None,5 bedrooms
+"5 Manor Drive, Grange Manor
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"Grange Manor
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"22 Fernway, Classes Lake
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"Sites For Sale Cleburne
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"“kesgan”, Ballyshoneen
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"27 Westway, Grange Manor
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"“lakeview”, P14d582
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,Request Details,None,3 bedrooms
+"Lizlee, Model Farm Road, Cork, T12h5wn
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€460,000",None,3 bedrooms
+"36 Limeworth, Ballincollig, Co Cork, P31 Px06
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€745,000",None,3 bedrooms
+"Aisling, Currahaly, Farnanes, Cork, P14 Xy49 €445,000
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€445,000",None,3 bedrooms
+"Aisling, Currahaly, Farnanes, Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€445,000",None,3 bedrooms
+"36 Limeworth, Ballincollig, Co Cork, P31 Px06 €745,000
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€745,000",None,3 bedrooms
+"3 Bedrooms 3 Double, 2 Bathrooms, Furnished House To Rent
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€1,800",None,3 bedrooms
+"2 Bedrooms 2 Double, 1 Bathroom, Furnished House To Rent
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€1,500",None,3 bedrooms
+4 Station Road ,1 bathroom,3 bedrooms,2021-08-06,,None,"€1,500",None,3 bedrooms
+The Crescent Old Quarter ,1 bathroom,3 bedrooms,2021-08-06,,None,"€1,400",None,3 bedrooms
+Leslie S Arch Old Quarter ,1 bathroom,3 bedrooms,2021-08-06,,None,"€1,362",None,3 bedrooms
+Apartment 16 The Old Quarry ,1 bathroom,3 bedrooms,2021-08-06,,None,"€1,350",None,3 bedrooms
+93 Cloisters ,1 bathroom,3 bedrooms,2021-08-06,,None,"€1,500",None,3 bedrooms
+22 Manor Hill ,1 bathroom,3 bedrooms,2021-08-06,,None,"€1,426",None,3 bedrooms
+12 Highfield Crescent ,1 bathroom,3 bedrooms,2021-08-06,,None,"€1,650",None,3 bedrooms
+Unit 2 Brompton House The Cloisters ,1 bathroom,3 bedrooms,2021-08-06,,None,€850,None,3 bedrooms
+"Lismahane Dripsey Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€1,200",None,3 bedrooms
+"Model Farm Road Carrigrohane Side Cork City Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€2,000",None,3 bedrooms
+"Coolroe Meadows Cork City Co Cork
+                ",1 bathroom,3 bedrooms,2021-08-06,,None,"€2,000",None,3 bedrooms
+"Tigin Sona Inniscarra Cork City Co Cork
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,€950,None,3 bedrooms
+"Eagle Valley Cork City Co Cork
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€1,560",None,3 bedrooms
+"Clean, Comfortable And Quiet Home
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,€500,None,3 bedrooms
+Castle Lodge Castle Road ,4 bedrooms,1 bedroom,2021-08-06,,None,"€2,400",None,3 bedrooms
+"The Groom House Knockanemore Ovens Co Cork
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€1,000",None,3 bedrooms
+"8 The Sycamores Classes Lake Ovens Co Cork
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€1,600",None,3 bedrooms
+"Room Available Monday To Friday
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,Request Details,None,3 bedrooms
+Unit 1 Avondale House Old Square ,4 bedrooms,1 bedroom,2021-08-06,,None,€575,None,3 bedrooms
+Unit 2 Exchange House ,4 bedrooms,1 bedroom,2021-08-06,,None,"€20,000",None,3 bedrooms
+"6 Elm Mews Classes Lake Ovens Cork
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€1,500",None,3 bedrooms
+"25 Leeview,ballincollig,co Cork,p31 T934, P31 T934 €280,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€280,000",None,3 bedrooms
+"9 Highfield Crescent,ballincollig,co Cork,p31d950, P31d950 €370,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€370,000",None,3 bedrooms
+"78 Leslies Arch,old Quarter,ballincollig,co Cork,p31 N603, P31 N603 €440,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€440,000",None,3 bedrooms
+"50 Old Court,greenfields,ballincollig,co Cork,p31 Ck70, P31 Ck70 €350,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€350,000",None,3 bedrooms
+"5 Oaklee,carrigrohane,co Cork,t12 Prf9, T12 Prf9 €730,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€730,000",None,3 bedrooms
+"Lilly Bank,model Farm Road,cork,t12 Pw7p, T12 Pw7p €380,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€380,000",None,3 bedrooms
+"15 Ryecourt Manor,cloughduv,co Cork,p14 Ae98, P14 Ae98 €270,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€270,000",None,3 bedrooms
+"17 Coolroe Heights, Ballincollig, Cork City, P31 P023 €295,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€295,000",None,3 bedrooms
+"66 Fernwalk,greenfields,ballincollig,co Cork,p31 Pr94, P31 Pr94 €780,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€780,000",None,3 bedrooms
+"Millboro House, Lee Road, Cork City, Cork €1,100,000
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€1,100,000",None,3 bedrooms
+"Inchirahilly
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,Request Details,None,3 bedrooms
+"Inniscarra Road, Inniscarra, Co. Cork
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€1,500",None,3 bedrooms
+"House To Rent In Cork, Ballincollig, Greenfield
+                ",4 bedrooms,1 bedroom,2021-08-06,,None,"€1,736",None,3 bedrooms

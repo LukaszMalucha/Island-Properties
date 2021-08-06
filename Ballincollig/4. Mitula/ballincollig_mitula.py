@@ -24,12 +24,17 @@ dataset = dataset.drop(["link", "popularity", "property_type", "size"], axis=1)
 
 dataset["price"] = dataset["price"].str.replace(",", "").str.replace("\€", "")
 
+dataset = dataset[dataset["price"] != "Request Details"]
 
+dataset["price"] = dataset["price"].astype(int)
 
-
+dataset = dataset[dataset["price"] > 100000]
 
 dataset["area"] = ""
 
+dataset["address"] = dataset["address"].str.replace("carrigrohane", "Carrigrohane")
+dataset["address"] = dataset["address"].str.replace("carrigrohane", "Carrigrohane")
+dataset["address"] = dataset["address"].str.title()
 
 dataset["area"] = np.where(dataset["address"].str.contains("Coopers"), "Old Quarter",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Caislean"), "An Caislean",  dataset["area"] )
@@ -133,7 +138,13 @@ dataset["area"] = np.where(dataset["address"].str.contains("Beech Park"), "Beech
 dataset["area"] = np.where(dataset["address"].str.contains("Maple Lawn"), "Muskerry Estate",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Aisling Lawn"), "Beech Park",  dataset["area"] )
 dataset["area"] = np.where(dataset["address"].str.contains("Station Road"), "Town Center",  dataset["area"] )
-
+dataset["area"] = np.where(dataset["address"].str.contains("Caisleé¡n Way"), "An Caislean",  dataset["area"] )
+dataset["area"] = np.where(dataset["address"].str.contains("Limeworth"), "Maglin",  dataset["area"] )
+dataset["area"] = np.where(dataset["address"].str.contains("Newgrange"), "An Caislean",  dataset["area"] )
+dataset["area"] = np.where(dataset["address"].str.contains("Carrigrohane"), "Carrigrohane",  dataset["area"] )
+dataset["area"] = np.where(dataset["address"].str.contains("The Stables"), "Coolroe",  dataset["area"] )
+dataset["area"] = np.where(dataset["address"].str.contains("Greenfields"), "Greenfields",  dataset["area"] )
+dataset["area"] = np.where(dataset["address"].str.contains("Greenfield Road"), "Greenfield",  dataset["area"] )
 
 dataset["area"] = dataset["area"].str.strip()
 
@@ -142,9 +153,10 @@ dataset["geocode"] = ""
 
 
 
-dataset["geocode"] = np.where(dataset["area"] == "Maglin", "51.88128516801954, -8.59394691502851",  dataset["geocode"] )
+
+dataset["geocode"] = np.where(dataset["area"] == "Maglin", "51.88135112776452, -8.59523805920491",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "Classis Lake", "51.88586099008718, -8.62822296864587",  dataset["geocode"] )
-dataset["geocode"] = np.where(dataset["area"] == "Old Quarter", "51.89114003596089, -8.59633561033392",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Old Quarter", "51.89008441064981, -8.590014945710507",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "The Cloisters", "51.88453436126935, -8.578140286193113",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.886701875920906, -8.606268807280973",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "The Maltings", "51.88503727921537, -8.591352822622822",  dataset["geocode"] )
@@ -218,6 +230,8 @@ dataset["geocode"] = np.where(dataset["area"] == "Carrigrohane", "51.89118108080
 dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.88675485217772, -8.606397553304374",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "West Village", "51.88675485217772, -8.606397553304374",  dataset["geocode"] )
 dataset["geocode"] = np.where(dataset["area"] == "Castlepark", "51.88653927567583, -8.585310716875346",  dataset["geocode"] )
+dataset["geocode"] = np.where(dataset["area"] == "Curraheen", "51.882248292743405, -8.580831334628854",  dataset["geocode"] )
+
 
 
 dataset["area"] = dataset["area"].str.strip()
@@ -234,6 +248,24 @@ dataset = dataset[dataset["area"] != "Kerry Pike"]
 dataset = dataset[dataset["area"] != "Aherla"]
 dataset = dataset[~dataset["address"].str.contains("Grange Hill")]
 dataset = dataset[dataset["area"] != "Model Farm Road"]
+dataset = dataset[~dataset["address"].str.contains("Macroom")]
+dataset = dataset[~dataset["address"].str.contains("Dripsey")]
+dataset = dataset[~dataset["address"].str.contains("Bishopstown")]
+dataset = dataset[~dataset["address"].str.contains("Bandon")]
+dataset = dataset[~dataset["address"].str.contains("Courtmacsherry")]
+dataset = dataset[~dataset["address"].str.contains("ballincollgco")]
+dataset = dataset[~dataset["address"].str.contains("Killeens")]
+dataset = dataset[~dataset["address"].str.contains("Cork City")]
+dataset = dataset[~dataset["address"].str.contains("Blarney")]
+dataset = dataset[~dataset["address"].str.contains("Cloughduv")]
+dataset = dataset[~dataset["address"].str.contains("Lyre")]
+dataset = dataset[~dataset["address"].str.contains("Doneraile")]
+dataset = dataset[~dataset["address"].str.contains("Innishannon")]
+dataset = dataset[~dataset["address"].str.contains("Oakleecarrigrohaneco")]
+dataset = dataset[~dataset["address"].str.contains("Cork, P")]
+dataset = dataset[~dataset["address"].str.contains("Farm Road")]
+dataset = dataset[~dataset["address"].str.contains("Ballygroman")]
+dataset = dataset[~dataset["address"].str.contains("Farnanes")]
 
 
 dataset["lat"] = dataset["geocode"].str.split(", ").str[0]

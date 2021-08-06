@@ -56,14 +56,14 @@ class MitulaSpider(scrapy.Spider):
 
 
         links = []
-        for page in urls:
+        for page in range(1,16):
             agent = user_agent_rotator.get_random_user_agent()
             options.add_argument(f"user-agent={agent}")
             self.driver = webdriver.Chrome(str(Path(Path.cwd(), "chromedriver.exe")), chrome_options=options)
             self.driver.set_window_size(randrange(1100, 1200), randrange(800, 900))
-            self.driver.get(page)
+
+            self.driver.get(f"https://homes.mitula.ie/houses-ballincollig/{page}")
             sleep(2)
-            self.driver.get(page)
             body = self.driver.find_element_by_css_selector('body')
             sleep(1)
             body.send_keys(Keys.END)

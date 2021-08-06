@@ -25,7 +25,7 @@ dataset["address_number"] = dataset["address_number"].str.strip()
 dataset["address_number"] = dataset["address_number"].str.replace(",", "")
 
 
-
+dataset["address_area_1"] = dataset["address_area_1"].str.replace("Windham", "Wyndham")
 
 
 
