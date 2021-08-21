@@ -16,6 +16,7 @@ class HouseItem(scrapy.Item):
     address_area_2 = scrapy.Field() 
     property_type = scrapy.Field()
     price = scrapy.Field() 
+    county = scrapy.Field()
 
 class BallincolligItem(scrapy.Item):
 
@@ -28,3 +29,4 @@ class BallincolligItem(scrapy.Item):
     popularity = scrapy.Field()
     date = scrapy.Field()
     size = scrapy.Field()
+    
