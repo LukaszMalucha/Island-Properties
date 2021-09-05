@@ -1,0 +1,604 @@
+date,address,county,price,description,size,locality_string,locality
+2010-01-21,"40 Lisheen Fields, Ovens, Cork",Cork,257929,new,125-1000 m2,Cork,Ovens
+2010-02-02,"32 The Brambles, Classes Lake, Ovens",Cork,254250,second-hand,1-38 m2,Ovens,Ovens
+2010-03-16,"21 Manor Grove, Grange Manor, Ovens",Cork,320000,new,125-1000 m2,Ovens,Ovens
+2010-03-31,"37 Lisheen Fields, Ovens",Cork,340000,new,125-1000 m2,Ovens,Ovens
+2010-04-16,"22  Manor Grove, Grange Manor, Ovens",Cork,325000,new,125-1000 m2,Ovens,Ovens
+2010-05-11,"Castleinch, Ovens",Cork,205000,second-hand,1-38 m2,Ovens,Ovens
+2010-05-13,"1 Elms Mews, Classes Lake, Ovens",Cork,240000,new,38-125 m2,Ovens,Ovens
+2010-05-20,"44  Lisheen Fields, Ovens",Cork,372246,new,125-1000 m2,Ovens,Ovens
+2010-05-27,"No 6 Lisheen Fields, Ovens",Cork,330000,new,125-1000 m2,Ovens,Ovens
+2010-06-16,"Laoire, Ballygroman Upper, Ovens",Cork,490000,second-hand,1-38 m2,Ovens,Ovens
+2010-06-17,"4 Grange Road, Grange Manor, Ovens",Cork,541850,new,125-1000 m2,Ovens,Ovens
+2010-06-17,"7  The Abbey, Bridewood  Ovens, Cork",Cork,145374,new,38-125 m2,Cork,Ovens
+2010-06-21,"5  Berryfields, Classes Lake, Ovens",Cork,285000,second-hand,1-38 m2,Ovens,Ovens
+2010-06-22,"24 The Sycamores, Classes Lake, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2010-07-14,"47 The Meadows, Classes Lake, Ovens",Cork,362500,second-hand,1-38 m2,Ovens,Ovens
+2010-07-23,"52 The Sycamores, Classes Lake, Ovens",Cork,227500,second-hand,1-38 m2,Ovens,Ovens
+2010-07-27,"48 Fernway, Bridewood  Classes Lake, Ovens",Cork,216500,second-hand,1-38 m2,Ovens,Ovens
+2010-07-28,"50 The Willows, Classes Lake, Ovens",Cork,223000,second-hand,1-38 m2,Ovens,Ovens
+2010-08-06,"No 8 The Abbey, Bridewood, Classis Lake  Ovens",Cork,136563,new,38-125 m2,Classis Lake  Ovens,Ovens
+2010-08-11,"Begleys Forge Cross, Knockatriane, Ovens",Cork,168000,second-hand,1-38 m2,Ovens,Ovens
+2010-08-12,"38 The Sycamores, Classes Lake, Ovens",Cork,117500,second-hand,1-38 m2,Ovens,Ovens
+2010-08-13,"13 Berryfield, Classes Lake, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2010-08-16,"Curraghbeg, Ovens",Cork,250000,second-hand,1-38 m2,Ovens,Ovens
+2010-08-19,"Apt 20  The Abbey, Classes Lake, Ovens",Cork,136563,new,38-125 m2,Ovens,Ovens
+2010-08-31,"41 The Willows, Classes Lake, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2010-09-03,"7  Lisheen Fields, Ovens",Cork,302643,new,125-1000 m2,Ovens,Ovens
+2010-09-07,"9 Oak Drive, Bridewood, Ovens",Cork,235000,second-hand,1-38 m2,Ovens,Ovens
+2010-09-15,"20 Westway, Grange Manor, Ovens",Cork,223000,second-hand,1-38 m2,Ovens,Ovens
+2010-09-29,"Apartment 19 The Abbey, Classes Lake  Bridewood, Ovens",Cork,138766,new,38-125 m2,Ovens,Ovens
+2010-10-18,"24 Chestnut Grove, Classes Lake, Ovens",Cork,125000,second-hand,1-38 m2,Ovens,Ovens
+2010-11-30,"41 The Sycamores, Classes Lake, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2010-12-01,"8  Lisheen Fields, Ovens, Co.Cork",Cork,309030,new,125-1000 m2,Co.Cork,Ovens
+2010-12-06,"20 Manor Green, Grange Manor, Ovens",Cork,257500,second-hand,1-38 m2,Ovens,Ovens
+2010-12-13,"34 Lisheen Fields, Ovens",Cork,306167,new,125-1000 m2,Ovens,Ovens
+2011-01-12,"13 The Circle, Grange Manor, Ovens",Cork,197000,second-hand,1-38 m2,Ovens,Ovens
+2011-02-21,"Grange, Ovens",Cork,185000,second-hand,1-38 m2,Ovens,Ovens
+2011-03-10,"16 Elm Mews, Bridewood, Classes Lake  Ovens  Cork.",Cork,215500,second-hand,1-38 m2,Classes Lake  Ovens  Cork.,Ovens
+2011-04-01,"33 Lisheen Fields, Ovens",Cork,300440,new,125-1000 m2,Ovens,Ovens
+2011-04-01,"5 Manor Close, Grange Manor, Grange  Ovens",Cork,198000,second-hand,1-38 m2,Grange  Ovens,Ovens
+2011-04-14,"No. 9 The Valley View, Grange Manor, Grange  Ovens",Cork,339779,new,125-1000 m2,Grange  Ovens,Ovens
+2011-04-20,"11 Lisheen Fields, Ovens, Co. Cork",Cork,333000,new,125-1000 m2,Co. Cork,Ovens
+2011-04-21,"39 Lisheen Fields, Ovens",Cork,305000,second-hand,1-38 m2,Ovens,Ovens
+2011-04-21,"4 Valley View, Grange Manor, Ovens",Cork,348017,new,125-1000 m2,Ovens,Ovens
+2011-05-27,"24 The Abbey, Classes Lake, Ovens",Cork,195000,new,38-125 m2,Ovens,Ovens
+2011-05-27,"Grange Cottage, Grange Cross, Ovens",Cork,39600,second-hand,1-38 m2,Ovens,Ovens
+2011-05-28,"Castleinch, Ovens",Cork,445000,second-hand,1-38 m2,Ovens,Ovens
+2011-06-02,"40 The Willows, Classes Lake, Ovens",Cork,190000,second-hand,1-38 m2,Ovens,Ovens
+2011-06-03,"34 The Abbey, Classis Lake, Ovens",Cork,220265,new,38-125 m2,Ovens,Ovens
+2011-06-14,"65 Lisheen Fields, Ovens",Cork,271486,new,125-1000 m2,Ovens,Ovens
+2011-07-21,"22 The Heathers, Classes Lake  Ovens",Cork,187000,second-hand,1-38 m2,Classes Lake  Ovens,Ovens
+2011-08-16,"2 Ashleigh Gardens, Ovens",Cork,460000,second-hand,1-38 m2,Ovens,Ovens
+2011-08-18,"26 The Abbey, Classes Lake, Ovens",Cork,90000,second-hand,1-38 m2,Ovens,Ovens
+2011-08-18,"8 The Avenue, Bridewood, Ovens",Cork,370000,second-hand,1-38 m2,Ovens,Ovens
+2011-09-02,"18 The Abbey, Classes Lake, Ovens",Cork,135682,new,38-125 m2,Ovens,Ovens
+2011-09-05,"21 The Heathers, Classes Lake, Ovens",Cork,165000,second-hand,1-38 m2,Ovens,Ovens
+2011-09-08,"15 Valley View, Grange Manor, Ovens",Cork,320000,second-hand,1-38 m2,Ovens,Ovens
+2011-09-16,"15  Berryfield, Classes Lake, Ovens",Cork,260000,second-hand,1-38 m2,Ovens,Ovens
+2011-09-23,"64 Lisheen Fields, Ovens",Cork,259911,new,38-125 m2,Ovens,Ovens
+2011-10-05,"5 Chestnut Crescent, Classes Lake, Ovens",Cork,330000,second-hand,1-38 m2,Ovens,Ovens
+2011-11-10,"14 Elm Mews, Classes Lake, Ovens",Cork,172000,new,1-38 m2,Ovens,Ovens
+2011-11-29,"63 Lisheen Fields, Ovens",Cork,250850,new,125-1000 m2,Ovens,Ovens
+2011-12-01,"84 Fern Walk, Greenfields, Killumney Road  Ovens",Cork,395000,second-hand,1-38 m2,Killumney Road  Ovens,Ovens
+2011-12-05,"11 Beverly, Grange, Ovens",Cork,332400,second-hand,1-38 m2,Ovens,Ovens
+2011-12-05,"Grange Lodge, Grange, Ovens",Cork,60000,second-hand,1-38 m2,Ovens,Ovens
+2011-12-15,"13 Elm Mews, Classes Lake, Ovens",Cork,30000,second-hand,1-38 m2,Ovens,Ovens
+2011-12-15,"5 Valley View, Grange Manor, Ovens",Cork,365638,new,125-1000 m2,Ovens,Ovens
+2011-12-15,"8 Oak Avenue, Bridewood, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2011-12-19,"Kilbane, Ovens, Co Cork",Cork,248000,second-hand,1-38 m2,Co Cork,Ovens
+2012-01-20,"17 Oak Avenue, Classes Lake, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2012-02-22,"Lower Farran, Ovens, Co. Cork",Cork,215000,new,38-125 m2,Co. Cork,Ovens
+2012-02-27,"21 The Willows, Classes Lake, Ovens",Cork,145000,second-hand,1-38 m2,Ovens,Ovens
+2012-03-05,"Classis, Ovens, Cork",Cork,210000,second-hand,1-38 m2,Cork,Ovens
+2012-03-08,"8 Classes Lake Retail Centre, Ovens",Cork,96916,new,38-125 m2,Ovens,Ovens
+2012-03-08,"9 And 10 Classes Lake Retail Centre, Ovens",Cork,193832,new,38-125 m2,Ovens,Ovens
+2012-03-14,"18 Chestnut Grove, Classes Lake, Ovens",Cork,250000,second-hand,1-38 m2,Ovens,Ovens
+2012-03-15,"30 Berryfield, Classes Lake, Ovens",Cork,265000,second-hand,1-38 m2,Ovens,Ovens
+2012-04-02,"15 Oak Avenue, Bridewood, Ovens",Cork,340000,second-hand,1-38 m2,Ovens,Ovens
+2012-04-26,"32 Lisheen Fields, Ballincollig, Ovens",Cork,222907,new,125-1000 m2,Ovens,Ovens
+2012-04-30,"60 Lisheen Fields, Ovens, Co Cork",Cork,285000,new,38-125 m2,Co Cork,Ovens
+2012-05-14,"61 Lisheen Fields, Ovens",Cork,242290,new,125-1000 m2,Ovens,Ovens
+2012-05-16,"35 Lisheen Fields, Ovens",Cork,219383,new,125-1000 m2,Ovens,Ovens
+2012-06-01,"No. 9 Lisheen Fields, Ovens, County Cork",Cork,260000,new,38-125 m2,County Cork,Ovens
+2012-06-13,"36  Lisheen Fields, Ovens",Cork,243832,new,38-125 m2,Ovens,Ovens
+2012-06-29,"Melrose, Kilumney Road, Ovens",Cork,545000,second-hand,1-38 m2,Ovens,Ovens
+2012-07-12,"37 The Willows, Classes Lake, Ovens",Cork,172000,second-hand,1-38 m2,Ovens,Ovens
+2012-07-25,"Cios Fiadh, Knockanemore, Ovens",Cork,380000,second-hand,1-38 m2,Ovens,Ovens
+2012-07-27,"Slatterys Cottage, Killumney, Ovens",Cork,40000,second-hand,1-38 m2,Ovens,Ovens
+2012-08-23,"Windsor, Ovens, Co Cork",Cork,277500,second-hand,1-38 m2,Co Cork,Ovens
+2012-09-06,"16 Chestnut Grove, Classes Lake, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2012-10-11,"17 Mossgrove, Classes Lake, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2012-10-13,"15 Grange Way, Grange Manor, Ovens",Cork,160000,second-hand,1-38 m2,Ovens,Ovens
+2012-10-17,"45 Lisheen Fields, Ovens",Cork,285000,new,125-1000 m2,Ovens,Ovens
+2012-10-17,"Ballygroman, Ovens",Cork,235000,second-hand,1-38 m2,Ovens,Ovens
+2012-10-30,"10 Lisheen Fields, Ovens",Cork,209692,new,38-125 m2,Ovens,Ovens
+2012-11-07,"44 Fernway, Bridewood  Ovens",Cork,107000,second-hand,1-38 m2,Bridewood  Ovens,Ovens
+2012-11-14,"Apsley House, Killumney, Ovens",Cork,385000,second-hand,1-38 m2,Ovens,Ovens
+2012-11-16,"9 Kilumney, Ovens, County Cork",Cork,289500,second-hand,1-38 m2,County Cork,Ovens
+2012-11-16,"Grange, Ovens",Cork,272500,second-hand,1-38 m2,Ovens,Ovens
+2012-11-21,"19  The Brambles, Classes Lake, Ovens",Cork,217500,second-hand,1-38 m2,Ovens,Ovens
+2012-11-27,"3 The Willows, Classes Lake, Ovens",Cork,164000,second-hand,1-38 m2,Ovens,Ovens
+2012-12-06,"12  Lisheen Fields, Ovens",Cork,237885,new,125-1000 m2,Ovens,Ovens
+2012-12-07,"32  The Meadows, Classes Lake, Ovens",Cork,315000,second-hand,1-38 m2,Ovens,Ovens
+2012-12-10,"Abbeylodge, Kilcrea, Ovens",Cork,205000,second-hand,1-38 m2,Ovens,Ovens
+2012-12-19,"46 Lisheen Fields, Ovens",Cork,235683,new,38-125 m2,Ovens,Ovens
+2012-12-19,"Apartment 4, The Lodge, Classes Lake  Ovens",Cork,130000,second-hand,1-38 m2,Classes Lake  Ovens,Ovens
+2012-12-21,"13 Lisheen Fields, Ovens",Cork,275000,new,125-1000 m2,Ovens,Ovens
+2012-12-21,"47 Lisheen Fields, Classes Lake, Ovens",Cork,259000,second-hand,1-38 m2,Ovens,Ovens
+2013-01-03,"54 Chestnut Mews, Classes Lake, Ovens",Cork,374760,second-hand,1-38 m2,Ovens,Ovens
+2013-01-29,"15 Grange Glen, Grange Manor, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2013-02-01,"7 Manor Lane, Grange Manor, Ovens",Cork,152500,second-hand,1-38 m2,Ovens,Ovens
+2013-02-06,"31  The Elms, Classes Lake, Ovens",Cork,150000,second-hand,1-38 m2,Ovens,Ovens
+2013-02-11,"10 Manor Lnae, Ovens, Co Cork",Cork,32500,second-hand,1-38 m2,Co Cork,Ovens
+2013-04-22,"16 Lisheen Fields, Ovens",Cork,280000,new,38-125 m2,Ovens,Ovens
+2013-04-30,"10 Mossgrove, Classes Lake, Ovens",Cork,255500,second-hand,1-38 m2,Ovens,Ovens
+2013-04-30,"15 Lisheen Fields, Ovens",Cork,242290,new,38-125 m2,Ovens,Ovens
+2013-06-20,"10 The Brambles, Classes Lake, Ovens",Cork,225000,second-hand,1-38 m2,Ovens,Ovens
+2013-06-20,"14 Lisheen Fields, Ovens, Cork",Cork,264000,new,38-125 m2,Cork,Ovens
+2013-06-25,"46 The Willows, Classes Lake, Ovens",Cork,198000,second-hand,1-38 m2,Ovens,Ovens
+2013-06-26,"17 Lisheen Fields, Ovens",Cork,281938,new,125-1000 m2,Ovens,Ovens
+2013-06-28,"15 The Elms, Bridewood, Ovens",Cork,137500,second-hand,1-38 m2,Ovens,Ovens
+2013-07-01,"14 The Elms, Bridewood, Ovens",Cork,141000,second-hand,1-38 m2,Ovens,Ovens
+2013-07-05,"Ballygroman, Ovens",Cork,75000,second-hand,1-38 m2,Ovens,Ovens
+2013-07-05,"Woodlands  Upper Ballygroman, Kilumney, Ovens",Cork,280500,second-hand,1-38 m2,Ovens,Ovens
+2013-07-11,"Sherwood, Church Road, Ovens",Cork,265000,second-hand,1-38 m2,Ovens,Ovens
+2013-07-16,"18 Lisheen Fields, Ovens, Co.Cork",Cork,320000,new,38-125 m2,Co.Cork,Ovens
+2013-08-16,"8 Manor Lawn, Grange Manor, Ovens",Cork,170000,second-hand,1-38 m2,Ovens,Ovens
+2013-08-23,"58 Lisheen Fields, Ovens, County Cork",Cork,280000,new,38-125 m2,County Cork,Ovens
+2013-09-06,"5  The Circle, Grangemanor, Ovens",Cork,172000,second-hand,1-38 m2,Ovens,Ovens
+2013-10-04,"Cruchan Ruadh, Casey'S Road  Knockanemore, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2013-10-25,"Lynnwood, Knockane, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2013-11-01,"4 Manor Green, Grange Manor, Ovens",Cork,162000,second-hand,1-38 m2,Ovens,Ovens
+2013-11-08,"1  The Heathers, Classes Lake, Ovens",Cork,175000,second-hand,1-38 m2,Ovens,Ovens
+2013-11-27,"23 Manor Green, Grange Manor, Ovens",Cork,261000,second-hand,1-38 m2,Ovens,Ovens
+2013-11-28,"20 Lisheen Fields, Ovens, Cork",Cork,281983,new,38-125 m2,Cork,Ovens
+2013-11-29,"5 Beverly Court, Ovens",Cork,450000,second-hand,1-38 m2,Ovens,Ovens
+2013-12-03,"6 Valley View, Grange Manor, Ovens",Cork,349557,new,38-125 m2,Ovens,Ovens
+2013-12-04,"16 Manor Close, Grange Manor, Ovens",Cork,162000,second-hand,1-38 m2,Ovens,Ovens
+2013-12-18,"9 Holiday Cottages Farran Lee, Clashanure, Overn",Cork,750000,new,125-1000 m2,Overn,Ovens
+2013-12-19,"Dunedin, Knockanemore Ovens, Cork",Cork,210000,second-hand,1-38 m2,Cork,Ovens
+2013-12-23,"Southwinds, Ovensbridge, Ovens",Cork,425000,second-hand,1-38 m2,Ovens,Ovens
+2014-01-10,"Currabeg, Ovens, Cork",Cork,354325,second-hand,1-38 m2,Cork,Ovens
+2014-02-11,"63 Fernway, Bridewood, Ovens",Cork,81000,second-hand,1-38 m2,Ovens,Ovens
+2014-02-17,"57 Lisheen Fields, Ovens",Cork,243400,new,125-1000 m2,Ovens,Ovens
+2014-02-27,"Curraghbeg, Ovens, Co Cork",Cork,125500,second-hand,1-38 m2,Co Cork,Ovens
+2014-03-11,"6 The Cedars, Bridewood, Ovens",Cork,225000,second-hand,1-38 m2,Ovens,Ovens
+2014-03-18,"33 The Abbey, Classes Lake, Ovens",Cork,175000,second-hand,1-38 m2,Ovens,Ovens
+2014-04-09,"28 The Lodge, Classes Lake, Ovens",Cork,98000,second-hand,1-38 m2,Ovens,Ovens
+2014-04-22,"25 The Lodge, Classes Lake, Ovens",Cork,103000,second-hand,1-38 m2,Ovens,Ovens
+2014-04-28,"Grange Hill, Ovens",Cork,280000,second-hand,1-38 m2,Ovens,Ovens
+2014-05-02,"59  Lisheen Fields, Ovens",Cork,254625,new,125-1000 m2,Ovens,Ovens
+2014-05-09,"Currabeg, Ovens, Cork",Cork,295000,second-hand,1-38 m2,Cork,Ovens
+2014-05-19,"15 Berryfield, Classes Lake, Ovens",Cork,273000,second-hand,1-38 m2,Ovens,Ovens
+2014-05-23,"22 Lisheen Fields, Ovens, Co. Cork",Cork,279735,new,38-125 m2,Co. Cork,Ovens
+2014-05-29,"42 Lisheen Fields, Ovens",Cork,318000,second-hand,1-38 m2,Ovens,Ovens
+2014-06-03,"21 Lisheen Fields, Ovens",Cork,281938,new,125-1000 m2,Ovens,Ovens
+2014-06-04,"4 The Elms, Classes Lake, Ovens",Cork,195000,second-hand,1-38 m2,Ovens,Ovens
+2014-06-05,"5 Manor Lawn, Grange Manor, Ovens",Cork,175000,second-hand,1-38 m2,Ovens,Ovens
+2014-06-13,"23 Lisheen Fields, Ovens",Cork,279735,new,125-1000 m2,Ovens,Ovens
+2014-06-27,"19 The Meadows, Classes Lake, Ovens",Cork,381000,second-hand,1-38 m2,Ovens,Ovens
+2014-07-04,"22 Sycamores, Classes Lake, Ovens",Cork,210000,second-hand,1-38 m2,Ovens,Ovens
+2014-07-10,"24 Lisheen Fields, Ovens, Co. Cork",Cork,281938,new,38-125 m2,Co. Cork,Ovens
+2014-07-10,"9 Berryfield, Classis Lake, Ovens",Cork,80000,second-hand,1-38 m2,Ovens,Ovens
+2014-07-16,"3 Lee Valley Cottages, Ovens, Cork",Cork,112500,second-hand,1-38 m2,Cork,Ovens
+2014-07-18,"Valley View Cottage, Lackenreague, Ovens",Cork,190000,second-hand,1-38 m2,Ovens,Ovens
+2014-08-01,"35 The Brambles, Classis Lake, Ovens",Cork,257000,second-hand,1-38 m2,Ovens,Ovens
+2014-08-07,"48 Lisheen Fields, Ovens",Cork,241335,new,38-125 m2,Ovens,Ovens
+2014-08-11,"Garryhesta, Ovens, Cork",Cork,300000,second-hand,1-38 m2,Cork,Ovens
+2014-08-19,"1 Fernway, Classes Lake, Ovens",Cork,120000,second-hand,1-38 m2,Ovens,Ovens
+2014-08-21,"20 Westway, Grange Manor, Ovens",Cork,204000,second-hand,1-38 m2,Ovens,Ovens
+2014-08-21,"24 Elm Mews, Bridewood, Ovens",Cork,227000,second-hand,1-38 m2,Ovens,Ovens
+2014-08-21,"28 The Elms, Classes Lakes, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2014-08-25,"Apt 25 The Abbey, Bridgwood, Ciasses Lane Ovens",Cork,113500,second-hand,1-38 m2,Ciasses Lane Ovens,Ovens
+2014-09-12,"26 Lisheen Fields, Ovens, Co. Cork",Cork,281938,new,38-125 m2,Co. Cork,Ovens
+2014-09-12,"30 The Meadows, Classes Lake, Ovens",Cork,422500,second-hand,1-38 m2,Ovens,Ovens
+2014-09-12,"49 The Sycamores, Classis Lake, Ovens",Cork,224000,second-hand,1-38 m2,Ovens,Ovens
+2014-09-18,"Classis, Ovens, Co Cork",Cork,80000,second-hand,1-38 m2,Co Cork,Ovens
+2014-09-19,"56 Lisheen Fields, Ovens",Cork,249081,new,38-125 m2,Ovens,Ovens
+2014-09-19,"Knockanemore, Ovens, Co Cork",Cork,210000,second-hand,1-38 m2,Co Cork,Ovens
+2014-09-24,"13 The Elms, Classis Lake, Ovens",Cork,213000,second-hand,1-38 m2,Ovens,Ovens
+2014-09-26,"25 Lisheen Fields, Ovens, Co. Cork",Cork,286343,new,38-125 m2,Co. Cork,Ovens
+2014-09-26,"31 Lisheen Fields, Ovens, Co. Cork",Cork,242290,new,38-125 m2,Co. Cork,Ovens
+2014-10-10,"Lower Farran, Ovens",Cork,365000,second-hand,1-38 m2,Ovens,Ovens
+2014-10-13,"Currabeg, Ovens, Cork",Cork,352000,second-hand,1-38 m2,Cork,Ovens
+2014-10-28,"5 The Meadows Classes Lake Ovens, Cork",Cork,411000,second-hand,1-38 m2,Cork,Ovens
+2014-10-28,"55 Lisheen Fields, Ovens, Co. Cork",Cork,255506,new,38-125 m2,Co. Cork,Ovens
+2014-11-07,"9 Fern Way, Classis Lake, Ovens",Cork,130000,second-hand,1-38 m2,Ovens,Ovens
+2014-11-14,"9 The Elms, Classes Lake, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2014-11-21,"16 The Elms, Classes Lake Ovens, Cork",Cork,215000,second-hand,1-38 m2,Cork,Ovens
+2014-11-25,"Knockanemore, Ovens, Cork",Cork,230000,second-hand,1-38 m2,Cork,Ovens
+2014-11-26,"18 Manor Lawn, Grange Manor, Ovens",Cork,208000,second-hand,1-38 m2,Ovens,Ovens
+2014-12-15,"51 Lisheen Fields, Ovens",Cork,281759,new,125-1000 m2,Ovens,Ovens
+2014-12-18,"20 Manor Close, Grange Manor, Ovens",Cork,199000,second-hand,1-38 m2,Ovens,Ovens
+2014-12-18,"49 Lisheen Fields, Ovens",Cork,253507,new,38-125 m2,Ovens,Ovens
+2014-12-22,"1 Westway, Grange Manor, Ovens",Cork,219500,second-hand,1-38 m2,Ovens,Ovens
+2014-12-23,"18 The Cedars, Classes Lake Ovens, Cork",Cork,231000,second-hand,1-38 m2,Cork,Ovens
+2014-12-23,"50 Lisheen Fields, Ovens, Co Cork",Cork,255506,new,38-125 m2,Co Cork,Ovens
+2015-02-27,"Bride Park House, Killumney, Ovens",Cork,143542,second-hand,1-38 m2,Ovens,Ovens
+2015-03-12,"28 The Cedars, Bridewood, Ovens",Cork,245000,second-hand,1-38 m2,Ovens,Ovens
+2015-03-25,"12 Chestnut Grove, Classes Lake, Ovens",Cork,332500,second-hand,1-38 m2,Ovens,Ovens
+2015-03-31,"54 Lisheen Fields, Ovens, Co Cork",Cork,268722,new,38-125 m2,Co Cork,Ovens
+2015-04-02,"27 Lisheen Fields, Classes Lake, Ovens",Cork,295155,new,38-125 m2,Ovens,Ovens
+2015-04-03,"23 Berryfield, Classis Lake, Ovens",Cork,315000,second-hand,1-38 m2,Ovens,Ovens
+2015-04-15,"38 The Brambles, Classis Lake, Ovens",Cork,278000,second-hand,1-38 m2,Ovens,Ovens
+2015-05-15,"29 The Heathers, Classis Lake, Ovens",Cork,240000,second-hand,1-38 m2,Ovens,Ovens
+2015-05-18,"11 Oak Ave, Bridewood, Ovens",Cork,212000,second-hand,1-38 m2,Ovens,Ovens
+2015-05-25,"28 Manor Green, Grange Manor, Ovens",Cork,246000,second-hand,1-38 m2,Ovens,Ovens
+2015-05-26,"17 The Elms, Bridewood, Ovens",Cork,245000,second-hand,1-38 m2,Ovens,Ovens
+2015-06-04,"Grange Cross, Ovens, Co Cork",Cork,180000,second-hand,1-38 m2,Co Cork,Ovens
+2015-06-05,"53 Lisheen Fields, Ovens",Cork,335000,new,125-1000 m2,Ovens,Ovens
+2015-06-12,"'Gypsy'S Acre', Knockanemore, Ovens",Cork,295000,second-hand,1-38 m2,Ovens,Ovens
+2015-06-25,"14 Berryfield, Classis Lake, Ovens",Cork,310000,second-hand,1-38 m2,Ovens,Ovens
+2015-07-02,"52 Lisheen Fields, Ovens, Co Cork",Cork,343000,second-hand,1-38 m2,Co Cork,Ovens
+2015-07-07,"Grange Ovens, Cork",Cork,685000,second-hand,1-38 m2,Cork,Ovens
+2015-07-09,"Derrynane House, Ovens Rd, Farran",Cork,295000,second-hand,1-38 m2,Farran,Ovens
+2015-07-10,"8 Westway, Grange Manor, Ovens",Cork,221000,second-hand,1-38 m2,Ovens,Ovens
+2015-07-23,"26 Chestnut Grove, Classes Lane, Ovens Cork",Cork,350000,second-hand,1-38 m2,Ovens Cork,Ovens
+2015-07-28,"34 The Cedars, Classis Lake, Ovens",Cork,32898,second-hand,1-38 m2,Ovens,Ovens
+2015-07-29,"4 The Heathers, Classes Lake, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2015-08-12,"23 Elm Mews, Classis Lake, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2015-08-13,"12 Chestnut Crescent, Clasis Lake, Ovens Ballinacollig",Cork,439000,second-hand,1-38 m2,Ovens Ballinacollig,Ovens
+2015-08-13,"Westbury House, Windsor, Ovens",Cork,630000,second-hand,1-38 m2,Ovens,Ovens
+2015-08-27,"32 Fernway, Bridewood, Ovens",Cork,183000,second-hand,1-38 m2,Ovens,Ovens
+2015-09-04,"14 Grange Way, Grange Manor, Ovens",Cork,173000,second-hand,1-38 m2,Ovens,Ovens
+2015-09-08,"22 Chestnut Grove, Classis Lake, Ovens",Cork,307500,second-hand,1-38 m2,Ovens,Ovens
+2015-09-15,"5 The Heathers, Classes Lake, Ovens",Cork,254000,second-hand,1-38 m2,Ovens,Ovens
+2015-09-22,"Knockburden, Ovens, Cork",Cork,460000,second-hand,1-38 m2,Cork,Ovens
+2015-09-23,"15 Grange Court, Grange Manor, Ovens",Cork,242500,second-hand,1-38 m2,Ovens,Ovens
+2015-10-09,"6 Manor Grove, Grange Manor, Ovens",Cork,246500,second-hand,1-38 m2,Ovens,Ovens
+2015-10-23,"9 Manor Avenue, Grange Manor, Ovens",Cork,185000,second-hand,1-38 m2,Ovens,Ovens
+2015-10-28,"2 Manor Ave, Grange Manor, Ovens",Cork,235000,second-hand,1-38 m2,Ovens,Ovens
+2015-11-02,"4  The Willows, Classis Lake, Ovens",Cork,240000,second-hand,1-38 m2,Ovens,Ovens
+2015-11-10,"23 Chestnut Grove, Classes Lake, Ovens",Cork,320000,second-hand,1-38 m2,Ovens,Ovens
+2015-11-25,"Kilcrea Hill, Ovens",Cork,489000,second-hand,1-38 m2,Ovens,Ovens
+2015-12-01,"63 Fernway, Bridewood, Ovens",Cork,167000,second-hand,1-38 m2,Ovens,Ovens
+2015-12-04,"7 Manor Ave, Grange Manor, Owens",Cork,250000,second-hand,1-38 m2,Owens,Ovens
+2015-12-14,"17 The Heathers, Classis Lake, Ovens",Cork,255000,second-hand,1-38 m2,Ovens,Ovens
+2015-12-18,"16 Manor Green, Grange Manor, Ovens",Cork,170000,second-hand,1-38 m2,Ovens,Ovens
+2015-12-18,"2 Lisheen Woods, Ovens, Co. Cork",Cork,324375,new,38-125 m2,Co. Cork,Ovens
+2015-12-18,"3 Lisheen Woods, Ovens",Cork,330396,new,125-1000 m2,Ovens,Ovens
+2015-12-18,"4 Lisheen Woods, Ovens, Co. Cork",Cork,324375,new,38-125 m2,Co. Cork,Ovens
+2015-12-21,"Knockanemore, Ovens, Co.Cork",Cork,285000,second-hand,1-38 m2,Co.Cork,Ovens
+2015-12-23,"5 Lisheens Woods, Ovens",Cork,330396,new,38-125 m2,Ovens,Ovens
+2016-01-13,"6 Lisheen Woods, Ovens",Cork,330396,new,38-125 m2,Ovens,Ovens
+2016-01-29,"1 Lisheen Woods, Ovens",Cork,312775,new,38-125 m2,Ovens,Ovens
+2016-02-05,"Apt 9 The Mews, Classes Lake, Ovens",Cork,140000,second-hand,1-38 m2,Ovens,Ovens
+2016-02-05,"Tigh Molaga, Windsor, Ovens",Cork,290000,second-hand,1-38 m2,Ovens,Ovens
+2016-02-10,"1 Oak Dr, Classes Lake, Ovens",Cork,249999,second-hand,1-38 m2,Ovens,Ovens
+2016-02-12,"7 Lisheen Wood, Ovens",Cork,330396,new,125-1000 m2,Ovens,Ovens
+2016-02-24,"6 Manor Ave, Grange Manor, Ovens",Cork,255000,second-hand,1-38 m2,Ovens,Ovens
+2016-03-07,"24 The Abbey, Classes Lake, Ovens",Cork,190000,second-hand,1-38 m2,Ovens,Ovens
+2016-03-11,"17 Fernway Bridewood Ovens, Cork",Cork,130000,second-hand,1-38 m2,Cork,Ovens
+2016-03-24,"34  Berryfield, Classes Lake, Ovens",Cork,315000,second-hand,1-38 m2,Ovens,Ovens
+2016-04-07,"8 Lisheen Woods, Ovens",Cork,312776,new,38-125 m2,Ovens,Ovens
+2016-04-15,"15 Grange Way, Grange Manor, Ovens",Cork,223000,second-hand,1-38 m2,Ovens,Ovens
+2016-04-26,"17 Lisheen Woods, Ovens",Cork,312775,new,38-125 m2,Ovens,Ovens
+2016-05-12,"36 Lisheen Fields, Ovens, Co Cork",Cork,20000,second-hand,1-38 m2,Co Cork,Ovens
+2016-05-18,"Ballygroman Lower, Ovens, Cork",Cork,80000,second-hand,1-38 m2,Cork,Ovens
+2016-05-19,"Kilcrea, Ovens, Cork",Cork,150000,second-hand,1-38 m2,Cork,Ovens
+2016-05-20,"2 The Circle, Grange Manor, Ovens",Cork,330000,second-hand,1-38 m2,Ovens,Ovens
+2016-05-20,"47 The Willows, Classis Lake, Ovens",Cork,242000,second-hand,1-38 m2,Ovens,Ovens
+2016-05-25,"Clashanure Ovens, Cork",Cork,410000,second-hand,1-38 m2,Cork,Ovens
+2016-06-01,"19 Lisheen  Woods, Ovens, Co. Cork",Cork,298425,new,38-125 m2,Co. Cork,Ovens
+2016-06-10,"4 Manor Lane, Grange Manor, Ovens",Cork,200000,second-hand,1-38 m2,Ovens,Ovens
+2016-06-17,"11 Chestnut Crescent, Classis Lake, Ovens",Cork,470000,second-hand,1-38 m2,Ovens,Ovens
+2016-06-24,"20 The Mews, Classes Lake, Ovens",Cork,170000,second-hand,1-38 m2,Ovens,Ovens
+2016-06-24,"22 The Mews, Classes Lake, Ovens",Cork,170000,second-hand,1-38 m2,Ovens,Ovens
+2016-06-26,"24 The Mews, Classes Lake, Ovens",Cork,175000,second-hand,1-38 m2,Ovens,Ovens
+2016-07-06,"18 Lisheen Woods, Ovens, Co. Cork",Cork,307075,new,38-125 m2,Co. Cork,Ovens
+2016-07-08,"9 Chestnut Lawn, Classes Lake, Ovens",Cork,440000,second-hand,1-38 m2,Ovens,Ovens
+2016-07-11,"16 Manor Ave, Grange Manor, Ovens",Cork,185000,second-hand,1-38 m2,Ovens,Ovens
+2016-07-12,"6 The Abbey, Classes Lake, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2016-07-13,"35 The Meadows, Classis Lake, Ovens",Cork,480000,second-hand,1-38 m2,Ovens,Ovens
+2016-07-15,"20 Lisheen Woods, Ovens",Cork,303964,new,125-1000 m2,Ovens,Ovens
+2016-07-15,"9 Lisheen Woods, Ovens, Co Cork",Cork,329790,new,38-125 m2,Co Cork,Ovens
+2016-08-10,"11 Manor Lawn, Grange Manor, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2016-08-12,"Knockane, Ovens, Cork",Cork,321500,second-hand,1-38 m2,Cork,Ovens
+2016-08-15,"30 The Cedars, Bridewood, Ovens",Cork,250000,second-hand,1-38 m2,Ovens,Ovens
+2016-08-15,"7 The Meadows, Classis Lake, Ovens",Cork,442000,second-hand,1-38 m2,Ovens,Ovens
+2016-08-23,"Abbey Rd, Kilcrea, Ovens",Cork,240000,second-hand,1-38 m2,Ovens,Ovens
+2016-08-24,"Currabeg, Ovens, Cork",Cork,255000,second-hand,1-38 m2,Cork,Ovens
+2016-09-28,"18 Westway, Grange Manor, Ovens",Cork,215000,second-hand,1-38 m2,Ovens,Ovens
+2016-09-29,"12 The Elms Bridewood Ovens, Cork",Cork,265000,second-hand,1-38 m2,Cork,Ovens
+2016-09-29,"16 The Abbey, Classes Lake, Ovens",Cork,185000,second-hand,1-38 m2,Ovens,Ovens
+2016-10-04,"11 Lisheen Woods, Ovens, Co. Cork",Cork,345814,new,125-1000 m2,Co. Cork,Ovens
+2016-10-07,"21 Lisheen Woods, Ovens, Co. Cork",Cork,312775,new,38-125 m2,Co. Cork,Ovens
+2016-10-12,"10 Lisheen Woods, Ovens",Cork,341850,new,38-125 m2,Ovens,Ovens
+2016-10-14,"Abbey Rd Kilcrea Ovens, Cork",Cork,390000,second-hand,1-38 m2,Cork,Ovens
+2016-10-17,"30 Berryfield, Classes Lake, Ovens",Cork,410000,second-hand,1-38 m2,Ovens,Ovens
+2016-10-27,"Ballineadig, Ovens, Cork",Cork,405000,second-hand,1-38 m2,Cork,Ovens
+2016-10-28,"5 Grange Court, Ovens, Cork",Cork,206000,second-hand,1-38 m2,Cork,Ovens
+2016-11-01,"Knockanemore, Ovens, Cork",Cork,120000,second-hand,1-38 m2,Cork,Ovens
+2016-11-25,"27Westway Grangemanor Ovens, Cork",Cork,335000,second-hand,1-38 m2,Cork,Ovens
+2016-12-12,"33 The Brambles, Classis Lake, Ovens",Cork,320000,second-hand,1-38 m2,Ovens,Ovens
+2016-12-12,"9 The Circle, Grange Manor, Ovens",Cork,250000,second-hand,1-38 m2,Ovens,Ovens
+2016-12-15,"Killumney, Ovens, County Cork",Cork,172000,second-hand,1-38 m2,County Cork,Ovens
+2016-12-16,"Ballygroman Lower, Ovens, Cork",Cork,175000,second-hand,1-38 m2,Cork,Ovens
+2016-12-19,"25 Lisheen Woods, Ovens, Cork",Cork,365638,new,38-125 m2,Cork,Ovens
+2016-12-20,"19 Elm Mews, Classes Lake, Ovens",Cork,245000,second-hand,1-38 m2,Ovens,Ovens
+2016-12-21,"12 The Abbey, Classes Lak, Bridewood Ovens",Cork,180000,second-hand,1-38 m2,Bridewood Ovens,Ovens
+2016-12-21,"28 Lisheen Woods, Ovens",Cork,312775,new,125-1000 m2,Ovens,Ovens
+2016-12-28,"3 The Heathers, Classis Lake, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2017-01-09,"4 The Abbey, Classes Lake, Ovens",Cork,177000,new,38-125 m2,Ovens,Ovens
+2017-01-10,"17 The Brambles, Classes Lake, Ovens",Cork,350000,second-hand,1-38 m2,Ovens,Ovens
+2017-01-13,"14 Lisheen Woods, Ovens",Cork,333800,new,1-38 m2,Ovens,Ovens
+2017-01-13,"Glen House, Lower Ballygroman, Ovens",Cork,250000,second-hand,1-38 m2,Ovens,Ovens
+2017-01-24,"13 Manor Green, Grange Manor, Ovens",Cork,262000,second-hand,1-38 m2,Ovens,Ovens
+2017-01-24,"39 The Sycamores, Classes Lake, Ovens",Cork,252000,second-hand,1-38 m2,Ovens,Ovens
+2017-01-27,"12 Lisheens Wood, Ovens, Co Cork",Cork,343612,new,125-1000 m2,Co Cork,Ovens
+2017-01-27,"Garryhesta, Ovens, Co Cork",Cork,320000,second-hand,1-38 m2,Co Cork,Ovens
+2017-02-10,"9 Oak Ave, Bridewood Ovens, Cork",Cork,267000,second-hand,1-38 m2,Cork,Ovens
+2017-02-15,"1 Cleburne, Knockanemore, Ovens",Cork,242000,new,38-125 m2,Ovens,Ovens
+2017-02-17,"8 Chestnut Crescent, Classis Lake, Ovens",Cork,565000,second-hand,1-38 m2,Ovens,Ovens
+2017-02-27,"7 Manor Close, Grange Manor, Ovens",Cork,215000,second-hand,1-38 m2,Ovens,Ovens
+2017-03-01,"19 Manor Green, Grange Manor, Ovens",Cork,245000,second-hand,1-38 m2,Ovens,Ovens
+2017-03-06,"Coach Road, Knockanure, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2017-03-10,"17 Elm Mews, Classes Lake, Ovens",Cork,255000,new,38-125 m2,Ovens,Ovens
+2017-03-16,"15 Lisheen Woods, Ovens",Cork,343612,new,38-125 m2,Ovens,Ovens
+2017-03-16,"18 Elm Mews, Classes Lake, Ovens",Cork,245000,new,38-125 m2,Ovens,Ovens
+2017-03-16,"31 The Abbey, Classes Lake Ovens, Co Cork",Cork,190000,new,38-125 m2,Co Cork,Ovens
+2017-03-21,"16 Lisheen Woods, Ovens",Cork,334801,new,125-1000 m2,Ovens,Ovens
+2017-04-05,"12 Oak Avenue, Classes Lake, Ovens",Cork,235000,second-hand,1-38 m2,Ovens,Ovens
+2017-04-11,"26 Lisheen Woods, Ovens, Co. Cork",Cork,312775,new,38-125 m2,Co. Cork,Ovens
+2017-04-12,"13 Lisheen Woods, Ovens",Cork,390000,new,38-125 m2,Ovens,Ovens
+2017-04-13,"37 Lisheen Fields, Ovens, Co Cork",Cork,450000,second-hand,1-38 m2,Co Cork,Ovens
+2017-04-18,"18 Oak Ave, Classes Lake, Ovens",Cork,245000,second-hand,1-38 m2,Ovens,Ovens
+2017-05-04,"27 Lisheen Woods, Ovens",Cork,312700,new,125-1000 m2,Ovens,Ovens
+2017-05-09,"4 The Sycamores, Classes Lake, Ovens",Cork,265000,second-hand,1-38 m2,Ovens,Ovens
+2017-05-11,"23 Lisheen Woods, Ovens",Cork,361200,new,125-1000 m2,Ovens,Ovens
+2017-05-11,"33 The Sycamores, Classes Lake, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2017-05-12,"24 Lisheen Woods, Ovens",Cork,343612,new,38-125 m2,Ovens,Ovens
+2017-05-23,"St Anthonys, Barnagore, Ovens",Cork,38000,second-hand,1-38 m2,Ovens,Ovens
+2017-06-20,"15 Manor Green, Grange Manor Grange, Ovens",Cork,182500,second-hand,1-38 m2,Ovens,Ovens
+2017-06-23,"Knockburden, Ovens, Cork",Cork,480000,second-hand,1-38 m2,Cork,Ovens
+2017-06-30,"13 The Meadows, Classis Lake, Ovens",Cork,490000,second-hand,1-38 m2,Ovens,Ovens
+2017-07-20,"Knockanemore, Ovens, Co Cork",Cork,269000,second-hand,1-38 m2,Co Cork,Ovens
+2017-07-25,"33 The Abbey, Classes Lake, Ovens",Cork,305000,second-hand,1-38 m2,Ovens,Ovens
+2017-07-25,"57 Lisheen Fields, Ovens, Co Cork",Cork,390000,second-hand,1-38 m2,Co Cork,Ovens
+2017-08-03,"7 Beverly, Ovens, Cork",Cork,480000,second-hand,1-38 m2,Cork,Ovens
+2017-08-07,"The Cottage Srelane, Ovens, Co. Cork",Cork,85000,second-hand,1-38 m2,Co. Cork,Ovens
+2017-08-10,"21 The Brambles, Classes Lake, Ovens",Cork,325000,second-hand,1-38 m2,Ovens,Ovens
+2017-08-14,"41 The Sycamores, Classis Lake, Ovens",Cork,290000,second-hand,1-38 m2,Ovens,Ovens
+2017-08-24,"20 The Brambles, Classes Lake, Ovens",Cork,370000,second-hand,1-38 m2,Ovens,Ovens
+2017-08-25,"Hollygrove, Kilnaglory, Ovens",Cork,310000,second-hand,1-38 m2,Ovens,Ovens
+2017-09-08,"7 Manor Green, Grange Manor, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2017-09-12,"6 Grange Way, Grange Manor, Ovens",Cork,180000,second-hand,1-38 m2,Ovens,Ovens
+2017-09-16,"8 Woodbury, Killumney Rd, Ovens",Cork,510000,second-hand,1-38 m2,Ovens,Ovens
+2017-09-19,"16 Grange Court, Grange Manor, Ovens",Cork,225000,second-hand,1-38 m2,Ovens,Ovens
+2017-09-20,"5 Mossgrove, Classes Lake, Ovens Cork",Cork,355000,second-hand,1-38 m2,Ovens Cork,Ovens
+2017-09-22,"43 The Sycamores, Classis Lake, Ovens",Cork,7000,second-hand,1-38 m2,Ovens,Ovens
+2017-10-03,"Avondale, Garryhesta, Ovens",Cork,335000,second-hand,1-38 m2,Ovens,Ovens
+2017-10-06,"29 Lisheen Woods, Ovens",Cork,325991,new,125-1000 m2,Ovens,Ovens
+2017-10-19,"13 Manor Grove, Grange Manor, Ovens",Cork,236000,second-hand,1-38 m2,Ovens,Ovens
+2017-10-24,"31  Lisheen Woods, Ovens, County Cork",Cork,325991,new,125-1000 m2,County Cork,Ovens
+2017-10-25,"7 Manor Lane, Grange Manor, Ovens",Cork,225000,second-hand,1-38 m2,Ovens,Ovens
+2017-10-26,"32 Lisheen Woods, Ovens, Co Cork",Cork,312775,new,38-125 m2,Co Cork,Ovens
+2017-10-26,"4 Grange Way, Grange Manor, Ovens",Cork,237500,second-hand,1-38 m2,Ovens,Ovens
+2017-11-03,"33 Lisheen Woods, Ovens",Cork,325991,new,38-125 m2,Ovens,Ovens
+2017-11-07,"Teach Umadora, Ovens, Cork",Cork,275000,second-hand,1-38 m2,Cork,Ovens
+2017-11-10,"2 The Elms, Bridewood, Ovens",Cork,227000,second-hand,1-38 m2,Ovens,Ovens
+2017-11-14,"42 The Brambles, Classis Lake, Ovens",Cork,360000,second-hand,1-38 m2,Ovens,Ovens
+2017-11-21,"11 The Cedars, Bridswood, Ovens",Cork,290000,second-hand,1-38 m2,Ovens,Ovens
+2017-11-24,"11 The Circle, Grange Manor, Ovens",Cork,240000,second-hand,1-38 m2,Ovens,Ovens
+2017-11-30,"Cluain Siar, Ballygroman Lower, Ovens",Cork,650000,second-hand,1-38 m2,Ovens,Ovens
+2017-12-04,"Garryhesta, Ovens, Cork",Cork,405000,second-hand,1-38 m2,Cork,Ovens
+2017-12-05,"22 The Abbey, Classes Lake, Ovens",Cork,192500,second-hand,1-38 m2,Ovens,Ovens
+2017-12-07,"30 Lisheen Woods, Ovens",Cork,325991,new,125-1000 m2,Ovens,Ovens
+2017-12-08,"3 The Elms, Classes Lake, Ovens",Cork,235000,second-hand,1-38 m2,Ovens,Ovens
+2017-12-20,"35  Lisheen Woods, Ovens",Cork,325992,new,1-38 m2,Ovens,Ovens
+2018-01-17,"4 Oak Ave, Classis Lake, Ovens",Cork,255000,second-hand,1-38 m2,Ovens,Ovens
+2018-02-05,"21 The Sycamores, Classes Lake Ovens, Cork",Cork,285000,second-hand,1-38 m2,Cork,Ovens
+2018-02-09,"11 The Abbey, Classes Lake, Ovens",Cork,187665,second-hand,1-38 m2,Ovens,Ovens
+2018-02-09,"26 Westway, Grange Manor, Ovens",Cork,405000,second-hand,1-38 m2,Ovens,Ovens
+2018-02-14,"8 The Heathers, Classis Lake, Ovens",Cork,300000,second-hand,1-38 m2,Ovens,Ovens
+2018-02-22,"Grange, Ovens, Cork",Cork,310000,second-hand,1-38 m2,Cork,Ovens
+2018-03-07,"Ballygroman Lower, Ovens, Cork",Cork,375000,second-hand,1-38 m2,Cork,Ovens
+2018-03-08,"33 The Sycamores, Classes Lake, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2018-03-12,"Curraghbeg, Ovens, County Cork",Cork,50000,second-hand,1-38 m2,County Cork,Ovens
+2018-03-14,"25 Chestnut Grove, Classes Lakes, Ovens",Cork,350000,second-hand,1-38 m2,Ovens,Ovens
+2018-03-26,"19 The Sycamores, Classis Lake Ovens, Cork",Cork,270000,second-hand,1-38 m2,Cork,Ovens
+2018-03-29,"34 Lisheen Woods, Ovens, Co. Cork",Cork,326000,new,38-125 m2,Co. Cork,Ovens
+2018-03-30,"16 Manor Grove, Grange Manor, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2018-04-05,"22 Elm Mews, Classes Lake, Ovens",Cork,260000,second-hand,1-38 m2,Ovens,Ovens
+2018-04-09,"Clashanure House, Clashanure, Ovens",Cork,140000,second-hand,1-38 m2,Ovens,Ovens
+2018-04-23,"Barnagore, Ovens, Cork",Cork,250000,second-hand,1-38 m2,Cork,Ovens
+2018-04-26,"7 Grange Way, Grange Manor, Ovens",Cork,271000,second-hand,1-38 m2,Ovens,Ovens
+2018-04-27,"29 The Meadows, Classes Lake, Ovens",Cork,440000,second-hand,1-38 m2,Ovens,Ovens
+2018-05-01,"36 Lisheen Woods, Ovens",Cork,325991,new,125-1000 m2,Ovens,Ovens
+2018-05-04,"48 The Meadows, Classis Lake, Ovens",Cork,440000,second-hand,1-38 m2,Ovens,Ovens
+2018-05-24,"39 Lisheen Woods, Ovens",Cork,400881,new,125-1000 m2,Ovens,Ovens
+2018-06-07,"41 Lisheen Woods, Ovens",Cork,409692,new,125-1000 m2,Ovens,Ovens
+2018-06-08,"1 Westway, Grange Manor, Ovens",Cork,238000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-08,"21 Manor Grove, Grange Manor, Ovens",Cork,405000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-08,"37 Lisheen Woods, Ovens",Cork,325991,new,38-125 m2,Ovens,Ovens
+2018-06-12,"21 The Abbey, Classes Ave, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-12,"32 The Abbey, Classes Lake, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-12,"9 The Abbey, Classes Lake, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-12,"Apt 17 The Mews, Classes Lake, Ovens",Cork,195000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-19,"7 Lisheen Fields, Ballincollig, Ovens",Cork,419000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-20,"11 Grange Way, Grange Manor, Ovens",Cork,265000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-20,"Srelane House, Knockanemore, Ovens",Cork,900000,second-hand,1-38 m2,Ovens,Ovens
+2018-06-25,"4 Lisheen Fields, Ovens, Cork",Cork,373000,second-hand,1-38 m2,Cork,Ovens
+2018-06-29,"Chelsea, Ballygrowanupper, Ovens",Cork,425000,second-hand,1-38 m2,Ovens,Ovens
+2018-07-04,"8 Grange Court, Grange Manor, Ovens",Cork,197000,second-hand,1-38 m2,Ovens,Ovens
+2018-07-06,"23 The Lodge, Classes Lake, Ovens",Cork,263000,second-hand,1-38 m2,Ovens,Ovens
+2018-07-06,"Dunbhride, Knockanemore, Ovens",Cork,660000,second-hand,1-38 m2,Ovens,Ovens
+2018-07-17,"33 The Brambles, Classis Lake, Ovens",Cork,326600,second-hand,1-38 m2,Ovens,Ovens
+2018-07-18,"2 The Heathers, Classis Lake, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2018-07-26,"43 Lisheen Woods, Ovens",Cork,325991,new,125-1000 m2,Ovens,Ovens
+2018-07-27,"6 The Circle, Grange Manor, Ovens",Cork,290000,second-hand,1-38 m2,Ovens,Ovens
+2018-08-01,"8 Manor Grove, Grange Manor, Ovens",Cork,227500,second-hand,1-38 m2,Ovens,Ovens
+2018-08-02,"40 Lisheen Woods, Ovens",Cork,405286,new,38-125 m2,Ovens,Ovens
+2018-09-14,"2  Manor Close, Grange Manor, Ovens",Cork,408000,second-hand,1-38 m2,Ovens,Ovens
+2018-09-17,"10 Valley View, Grange Manor, Ovens",Cork,550000,second-hand,1-38 m2,Ovens,Ovens
+2018-09-24,"26 Manor Green, Grange Manor, Ovens",Cork,225000,second-hand,1-38 m2,Ovens,Ovens
+2018-10-15,"44 Lisheen Woods, Ovens",Cork,325991,new,38-125 m2,Ovens,Ovens
+2018-10-15,"7 Apsley Court, Killumney, Ovens",Cork,460000,second-hand,1-38 m2,Ovens,Ovens
+2018-10-17,"3 Lisheen Fields, Ovens, Cork",Cork,375000,second-hand,1-38 m2,Cork,Ovens
+2018-10-23,"Knockanemore, Ovens, Cork",Cork,265000,second-hand,1-38 m2,Cork,Ovens
+2018-10-25,"42 Lisheen Woods, Ovens, Co. Cork",Cork,339207,new,38-125 m2,Co. Cork,Ovens
+2018-10-26,"38 Lisheen Woods, Ovens, Cork",Cork,392070,new,38-125 m2,Cork,Ovens
+2018-11-02,"10 Grange Way, Grange Manor, Ovens",Cork,230000,second-hand,1-38 m2,Ovens,Ovens
+2018-11-16,"Apt 11, The Mews, Classis Lake Ovens",Cork,217500,second-hand,1-38 m2,Classis Lake Ovens,Ovens
+2018-11-16,"Blackcross, Knocknatrinane, Ovens",Cork,325000,second-hand,1-38 m2,Ovens,Ovens
+2018-11-16,"Boreen Na, Knockanemore, Ovens",Cork,550000,second-hand,1-38 m2,Ovens,Ovens
+2018-12-05,"4 The Cedars, Classes Lake, Ovens",Cork,269000,second-hand,1-38 m2,Ovens,Ovens
+2018-12-06,"21 Manor Ave, Grange Manor, Ovens",Cork,254000,second-hand,1-38 m2,Ovens,Ovens
+2018-12-12,"23 The Cedars, Bridewood, Ovens",Cork,258000,second-hand,1-38 m2,Ovens,Ovens
+2018-12-14,"1 Manor Lane, Grange Manor, Ovens",Cork,249000,second-hand,1-38 m2,Ovens,Ovens
+2018-12-14,"72 Lisheen Woods, Ovens, Co. Cork",Cork,330396,new,1-38 m2,Co. Cork,Ovens
+2018-12-18,"22 Beverly, Ovens, Co Cork",Cork,480000,second-hand,1-38 m2,Co Cork,Ovens
+2018-12-18,"Aglish, Farran, Ovens",Cork,470000,second-hand,1-38 m2,Ovens,Ovens
+2018-12-18,"Ballygroman Lower, Ovens, Cork",Cork,590000,second-hand,1-38 m2,Cork,Ovens
+2018-12-19,"45 Lisheen Woods, Ovens",Cork,320050,new,1-38 m2,Ovens,Ovens
+2019-01-04,"69 Lisheen Woods, Ovens, Co. Cork",Cork,330396,new,1-38 m2,Co. Cork,Ovens
+2019-01-18,"19 Grange Glen Grange Manor Ovens, Cork",Cork,242500,second-hand,1-38 m2,Cork,Ovens
+2019-01-23,"Grange, Ovens, Cork",Cork,300000,second-hand,1-38 m2,Cork,Ovens
+2019-01-23,"Grange, Ovens, Cork",Cork,60000,second-hand,1-38 m2,Cork,Ovens
+2019-01-24,"3 The Willows, Classes Lake, Ovens",Cork,285000,second-hand,1-38 m2,Ovens,Ovens
+2019-01-25,"6 Manor Lawn, Grange Manor, Ovens",Cork,270000,second-hand,1-38 m2,Ovens,Ovens
+2019-01-30,"15 The Lodge, Classes Lake, Ovens",Cork,185000,second-hand,1-38 m2,Ovens,Ovens
+2019-02-12,"68 Lisheen Woods, Ovens, County Cork",Cork,330396,new,1-38 m2,County Cork,Ovens
+2019-02-15,"10 Grange Court, Grange Manor, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2019-02-19,"Clashanure, Ovens, Cork",Cork,525000,second-hand,1-38 m2,Cork,Ovens
+2019-02-21,"15 The Elms, Classis Lake, Ovens",Cork,255000,second-hand,1-38 m2,Ovens,Ovens
+2019-02-21,"Knockane, Ovens, Cork",Cork,370000,second-hand,1-38 m2,Cork,Ovens
+2019-02-25,"5 The Meadows, Classes Lake, Ovens",Cork,470000,second-hand,1-38 m2,Ovens,Ovens
+2019-02-27,"65 Lisheen Woods, Ovens",Cork,330396,new,1-38 m2,Ovens,Ovens
+2019-03-01,"70 Lisheen Woods, Classes Lake, Ovens",Cork,330396,new,1-38 m2,Ovens,Ovens
+2019-03-04,"5 Manor Grove, Grange Manor, Ovens",Cork,325000,second-hand,1-38 m2,Ovens,Ovens
+2019-03-14,"61 Lisheen Woods, Ovens",Cork,330396,new,1-38 m2,Ovens,Ovens
+2019-03-21,"71 Lisheen Woods, Ovens",Cork,330396,new,1-38 m2,Ovens,Ovens
+2019-03-28,"6 Beverly Court, Ovens, Cork",Cork,550000,second-hand,1-38 m2,Cork,Ovens
+2019-04-01,"3 The Cedars, Classes Lake Ovens, Cork",Cork,265000,second-hand,1-38 m2,Cork,Ovens
+2019-04-05,"74 Lisheen Woods, Ovens, Co. Cork",Cork,409691,new,1-38 m2,Co. Cork,Ovens
+2019-04-08,"63 Lisheen Woods, Ovens, Co. Cork",Cork,330396,new,1-38 m2,Co. Cork,Ovens
+2019-04-11,"8 The Sycamores, Classes Lake, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2019-04-12,"6 The Cedars, Bridewood, Ovens",Cork,280000,second-hand,1-38 m2,Ovens,Ovens
+2019-04-17,"18 Manor Green, Grange Manor Ovens, Cork",Cork,275000,second-hand,1-38 m2,Cork,Ovens
+2019-04-23,"64 Lisheen Woods, Ovens, Co. Cork",Cork,330396,new,1-38 m2,Co. Cork,Ovens
+2019-05-03,"10 Westway, Grange Manor, Ovens",Cork,240000,second-hand,1-38 m2,Ovens,Ovens
+2019-05-03,"14 Elm Mews, Classis Lake, Ovens",Cork,272000,second-hand,1-38 m2,Ovens,Ovens
+2019-05-15,"62 Lisheen Woods, Ovens, Co. Cork",Cork,330396,new,1-38 m2,Co. Cork,Ovens
+2019-05-27,"27 Lisheen Woods, Ovens, Cork",Cork,410000,second-hand,1-38 m2,Cork,Ovens
+2019-05-31,"67 Lisheen Woods, Ovens",Cork,324375,new,1-38 m2,Ovens,Ovens
+2019-06-06,"12 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-06-11,"5 Lee Valley Holiday Cotages, Clashanure, Ovens",Cork,165000,second-hand,1-38 m2,Ovens,Ovens
+2019-06-13,"1 The Ferns, Classess  Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-06-13,"2 The Ferns, Classes Lake, Ovens",Cork,268722,new,1-38 m2,Ovens,Ovens
+2019-06-13,"3 The Ferns, Classes Lake, Ovens",Cork,268722,new,1-38 m2,Ovens,Ovens
+2019-06-13,"4 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-06-14,"17 Mossgrove, Classes Lake, Ovens",Cork,490000,second-hand,1-38 m2,Ovens,Ovens
+2019-06-14,"7 Ferns, Classes Lake, Ovens",Cork,268722,new,1-38 m2,Ovens,Ovens
+2019-06-18,"6 Farren Lee Cottages, Lee Vally, Ovens",Cork,147000,second-hand,1-38 m2,Ovens,Ovens
+2019-06-18,"8 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-06-18,"9 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-06-19,"No. 5 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-06-21,"10 The Ferns, Classes Lake, Ovens",Cork,268722,new,1-38 m2,Ovens,Ovens
+2019-06-21,"6 The Ferns, Classes Lake, Ovens",Cork,268722,new,1-38 m2,Ovens,Ovens
+2019-06-25,"No. 11 The Ferns, Classes Lake, Ovens",Cork,268722,new,1-38 m2,Ovens,Ovens
+2019-07-01,"12 The Abbey, Classes Lak, Bridewood Ovens",Cork,211000,second-hand,1-38 m2,Bridewood Ovens,Ovens
+2019-07-12,"13 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-07-12,"14 The Ferns, Classes Lake, Ovens",Cork,255506,new,1-38 m2,Ovens,Ovens
+2019-07-18,"17 The Ferns, Classes Lake, Ovens",Cork,255506,new,1-38 m2,Ovens,Ovens
+2019-07-19,"5 The Mews, Classis Lakes, Ovens",Cork,216000,second-hand,1-38 m2,Ovens,Ovens
+2019-07-19,"66 Lisheen Woods, Ovens, Co. Cork",Cork,334801,new,1-38 m2,Co. Cork,Ovens
+2019-07-25,"15 The Ferns, Classes Lake, Ovens",Cork,277533,new,1-38 m2,Ovens,Ovens
+2019-07-31,"1 The Mews, Classis Lake, Ovens",Cork,219000,second-hand,1-38 m2,Ovens,Ovens
+2019-07-31,"5 Grange Glen, Grange Manor, Ovens",Cork,266402,second-hand,1-38 m2,Ovens,Ovens
+2019-07-31,"59 Lisheen Woods, Ovens, Co. Cork",Cork,418502,new,1-38 m2,Co. Cork,Ovens
+2019-08-02,"21 Elm Mews, Classes Lake, Ovens",Cork,285000,second-hand,1-38 m2,Ovens,Ovens
+2019-08-02,"7 The Mews, Classis Lake, Ovens",Cork,218000,second-hand,1-38 m2,Ovens,Ovens
+2019-08-08,"1 Elmwalk, Classes Lake, Ovens",Cork,495000,second-hand,1-38 m2,Ovens,Ovens
+2019-08-09,"34 Oldcourt, Greenfields, Kilumney Rd Ovens",Cork,295000,second-hand,1-38 m2,Kilumney Rd Ovens,Ovens
+2019-08-13,"21 The Ferns, Classes Lake, Ovens",Cork,277533,new,1-38 m2,Ovens,Ovens
+2019-08-15,"18  The Ferns, Classes Lake, Ovens",Cork,277533,new,1-38 m2,Ovens,Ovens
+2019-08-15,"Grange Hill Cottage, Grange Cross, Ovens",Cork,460000,second-hand,1-38 m2,Ovens,Ovens
+2019-08-28,"Clashanure, Ovens, Co Cork",Cork,585000,second-hand,1-38 m2,Co Cork,Ovens
+2019-09-02,"16 The Ferns, Classes Lake, Ovens",Cork,277533,new,1-38 m2,Ovens,Ovens
+2019-09-13,"73 Lisheen Woods, Ovens, Co. Cork",Cork,383259,new,1-38 m2,Co. Cork,Ovens
+2019-09-25,"9 Fern Way, Classis Lake, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2019-09-27,"10 Grange Court, Grange Manor, Ovens",Cork,277000,second-hand,1-38 m2,Ovens,Ovens
+2019-09-27,"Apt 16, The Mews, Classes Lake Ovens",Cork,215000,second-hand,1-38 m2,Classes Lake Ovens,Ovens
+2019-10-04,"14 Chestnut Crescent, Classes Lake, Ovens",Cork,250000,second-hand,1-38 m2,Ovens,Ovens
+2019-10-11,"12 The Heathers, Classis Lake, Ovens",Cork,310000,second-hand,1-38 m2,Ovens,Ovens
+2019-10-11,"21 Manor Close, Grange Manor, Ovens",Cork,255000,second-hand,1-38 m2,Ovens,Ovens
+2019-10-11,"8 Crannog, Knockanemore, Ovens",Cork,530000,second-hand,1-38 m2,Ovens,Ovens
+2019-10-31,"20 The Ferns, Classes Lake, Ovens",Cork,255506,new,1-38 m2,Ovens,Ovens
+2019-11-08,"21 The Cedars, Classis Lake, Ovens",Cork,294500,second-hand,1-38 m2,Ovens,Ovens
+2019-11-11,"Maddison, Killumney Village, Ovens",Cork,320000,second-hand,1-38 m2,Ovens,Ovens
+2019-11-15,"29 Fern Way, Classis Lake, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2019-11-15,"60 Lisheen  Woods, Ovens",Cork,410875,new,1-38 m2,Ovens,Ovens
+2019-11-15,"9 The Lodge, Classes Lake, Ovens",Cork,255000,second-hand,1-38 m2,Ovens,Ovens
+2019-11-18,"4 Manor Green, Grange Manor, Ovens",Cork,246000,second-hand,1-38 m2,Ovens,Ovens
+2019-11-22,"36 The Cedars, Bridewood, Ovens",Cork,258000,second-hand,1-38 m2,Ovens,Ovens
+2019-12-02,"22 The Ferns, Classes Lake, Ovens",Cork,277533,new,1-38 m2,Ovens,Ovens
+2019-12-03,"24  The Ferns, Classes Lake, Ovens",Cork,255506,new,1-38 m2,Ovens,Ovens
+2019-12-03,"25 The Ferns, Classes Lake, Ovens",Cork,277533,new,1-38 m2,Ovens,Ovens
+2019-12-04,"23 The Ferns, Classes Lake, Ovesns",Cork,255506,new,1-38 m2,Ovesns,Ovens
+2019-12-04,"27 The Ferns, Classes Lake, Ovens",Cork,255506,new,1-38 m2,Ovens,Ovens
+2019-12-05,"55 Lisheen Woods, Ovens, Co. Cork",Cork,361233,new,1-38 m2,Co. Cork,Ovens
+2019-12-10,"29 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-12-12,"26 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2019-12-16,"30 The Ferns, Classes Lake, Ovens",Cork,286343,new,1-38 m2,Ovens,Ovens
+2019-12-17,"31 The Ferns, Classes Lake, Ovens",Cork,290000,new,1-38 m2,Ovens,Ovens
+2019-12-19,"32 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2020-01-09,"28  The Ferns, Classes Lake, Ovens",Cork,255506,new,1-38 m2,Ovens,Ovens
+2020-01-16,"7 Oak Dr, Classis Lake, Ovens",Cork,263000,second-hand,1-38 m2,Ovens,Ovens
+2020-01-16,"Ballineadig, Ovens, Cork",Cork,325000,second-hand,1-38 m2,Cork,Ovens
+2020-01-17,"13 Grange Court, Grange Manor, Ovens",Cork,246000,second-hand,1-38 m2,Ovens,Ovens
+2020-01-20,"38 The Ferns, Classes Lake, Ovens",Cork,259500,new,1-38 m2,Ovens,Ovens
+2020-01-24,"8 Oak Dr, Classis Lake, Ovens",Cork,285000,second-hand,1-38 m2,Ovens,Ovens
+2020-01-29,"39 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2020-02-06,"37 The Ferns, Classes Lake, Ovens",Cork,281938,new,1-38 m2,Ovens,Ovens
+2020-02-24,"28 The Willows, Classis Lake, Ovens",Cork,245000,second-hand,1-38 m2,Ovens,Ovens
+2020-02-25,"15 Oak Ave, Bridewood, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2020-02-25,"16 Oak Ave, Classes Lake, Ovens",Cork,240000,second-hand,1-38 m2,Ovens,Ovens
+2020-03-06,"14 Oak Ave, Classes Lake, Ovens",Cork,220000,second-hand,1-38 m2,Ovens,Ovens
+2020-03-12,"66 Lisheen Woods, Ovens, Co. Cork",Cork,395000,second-hand,1-38 m2,Co. Cork,Ovens
+2020-03-16,"No 3 Holiday Cottages Farran Lee, Clashanure, Ovens",Cork,850000,second-hand,1-38 m2,Ovens,Ovens
+2020-03-26,"49 Lisheen Woods, Ovens",Cork,405286,new,1-38 m2,Ovens,Ovens
+2020-03-26,"Windsor, Ovens, Cork",Cork,290000,second-hand,1-38 m2,Cork,Ovens
+2020-03-30,"Brookhaven, Kilumney, Ovens",Cork,530000,second-hand,1-38 m2,Ovens,Ovens
+2020-05-14,"36 Woodberry, Greenfields, Ovens",Cork,350000,second-hand,1-38 m2,Ovens,Ovens
+2020-05-20,"30 The Sycamores, Classis Lake, Ovens",Cork,250000,second-hand,1-38 m2,Ovens,Ovens
+2020-06-05,"18 The Brambles, Classis Lake, Ovens",Cork,360000,second-hand,1-38 m2,Ovens,Ovens
+2020-06-10,"46 Lisheen Woods, Ovens, Co. Cork.",Cork,405286,new,1-38 m2,Co. Cork.,Ovens
+2020-06-22,"6 Grange Glen Grange Manor Ovens, Cork",Cork,235000,second-hand,1-38 m2,Cork,Ovens
+2020-06-25,"48 Lisheens, Ovens",Cork,409691,new,1-38 m2,Ovens,Ovens
+2020-07-10,"25 Berryfield, Classes Lake, Ovens",Cork,345000,second-hand,1-38 m2,Ovens,Ovens
+2020-07-10,"Ballygroman Lower, Killumney, Ovens",Cork,70000,second-hand,1-38 m2,Ovens,Ovens
+2020-07-20,"8 The Sycamores, Classes Lake, Ovens",Cork,260000,second-hand,1-38 m2,Ovens,Ovens
+2020-07-27,"23 Manor Green, Grange Manor, Ovens",Cork,425000,second-hand,1-38 m2,Ovens,Ovens
+2020-07-30,"47 Lisheen Woods, Ovens, County Cork",Cork,409691,new,1-38 m2,County Cork,Ovens
+2020-08-19,"The Willows, Lisheens, Ovens",Cork,368000,second-hand,1-38 m2,Ovens,Ovens
+2020-08-28,"17 Manor Green, Grange Manor, Ovens",Cork,282000,second-hand,1-38 m2,Ovens,Ovens
+2020-09-04,"26 The Elms, Classis Lake, Ovens",Cork,265000,second-hand,1-38 m2,Ovens,Ovens
+2020-09-09,"29 Berryfield, Classes Lake, Ovens",Cork,392000,second-hand,1-38 m2,Ovens,Ovens
+2020-09-14,"11 Manor Close, Grane Manor, Ovens",Cork,310000,second-hand,1-38 m2,Ovens,Ovens
+2020-09-16,"1 The Circle, Grange Manor, Ovens",Cork,413000,second-hand,1-38 m2,Ovens,Ovens
+2020-10-01,"20 Elm Mews, Classes Lake, Ovens",Cork,285000,second-hand,1-38 m2,Ovens,Ovens
+2020-10-13,"50 Lisheen Woods, Ovens, Co. Cork",Cork,400881,new,1-38 m2,Co. Cork,Ovens
+2020-10-15,"5 Elm Mews, Classes Lake, Ovens",Cork,275000,second-hand,1-38 m2,Ovens,Ovens
+2020-10-23,"58 Lisheen Woods, Ovens, Co. Cork",Cork,414096,new,1-38 m2,Co. Cork,Ovens
+2020-10-23,"Daisy Lane Knockane Ovens, Cork",Cork,450000,second-hand,1-38 m2,Cork,Ovens
+2020-10-30,"40 The Cedars, Classis Lake, Ovens",Cork,285000,second-hand,1-38 m2,Ovens,Ovens
+2020-11-09,"2 Elm Walk, Classes Lake, Ovens",Cork,500000,second-hand,1-38 m2,Ovens,Ovens
+2020-11-11,"9 The Circle, Grange Manor, Ovens",Cork,282000,second-hand,1-38 m2,Ovens,Ovens
+2020-11-16,"47 The Sycamores Classes Lake Ovens, Cork",Cork,282000,second-hand,1-38 m2,Cork,Ovens
+2020-11-23,"42 The Sycamores, Classis Lake, Ovens",Cork,280000,second-hand,1-38 m2,Ovens,Ovens
+2020-11-25,"17 The Heathers, Classis Lake, Ovens",Cork,295000,second-hand,1-38 m2,Ovens,Ovens
+2020-12-03,"37 The Willows, Classes Lake, Ovens",Cork,285000,second-hand,1-38 m2,Ovens,Ovens
+2020-12-08,"29 Manor Grove, Grange Manor, Ovens",Cork,255000,second-hand,1-38 m2,Ovens,Ovens
+2020-12-08,"57 Lisheen Woods, Ovens, Co Cork",Cork,470000,new,1-38 m2,Co Cork,Ovens
+2020-12-10,"Windsor, Ovens, Cork",Cork,320000,second-hand,1-38 m2,Cork,Ovens
+2020-12-11,"12 Manor Grove, Grange Manor, Ovens",Cork,280000,second-hand,1-38 m2,Ovens,Ovens
+2020-12-15,"Carrigafoyle, Windsor, Ovens",Cork,455000,second-hand,1-38 m2,Ovens,Ovens
+2020-12-16,"Kilnaglory, Ovens",Cork,300000,new,1-38 m2,Ovens,Ovens
+2020-12-18,"15 Lisheen Woods, Ovens, Cork",Cork,440000,second-hand,1-38 m2,Cork,Ovens
+2020-12-18,"51 Lisheen Woods, Ovens",Cork,414096,new,1-38 m2,Ovens,Ovens
+2020-12-22,"Springmount, Castlelinch, Ovens",Cork,484000,second-hand,1-38 m2,Ovens,Ovens
+2021-01-13,"41 The Sycamores, Classis Lake, Ovens",Cork,280000,second-hand,1-38 m2,Ovens,Ovens
+2021-01-26,"16 The Elms, Classes Lake Ovens, Cork",Cork,284000,second-hand,1-38 m2,Cork,Ovens
+2021-02-02,"14 Grange Court, Grange Manor, Ovens",Cork,236000,second-hand,1-38 m2,Ovens,Ovens
+2021-02-04,"7 Oak Dr, Classis Lake, Ovens",Cork,101200,second-hand,1-38 m2,Ovens,Ovens
+2021-02-26,"10 The Elms, Classes Lake Ovens, Cork",Cork,68838,second-hand,1-38 m2,Cork,Ovens
+2021-03-01,"Windsor, Ovens, Co Cork",Cork,600000,second-hand,1-38 m2,Co Cork,Ovens
+2021-03-02,"21 Manor Green, Grange Manor, Ovens",Cork,305000,second-hand,1-38 m2,Ovens,Ovens
+2021-03-04,"10 Manor Grove, Grange Manor, Ovens",Cork,270000,second-hand,1-38 m2,Ovens,Ovens
+2021-03-11,"15 The Willows, Classis Lake, Ovens",Cork,270000,second-hand,1-38 m2,Ovens,Ovens
+2021-03-11,"55 Fernway, Classes Lake, Ovens",Cork,216000,second-hand,1-38 m2,Ovens,Ovens
+2021-03-19,"15 Mossgrove, Classis Lake, Ovens",Cork,477500,second-hand,1-38 m2,Ovens,Ovens
+2021-03-22,"27 The Willows, Classis Lake, Ovens",Cork,280000,second-hand,1-38 m2,Ovens,Ovens
+2021-03-25,"An Tigh Tuaithe, Castleinch, Ovens",Cork,159000,second-hand,1-38 m2,Ovens,Ovens
+2021-03-29,"7 The Oaks Classes Lake Ovens, Cork",Cork,380000,second-hand,1-38 m2,Cork,Ovens
+2021-03-31,"12 Oak Dr, Classes Lake, Ovens",Cork,110000,second-hand,1-38 m2,Ovens,Ovens
+2021-04-09,"52 Lisheen Woods, Ovens, Cork",Cork,414096,new,1-38 m2,Cork,Ovens
+2021-04-12,"Garryhesta, Ovens, Co Cork",Cork,245000,second-hand,1-38 m2,Co Cork,Ovens
+2021-04-19,"4 Elm Walk, Classes Lake, Ovens",Cork,645000,second-hand,1-38 m2,Ovens,Ovens
+2021-04-21,"22 Berryfield, Classes Lake, Ovens",Cork,367500,second-hand,1-38 m2,Ovens,Ovens
+2021-04-27,"53 Lisheen Woods, Ovens, Co Cork",Cork,414096,new,1-38 m2,Co Cork,Ovens
+2021-04-29,"54 Lisheen Woods, Ovens",Cork,419823,new,1-38 m2,Ovens,Ovens
+2021-05-14,"56 Lisheen Woods, Ballincollig, Ovens",Cork,414097,new,1-38 m2,Ovens,Ovens
+2021-05-25,"Valley View, Farran Hill, Ovens",Cork,320000,second-hand,1-38 m2,Ovens,Ovens
